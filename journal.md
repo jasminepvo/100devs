@@ -3,8 +3,7 @@
 ##### Todays's Progress
 
 • Started and finished Class 01 lecture on YouTube  
-• Start Class 01 homework - Coursera course "Learning How To Learn"  
- - https://coursera.org/share/ace875e4dd605145d75886055799dee7
+• Start Class 01 homework - [Coursera course "Learning How To Learn"](https://coursera.org/share/ace875e4dd605145d75886055799dee7)  
 • Set an action plan for completing the course  
  Mon-Fri 11AM-7PM with the pomodoro method and 1hr for lunch break  
  Sat-Sun Watch at least 1 class  
@@ -26,11 +25,9 @@
 
 ##### Todays's Progress
 
-• Started and finished Class 02 lecture on YouTube
-
-- followed along the brownies.html lab
-  • Finished Class 01 homework - Coursera course "Learning How To Learn"  
-   - https://coursera.org/share/ace875e4dd605145d75886055799dee7
+• Started and finished Class 02 lecture on YouTube  
+ - followed along the brownies.html lab
+• Finished Class 01 homework - [Coursera course "Learning How To Learn"](https://coursera.org/share/ace875e4dd605145d75886055799dee7)
 
 ##### Thoughts
 
@@ -48,7 +45,7 @@
 ##### Todays's Progress
 
 • Started and finished Class 03 lecture on YouTube  
-• Completed Class 02 homework - bcc.html
+• Completed Class 02 homework - [bcc.html](bcc.html)  
 • Started Class 04 lecture on YouTube
 
 ##### Thoughts
