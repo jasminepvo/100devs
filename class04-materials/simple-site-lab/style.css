@@ -1,24 +1,39 @@
+/* @media (min-width:850px, max-height:1000px) {
+  background-color: blue;
+} */
 body {
   background-color: #87ceeb;
-  border: 5px solid #48cd31;
+  border: 4px solid limegreen;
   color: #ffff;
   padding: 20px 40px;
-  margin: 30px;
-  max-width: 500px;
-  max-height: 500px;
+  margin: 20px;
+  max-width: 850px;
+  max-height: 1000px;
 }
 
 h1 {
   font-style: italic;
+  font-weight: lighter;
+}
+
+h2,
+ul {
+  font-family: "Roboto", sans-serif;
+  font-weight: 4px;
 }
 
 p {
   color: #eeeeee;
+  /* clearfix hack
+    overflow: auto;
+    zoom: 1; */
 }
 
 img {
   float: right;
   margin: 0 0 1em 1em;
+  max-width: 230px;
+  max-height: 230px;
 }
 
 footer {
@@ -32,8 +47,16 @@ a {
 header,
 footer {
   text-align: center;
+  clear: both;
 }
 
 ul {
   list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+}
+
+span {
+  color: rgb(117, 117, 117);
 }
