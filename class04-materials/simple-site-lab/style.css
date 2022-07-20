@@ -1,4 +1,39 @@
 body {
-  background-color: lightblue;
-  border: 5px solid limegreen;
+  background-color: #87ceeb;
+  border: 5px solid #48cd31;
+  color: #ffff;
+  padding: 20px 40px;
+  margin: 30px;
+  max-width: 500px;
+  max-height: 500px;
+}
+
+h1 {
+  font-style: italic;
+}
+
+p {
+  color: #eeeeee;
+}
+
+img {
+  float: right;
+  margin: 0 0 1em 1em;
+}
+
+footer {
+  color: #4acc99;
+}
+
+a {
+  color: #4acc99;
+}
+
+header,
+footer {
+  text-align: center;
+}
+
+ul {
+  list-style: none;
 }

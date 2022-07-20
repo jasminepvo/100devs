@@ -61,6 +61,25 @@
 
 • Class 4 touched on CSS and learnlayouts was a good website to cover the basics
 
+• I started doing ANKI and just making the cards, I can feel myself retaining the knowledge.
+
 "Go deep, not wide." - go deep with material and not spreading yourself too thin/wide
+
+---
+
+### Day 4: July 20, 2022
+
+##### Todays's Progress
+
+• Started and finished Class 03 lecture on YouTube
+
+##### Thoughts
+
+• Navy Seal - "If you want to change the world, don't back down from the sharks."
+
+• HACKS - if you're on mac, digital color meter is built in to grab colors for design
+To comment: select text then command /
+
+• Class 5 - vomit code for now and refactor later aka clean up the code, put it in a bag and throw it away. Note: don't watch this lecture while eating, that gif of the chunky milk was horrendous.
 
 ---
