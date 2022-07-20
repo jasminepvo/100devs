@@ -1,8 +1,22 @@
 /* NO classes or IDs */
-/* Please Make only World and Zebra Blue */
+/* Please Make only World and Zebra Blue... 2 pts */
+section > h2 {
+  color: blue;
+}
 
-/* Please Make only Zebra Purple */
+/* Please Make only Zebra Purple... 3 pts */
+section > h2 + h2 {
+  color: purple;
+}
 
-/* Please Make only Hufflepuff Gold */
+/* Please Make only Hufflepuff Gold ... 4 pts */
+section article > h2 + h2 {
+  color: gold;
+}
 
-/* Please keep Hufflepuff Gold and make ONLY Unicorn Gray  */
+/* Please keep Hufflepuff Gold and make ONLY Unicorn Gray... 3 pt  */
+section article > h2 {
+  color: gray;
+}
+
+/* Rules of specificity are very important here and overriding the Cascade */
