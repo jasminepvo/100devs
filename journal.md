@@ -47,12 +47,12 @@
 ##### Todays's Progress
 
 • Started and finished Class 03 lecture on YouTube  
-• Completed Class 02 homework - [bcc.html](./class02-materials/bbc.html)
-• Completed Class 03 homework - [tech crunch](./class-03-materials/tech-crunch.html) and [khan academy](./class-03-materials/khan-academy.html)
-• Started and finished Class 04 lecture on YouTube
-• Started Class 04 - [simple site lab](./class04-materials/simple-site-lab/simple-site.html)
-• Took the five minute [typing test](www.typingtest.com) and got 64wpm
-• Practiced typing with [www.keybr.com](www.keybr.com) and got 82 wpm, stuck on q
+• Completed Class 02 homework - [bcc.html](./class02-materials/bbc.html)  
+• Completed Class 03 homework - [tech crunch](./class-03-materials/tech-crunch.html) and [khan academy](./class-03-materials/khan-academy.html)  
+• Started and finished Class 04 lecture on YouTube  
+• Started Class 04 - [simple site lab](./class04-materials/simple-site-lab/simple-site.html)  
+• Took the five minute [typing test](www.typingtest.com) and got 64wpm  
+• Practiced typing with [www.keybr.com](www.keybr.com) and got 82 wpm, stuck on q  
 • Read [learn layout](www.learnlayout.com)
 
 ##### Thoughts
@@ -61,6 +61,6 @@
 
 • Class 4 touched on CSS and learnlayouts was a good website to cover the basics
 
-"Go deep, not wide" - go deep with material and not spreading yourself too thin/wide
+"Go deep, not wide." - go deep with material and not spreading yourself too thin/wide
 
 ---
