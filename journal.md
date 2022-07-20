@@ -25,16 +25,18 @@
 
 ##### Todays's Progress
 
-• Started and finished Class 02 lecture on YouTube  
- - followed along the brownies.html lab
-• Finished Class 01 homework - [Coursera course "Learning How To Learn"](https://coursera.org/share/ace875e4dd605145d75886055799dee7)
+• Started and finished Class 02 lecture on YouTube
+
+- followed along the brownies.html lab
+  • Finished Class 01 homework - [Coursera course "Learning How To Learn"](https://coursera.org/share/ace875e4dd605145d75886055799dee7)
 
 ##### Thoughts
 
-• I found the Coursera course far more interesting than I originally thought. It taught me literally how to learn/take tests and the science behind the brain's thought process. HIGHLY RECOMMEND 10/10  
- - focus mode (high concentration) and diffuse mode (moving your body allows the brain to wander and make connections to what you learned in focus mode) are both VITAL in learning... this is where the pomodoro method comes in  
- - active recall, over a spaced out period of time leads to long term memory  
- - sleep is VERY IMPORTANT because it allows the brain to grow so reviewing before you sleep can be beneficial aka focus mode then diffuse mode when sleeping
+• I found the Coursera course far more interesting than I originally thought. It taught me literally how to learn/take tests and the science behind the brain's thought process. HIGHLY RECOMMEND 10/10
+
+- focus mode (high concentration) and diffuse mode (moving your body allows the brain to wander and make connections to what you learned in focus mode) are both VITAL in learning... this is where the pomodoro method comes in
+- active recall, over a spaced out period of time leads to long term memory
+- sleep is VERY IMPORTANT because it allows the brain to grow so reviewing before you sleep can be beneficial aka focus mode then diffuse mode when sleeping
 
 • Class 2 was more of introductions and then a review of html for me. I was happy that I was able to complete the lab portion without any problem or confusion reaffirming my knowledge of html.
 
@@ -45,9 +47,20 @@
 ##### Todays's Progress
 
 • Started and finished Class 03 lecture on YouTube  
-• Completed Class 02 homework - [bcc.html](bcc.html)  
-• Started Class 04 lecture on YouTube
+• Completed Class 02 homework - [bcc.html](./class02-materials/bbc.html)
+• Completed Class 03 homework - [tech crunch](./class-03-materials/tech-crunch.html) and [khan academy](./class-03-materials/khan-academy.html)
+• Started and finished Class 04 lecture on YouTube
+• Started Class 04 - [simple site lab](./class04-materials/simple-site-lab/simple-site.html)
+• Took the five minute [typing test](www.typingtest.com) and got 64wpm
+• Practiced typing with [www.keybr.com](www.keybr.com) and got 82 wpm, stuck on q
+• Read [learn layout](www.learnlayout.com)
 
 ##### Thoughts
+
+• Class 3 dove a lot into structuring HTML and assigning semantic tags. Learned that we should try to use semantically correct tags over div. The labs were super easy for me to complete!
+
+• Class 4 touched on CSS and learnlayouts was a good website to cover the basics
+
+"Go deep, not wide" - go deep with material and not spreading yourself too thin/wide
 
 ---

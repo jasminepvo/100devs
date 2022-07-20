@@ -1,0 +1,18 @@
+h1 {
+  color: purple;
+}
+
+/* Make only world and zebra blue (both direct children of section), not unicorn or duck */
+section > h2 {
+  color: blue;
+}
+
+/* Make only unicorn and duck red */
+article > h2 {
+  color: red;
+}
+
+/* Make only unicorn orange - this overrides bc of specifity - more specific */
+section article h2 {
+  color: orange;
+}
