@@ -1,0 +1,18 @@
+/* avoid the math, tell the browser to ignore the borders */
+* {
+  box-sizing: border-box;
+}
+
+header,
+footer {
+  border: 2px solid gold;
+  height: 100px;
+  clear: both; /* this means if anything is floating, it stays where its at - so the footer doesn't slide up */
+}
+
+section {
+  border: 2px solid gold;
+  height: 300px;
+  width: 33.333%; /* since divided by 3 to fill the middle section to make 3 columns */
+  float: left; /* the sections floated and footer hit the header */
+}
