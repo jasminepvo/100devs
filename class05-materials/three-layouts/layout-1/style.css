@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+  color: lightslategray;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+
+header,
+footer {
+  border: 2px solid bisque;
+  height: 100px;
+  clear: both;
+}
+
+section {
+  height: 100px;
+  overflow: hidden;
+}
+
+.row2 {
+  border: 2px solid lightskyblue;
+  width: 33.333%;
+  float: left;
+}
+
+.row3 {
+  border: 2px solid lightpink;
+  width: 50%;
+  float: left;
+}
+
+/* .clearfix:after {
+  content: ".";
+  visibility: hidden;
+  display: block;
+  height: 0;
+  clear: both;
+}  */
