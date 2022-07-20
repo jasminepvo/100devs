@@ -19,15 +19,18 @@ section {
 .row2 {
   border: 2px solid lightskyblue;
   height: 100px;
-  width: 33.333%;
-  float: left;
+  width: 100%;
 }
 
 .row3 {
   border: 2px solid lightpink;
   height: 150px;
-  width: 50%;
+  width: 40%;
   float: left;
+}
+
+.bigger {
+  width: 60%;
 }
 
 /* .clearfix:after {
