@@ -85,7 +85,7 @@ P.S. ✔️ are for homeworks that needed to be turned in on either [codepen](ww
 • Completed Class 05 homework - [Layout 1](./class05-materials/three-layouts/layout-1/index.html) ✔️<br>
 • Completed Class 05 homework - [Layout 2](./class05-materials/three-layouts/layout-2/index.html) ✔️<br>
 • Completed Class 05 homework - [Layout 3](./class05-materials/three-layouts/layout-3/index.html) ✔️<br>
-• Started and finished Class 06 lecture on YouTube<br>
+• Started Class 06 lecture on YouTube<br>
 
 #### Thoughts
 
@@ -107,6 +107,39 @@ P.S. ✔️ are for homeworks that needed to be turned in on either [codepen](ww
 - sleepytime.com was mentioned to track your sleep
 
 • Hurray! I finished the css homeworks. My perfectionism kicked in while doing the Simple Site lab and I think it's pretty accurate other than making the border responsive with the background color. I have no idea on how to do that YET but I'm waiting to watch the responsive lecture. Three layouts using ONLY float was actually easier than I thought it would be. This display layout confused me on freeCodeCamp and TOP but Leon explained it so well that I'd like to say I'm pretty good with floats now 😎
+
+---
+
+### Day 5: July,21 2022
+
+#### Todays's Progress
+
+• Finished Class 06 lecture on YouTube and completed all in-class labs/pushed to Github<br>
+• Took ANKI notes during lecture<br>
+• Started and finished Class 07 lecture on YouTube<br>
+• Completed Class 06 homework - 15 Min of Pain Responsive<br>
+
+BONUS: Attend Startups Oasis Networking in ATL at ATDC @7PM
+
+#### Thoughts
+
+• The motivational video for the day was by Eric Thomas again. I listened first thing when I woke up and the aggressive energy definitely got me going for the day. It felt like a push in the right direction so I enjoyed it.<br>
+
+• Class 06 reviewed HTML & CSS with 4 coding labs in class which I loved. Active learning is where I stay the most focused and retain the most information. I've been making web pages but didn't think to make a template file. Again, I love the cool little tips that add value to my coding. Touched on responsive websites which will be next class - so excited for this!<br>
+
+- normalize.css -> default styling that is consistent upon every browser
+- reset.css -> scorch the earth and get rid of everything single default that comes from the browser, start from scratch
+- media queries -> give us the ability to display certain rules at certain screen sizes for responsiveness. Ex. this rule only applies when the screensize is between 0 and 600 pixels<br>
+
+```
+@media screen and (max-width: 600px)
+  h1 {
+    color: blue;
+  }
+}
+```
+
+• Class 07 learned responsiveness to make content accessible across all devices.
 
 ---
 
