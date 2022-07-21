@@ -109,3 +109,15 @@ P.S. ✔️ are for homeworks that needed to be turned in on either [codepen](ww
 • Hurray! I finished the css homeworks. My perfectionism kicked in while doing the Simple Site lab and I think it's pretty accurate other than making the border responsive with the background color. I have no idea on how to do that YET but I'm waiting to watch the responsive lecture. Three layouts using ONLY float was actually easier than I thought it would be. This display layout confused me on freeCodeCamp and TOP but Leon explained it so well that I'd like to say I'm pretty good with floats now 😎
 
 ---
+
+<!-- TEMPLATE
+### Day : , 2022
+
+#### Todays's Progress
+
+
+
+#### Thoughts
+
+
+--- -->
