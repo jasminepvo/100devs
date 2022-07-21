@@ -8,14 +8,14 @@ a {
 /* Please make the section have a height of 200px, a 10px thick blue border, and a light orange background */
 section {
   height: 200px;
-  border: 10px solid thick blue;
+  border: 10px solid blue;
   background-color: lightsalmon;
 }
 
 /* Please make the aside have a height of 300px, a thin red border, and a teal background  */
 aside {
   height: 300px;
-  border: 2px solid thin red;
+  border: 2px solid red;
   background-color: teal;
 }
 
@@ -24,4 +24,5 @@ aside {
   color: white;
   font-size: 18px;
   text-decoration: underline red;
+  /* border-bottom: 2px solid purple; */
 }
