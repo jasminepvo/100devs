@@ -1,8 +1,32 @@
-/* avoid the math, tell the browser to ignore the borders */
+/* Box Model Hack - avoid the math, tell the browser to ignore the borders*/
 * {
   box-sizing: border-box;
 }
 
+/* Clear fix hack */
+.clearfix:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+}
+
+.clear {
+  clear: both;
+}
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+
+body {
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
 header,
 footer {
   border: 2px solid gold;
@@ -15,4 +39,29 @@ section {
   height: 300px;
   width: 33.333%; /* since divided by 3 to fill the middle section to make 3 columns */
   float: left; /* the sections floated and footer hit the header */
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+@media screen and (max-width: 600px) {
+  header,
+  section,
+  footer {
+    border: 3px solid lightcoral;
+  }
+}
+@media screen and (max-width: 600px) {
+  section {
+    clear: both;
+    float: left;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  header,
+  footer {
+    height: 50px;
+  }
 }
