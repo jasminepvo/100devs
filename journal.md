@@ -47,8 +47,8 @@
 #### Todays's Progress
 
 • Started and finished Class 03 lecture on YouTube<br>
-• Completed Class 02 homework - [bcc.html](./class02-materials/bbc.html)<br>
-• Completed Class 03 homework - HTML layout for [Tech Crunch](./class-03-materials/tech-crunch.html) and [Khan Academy](./class-03-materials/khan-academy.html)<br>
+• Completed Class 02 homework - [bcc.html](./class02-materials/bbc.html) ✔️<br>
+• Completed Class 03 homework - HTML layout for [Tech Crunch](./class-03-materials/tech-crunch.html) and [Khan Academy](./class-03-materials/khan-academy.html) ✔️<br>
 • Started and finished Class 04 lecture on YouTube<br>
 • Started Class 04 homework - [Simple Site Lab](./class04-materials/simple-site-lab/simple-site.html)<br>
 • Took the five minute [typingtest.com](www.typingtest.com) and got 64wpm<br>
@@ -70,6 +70,8 @@
 
 "Go deep, not wide." - go deep with material and not spreading yourself too thin/wide. <br>
 
+P.S. ✔️ are for homeworks that needed to be turned in on either [codepen](www.codepen.com/jasminepvo) or [glitch](glitch.com/jasminepvo)
+
 ---
 
 ### Day 4: July 20, 2022
@@ -79,10 +81,11 @@
 • Started and finished Class 05 lecture on YouTube<br>
 • Took ANKI notes during lecture<br>
 • Completed Class 05 lab - [15 Minutes of Pain](./class05-materials/15-min-of-pain-layout/index.html)<br>
-• Completed Class 4 homework - [Simple Site Lab](./class04-materials/simple-site-lab/simple-site.html)<br>
-• Complete Class 05 homework - [Layout 1](./class05-materials/three-layouts/layout-1/index.html)<br>
-• Complete Class 05 homework - [Layout 2](./class05-materials/three-layouts/layout-2/index.html)<br>
-• Complete Class 05 homework - [Layout 3](./class05-materials/three-layouts/layout-3/index.html)<br>
+• Completed Class 04 homework - [Simple Site Lab](./class04-materials/simple-site-lab/index.html) ✔️<br>
+• Completed Class 05 homework - [Layout 1](./class05-materials/three-layouts/layout-1/index.html) ✔️<br>
+• Completed Class 05 homework - [Layout 2](./class05-materials/three-layouts/layout-2/index.html) ✔️<br>
+• Completed Class 05 homework - [Layout 3](./class05-materials/three-layouts/layout-3/index.html) ✔️<br>
+• Started and finished Class 06 lecture on YouTube<br>
 
 #### Thoughts
 
@@ -96,9 +99,13 @@
 - Countdown is built in and useful for Pomodoro method<br>
 - To comment: select text then command + / (command + forward slash) <br>
 
-• Class 5 - vomit code for now and refactor later aka clean up the code, put it in a bag and throw it away. Note: don't watch this lecture while eating, that gif of the chunky milk was horrendous.<br>
+• Class 5 - vomit code for now and refactor later aka clean up the code, put it in a bag and throw it away. Note: don't watch this lecture while eating, that gif of the chunky milk was horrendous. Other than that, I'm enjoying the active recall by still reviewing topics from Class 1. Everything feels drilled into my brain and I've been getting good sleep so cheers to memory consolidation. 🥂<br>
 
 - reiterating rules of Cascade, specificity and relationships<br>
 - floats, apparently more common in the industry<br>
+- separate css folder for style.css sheets to address separation of concerns<br>
+- sleepytime.com was mentioned to track your sleep
+
+• Hurray! I finished the css homeworks. My perfectionism kicked in while doing the Simple Site lab and I think it's pretty accurate other than making the border responsive with the background color. I have no idea on how to do that YET but I'm waiting to watch the responsive lecture. Three layouts using ONLY float was actually easier than I thought it would be. This display layout confused me on freeCodeCamp and TOP but Leon explained it so well that I'd like to say I'm pretty good with floats now 😎
 
 ---
