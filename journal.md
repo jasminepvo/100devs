@@ -1,4 +1,4 @@
-### Day 1: July 15, 2022
+### Day 1: July 15, 2022 - Friday
 
 #### Todays's Progress
 
@@ -23,7 +23,7 @@
 
 ---
 
-### Day 2: July 18, 2022
+### Day 2: July 18, 2022 - Monday
 
 #### Todays's Progress
 
@@ -42,7 +42,7 @@
 
 ---
 
-### Day 3: July 19, 2022
+### Day 3: July 19, 2022 - Tuesday
 
 #### Todays's Progress
 
@@ -74,7 +74,7 @@ P.S. ✔️ are for homeworks that needed to be turned in on either [codepen](ww
 
 ---
 
-### Day 4: July 20, 2022
+### Day 4: July 20, 2022 - Wednesday
 
 #### Todays's Progress
 
@@ -110,7 +110,7 @@ P.S. ✔️ are for homeworks that needed to be turned in on either [codepen](ww
 
 ---
 
-### Day 5: July,21 2022
+### Day 5: July,21 2022 - Thursday
 
 #### Todays's Progress
 
@@ -144,7 +144,9 @@ BONUS: Attend Startups Oasis Networking in ATL at ATDC @7PM
 
 - Don't click apply to a job and stop.. network. make sure an eagle picks up your resume. find 3 individuals already in tech and have 2 coffee chats every week so when you finish, you'll have x connections (x = 3 * #ofweeks so.. 150=5*30)<br>
 - Networking is making friends, say their name!! Stranger -> Acquaintance -> Friend -> Referral -> Coworker (The referral might get a bonus from the company and you might skip first round interview) WAYS TO FIND: Meetups.com, conferences, google interest + conference or #100devs-events (attend for free by volunteering!!! never eat alone, ask in discord), community groups (codeforamerica has different chapters, hackathons, womenwhocode chapter), apps like (Lunchclub or Bumble Bizz), talk to friends & family and tell them you're a software engineer. more on notion... <br>
-- ***
+- 
+
+---
 
 <!-- TEMPLATE
 ### Day : , 2022
