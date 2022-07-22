@@ -116,11 +116,11 @@ P.S. ✔️ are for homeworks that needed to be turned in on either [codepen](ww
 
 • Finished Class 06 lecture on YouTube and completed all in-class labs/pushed to Github<br>
 • Took ANKI notes during lecture<br>
-• Started and finished Class 07 lecture on YouTube<br>
+• Started Class 07 lecture on YouTube<br>
 • Completed Class 06 homework - 15 Min of Pain Responsive<br>
-• Finished Class 06 lecture on YouTube and completed all in-class labs/pushed to Github<br>
+• Started and finished Class 09 lecture on YouTube<br>
 
-BONUS: Attend Startups Oasis Networking in ATL at ATDC @7PM
+BONUS: Attend Startups Oasis Networking in ATL at ATDC @7PM<br>
 
 #### Thoughts
 
@@ -140,11 +140,29 @@ BONUS: Attend Startups Oasis Networking in ATL at ATDC @7PM
 }
 ```
 
-• Class 07 learned responsiveness to make content accessible across all devices.
+• Class 07 learned responsiveness to make content accessible across all devices. Continued on to networking portion which I took tons of notes over. Then had my networking meetup at night that went amazing! I got to meet so many cool, nice people in the startup world and learn about the Atlanta ecosystem. So much fun, honestly and makes me so excited!<br>
 
 - Don't click apply to a job and stop.. network. make sure an eagle picks up your resume. find 3 individuals already in tech and have 2 coffee chats every week so when you finish, you'll have x connections (x = 3 * #ofweeks so.. 150=5*30)<br>
 - Networking is making friends, say their name!! Stranger -> Acquaintance -> Friend -> Referral -> Coworker (The referral might get a bonus from the company and you might skip first round interview) WAYS TO FIND: Meetups.com, conferences, google interest + conference or #100devs-events (attend for free by volunteering!!! never eat alone, ask in discord), community groups (codeforamerica has different chapters, hackathons, womenwhocode chapter), apps like (Lunchclub or Bumble Bizz), talk to friends & family and tell them you're a software engineer. more on notion... <br>
-- 
+
+---
+
+### Day 6: July 22, 2022 - Friday
+
+#### Todays's Progress
+
+• Video call to help another member understand floats and responsiveness<br>
+• Finished Class 07 lecture on YouTube<br>
+• Started and finished Class 08 lecture on YouTube<br>
+• Started Class 08 homework - <br>
+
+#### Thoughts
+
+• Felt awesome to be able to help Tosin and she said it clicks now! I love teaching and giving whatever I can (even though it's still early knowledge I can't wait to have more and be able to help more) to help others.<br>
+
+• Class 08 was tying everything we've done up to this point into making real website layouts. I like his baddie Tina emphasis on writing bad code for now. Just get it done! That's how you learn is by making mistakes, not trying to get it done perfectly the first time. I'M EXCITED TO START! <br>
+
+"Get rid of the fear. We're baddies and we write bad code. The sooner you give up on perfection. The sooner you embrace that and just try to write code of any shape size or form, your world changes. Free yourself. In the process of writing bad code, you'll find things to change or update but you have to start and you'll get better. Get here first and be Tina." <br>
 
 ---
 
