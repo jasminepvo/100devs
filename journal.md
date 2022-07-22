@@ -118,6 +118,7 @@ P.S. ✔️ are for homeworks that needed to be turned in on either [codepen](ww
 • Took ANKI notes during lecture<br>
 • Started and finished Class 07 lecture on YouTube<br>
 • Completed Class 06 homework - 15 Min of Pain Responsive<br>
+• Finished Class 06 lecture on YouTube and completed all in-class labs/pushed to Github<br>
 
 BONUS: Attend Startups Oasis Networking in ATL at ATDC @7PM
 
@@ -141,7 +142,9 @@ BONUS: Attend Startups Oasis Networking in ATL at ATDC @7PM
 
 • Class 07 learned responsiveness to make content accessible across all devices.
 
----
+- Don't click apply to a job and stop.. network. make sure an eagle picks up your resume. find 3 individuals already in tech and have 2 coffee chats every week so when you finish, you'll have x connections (x = 3 * #ofweeks so.. 150=5*30)<br>
+- Networking is making friends, say their name!! Stranger -> Acquaintance -> Friend -> Referral -> Coworker (The referral might get a bonus from the company and you might skip first round interview) WAYS TO FIND: Meetups.com, conferences, google interest + conference or #100devs-events (attend for free by volunteering!!! never eat alone, ask in discord), community groups (codeforamerica has different chapters, hackathons, womenwhocode chapter), apps like (Lunchclub or Bumble Bizz), talk to friends & family and tell them you're a software engineer. more on notion... <br>
+- ***
 
 <!-- TEMPLATE
 ### Day : , 2022
