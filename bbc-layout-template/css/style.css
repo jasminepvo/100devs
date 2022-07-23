@@ -20,17 +20,60 @@
 /******************************************
 /* BASE STYLES
 /*******************************************/
-
-body {
+body * {
+  border: 2px solid lavenderblush;
 }
 
 /******************************************
 /* LAYOUT
 /*******************************************/
+/* Head of the page - header */
 header {
+  height: 100px;
+  background-color: black;
+  color: white;
+}
+nav * {
+  float: left;
+  width: 10%;
+  color: white;
+  display: block;
+}
+nav ul {
+  list-style: none;
+  width: 70%;
+}
+nav input {
+  width: 100%;
 }
 
-footer {
+/* Middle of the page - main */
+main > section {
+  border: 2px solid blue;
+  height: 400px;
+  float: left;
+  width: 50%;
+}
+main > h2 {
+  border: 2px solid green;
+  height: 20px;
+  /* float: left; */
+  /* width: 50%;
+  clear: both; */
+}
+main > section > section {
+  border: 2px solid gold;
+  height: 200px;
+  float: left;
+  width: 50%;
+}
+
+/* Bottom of the page - News section */
+main + section > section {
+  height: 300px;
+  border: 5px solid red;
+  float: left;
+  width: 33%;
 }
 
 /******************************************
