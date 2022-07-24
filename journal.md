@@ -168,6 +168,19 @@ BONUS: Attend Startups Oasis Networking in ATL at ATDC @7PM  🤝🏼<br>
 
 ---
 
+### Day 7: July 23, 2022 - Saturday
+
+#### Todays's Progress
+
+• Started Class 08 homework - [Layout Replica of TechCrunch](./techcrunch-layout-template/index.html)<br>
+![](./techcrunch-layout-template/finsihedLayout.jpg)<br>
+
+#### Thoughts
+
+• Today did not involve lecture, just homework. I spent about 5 hours making this trying to perfect the spacing/overall css. I know I'm getting better thought because I didn't have to use any outside resources but man, it took awhile. Still enjoyed it though.
+
+---
+
 <!-- TEMPLATE
 ### Day : , 2022
 
