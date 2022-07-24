@@ -22,15 +22,129 @@
 /*******************************************/
 
 body * {
-  border: 2px solid lightblue;
+  /* border: 2px solid lightblue; */
+  font-family: "Roboto", sans-serif;
 }
+p,
+span {
+  color: grey;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+ul {
+  list-style: none;
+}
+nav ul li a,
+input {
+  color: grey;
+}
+h1,
+h2 {
+  font-weight: 900;
+}
+
+/* resize image appropriately */
+img {
+  max-width: 100%;
+  max-height: 100%;
+  display: block;
+}
+
+/* nav bar */
+nav * {
+  font-size: 1.5rem;
+  font-weight: 100;
+}
+nav > ul > li.small a {
+  font-size: smaller;
+}
+
+/* main */
+main > h1 {
+  font-size: 2.5rem;
+}
+
+/* aside */
+aside li {
+  border-bottom: 1px solid lightgrey;
+  padding-bottom: 5px;
+}
+
+/* bottom section */
+/* section.bottom {
+  border-top: 1px solid lightgrey;
+  /* border: 5px solid black; */
+/* } */
 
 /******************************************
 /* LAYOUT
 /*******************************************/
-header {
-  height: 100%;
+/* Top portion of the page */
+header,
+main,
+aside {
+  height: 700px;
+  float: left;
+  width: 15%;
 }
+main {
+  width: 55%;
+}
+aside {
+  width: 30%;
+}
+header > nav > ul {
+  padding-inline-start: 20px;
+}
+header > nav > ul li {
+  padding-top: 5px;
+}
+input {
+  width: 100%;
+  border: none;
+}
+
+header,
+main,
+aside {
+  border: 3px dotted;
+}
+
+/* Bottom section of the page */
+aside + section {
+  padding-left: 15%;
+  border: 2px solid lavender;
+}
+section > section,
+section p,
+section img {
+  float: left;
+  width: 30%;
+  clear: both;
+}
+/* section.bottom  section,
+p.bottom,
+img.bottom {
+  /* clear: both; */ /*
+  height: 200px;
+  float: left;
+  width: 33.333%;
+  padding-top: 50px;
+  border: dashed red;
+} 
+
+section > h3 {
+  float: left;
+  width: 100%%;
+  height: 20px;
+  border: solid green;
+}
+
+section{
+  border: 5px solid blue;
+} */
 
 /******************************************
 /* ADDITIONAL STYLES
