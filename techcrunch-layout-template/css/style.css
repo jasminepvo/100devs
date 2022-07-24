@@ -54,30 +54,88 @@ img {
 
 /* nav bar */
 nav * {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   font-weight: 100;
 }
 nav > ul > li.small a {
   font-size: smaller;
 }
+header > nav > ul {
+  padding-inline-start: 20px;
+}
+header > nav > ul li {
+  padding-top: 12px;
+  margin-right: 4px;
+}
 
 /* main */
+main {
+  margin-top: 16px;
+}
 main > h1 {
-  font-size: 2.5rem;
+  font-size: 1.9rem;
+  margin-bottom: 5px;
+  margin-top: 0;
+}
+main > span {
+  font-size: 1.1rem;
+  font-weight: 100;
+}
+main > h5 {
+  margin-top: 8px;
+  margin-bottom: 5px;
+  font-weight: 400;
 }
 
 /* aside */
 aside li {
   border-bottom: 1px solid lightgrey;
   padding-bottom: 5px;
+  margin-right: 5%;
+}
+aside h2 {
+  margin-bottom: 5px;
+  font-size: 1.3rem;
+  padding-right: 1rem;
+}
+aside li.remove-line {
+  border-bottom: none;
+}
+aside li.grey * {
+  color: rgb(125, 125, 125);
+}
+aside span {
+  font-size: smaller;
 }
 
 /* bottom section */
-/* section.bottom {
-  border-top: 1px solid lightgrey;
-  /* border: 5px solid black; */
-/* } */
-
+section > h3 {
+  border-bottom: 1px solid rgba(211, 211, 211, 0.375);
+  padding-bottom: 10px;
+}
+section > section * {
+  margin-top: 0;
+}
+section section {
+  padding-right: 5%;
+}
+section p {
+  padding-right: 5%;
+  font-weight: 100;
+}
+section img {
+  padding-right: 2%;
+}
+section h2 {
+  margin-bottom: 0;
+}
+section h5 {
+  margin: 5px 0;
+}
+section span {
+  font-weight: 100;
+  font-size: small;
+}
 /******************************************
 /* LAYOUT
 /*******************************************/
@@ -85,66 +143,45 @@ aside li {
 header,
 main,
 aside {
-  height: 700px;
+  height: 600px;
   float: left;
   width: 15%;
 }
 main {
-  width: 55%;
+  width: 50%;
 }
 aside {
-  width: 30%;
+  width: 35%;
 }
-header > nav > ul {
-  padding-inline-start: 20px;
-}
-header > nav > ul li {
-  padding-top: 5px;
-}
+
 input {
   width: 100%;
   border: none;
 }
 
-header,
-main,
-aside {
-  border: 3px dotted;
-}
-
 /* Bottom section of the page */
+section {
+  clear: both;
+  height: 150px;
+}
 aside + section {
   padding-left: 15%;
-  border: 2px solid lavender;
 }
-section > section,
-section p,
+
+section section,
+p,
 section img {
+  /* clear: both; */
   float: left;
   width: 30%;
-  clear: both;
+  margin: 0px;
 }
-/* section.bottom  section,
-p.bottom,
-img.bottom {
-  /* clear: both; */ /*
-  height: 200px;
-  float: left;
-  width: 33.333%;
-  padding-top: 50px;
-  border: dashed red;
-} 
-
-section > h3 {
-  float: left;
-  width: 100%%;
-  height: 20px;
-  border: solid green;
+section p {
+  width: 38%;
 }
-
-section{
-  border: 5px solid blue;
-} */
+section img {
+  width: 32%;
+}
 
 /******************************************
 /* ADDITIONAL STYLES
