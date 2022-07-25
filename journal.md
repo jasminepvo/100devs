@@ -172,12 +172,46 @@ BONUS: Attend Startups Oasis Networking in ATL at ATDC @7PM  🤝🏼<br>
 
 #### Todays's Progress
 
-• Started Class 08 homework - [Layout Replica of TechCrunch](./techcrunch-layout-template/index.html)<br>
+• Started and finished Class 08 homework pt. 1 - [Layout Replica of TechCrunch](./techcrunch-layout-template/index.html)<br>
 ![](./techcrunch-layout-template/finsihedLayout.jpg)<br>
 
 #### Thoughts
 
-• Today did not involve lecture, just homework. I spent about 5 hours making this trying to perfect the spacing/overall css. I know I'm getting better thought because I didn't have to use any outside resources but man, it took awhile. Still enjoyed it though.
+• Today did not involve lecture, just homework. I spent about 5 hours making this trying to perfect the spacing/overall css. I know I'm getting better thought because I didn't have to use any outside resources but man, it took awhile. Still enjoyed it though.<br>
+
+---
+
+### Day 8: July 24, 2022 - Sunday
+
+#### Todays's Progress
+
+• Started Class 10 lecture<br>
+• Started Class 08 homework pt. 2 - [Layout Replica of Khan Academy](./khanacademy-layout-template/index.html)<br>
+• Started Independence Day<br>
+
+#### Thoughts
+
+• Not much today since I was out with friends but still started on the layout for Khan Academy. The homework is taking longer than I anticipated since we're only allowed to use floats and styling is not my forte but I'm getting better. Fell asleep during the movie but I'll finish it tomorrow!<br>
+
+---
+
+### Day 9: July 25, 2022 - Monday
+
+#### Todays's Progress
+
+• Finished Class 08 homework pt. 2 - [Layout Replica of Khan Academy](./khanacademy-layout-template/index.html)<br>
+![](./khanacademy-layout-template/finishedLayout.jpg)<br>
+• Started and finished Class 08 homework pt. 3 - [Layout Replica of BBC](./bbc-layout-template/index.html)<br>
+• Finished Independence Day
+•
+
+#### Thoughts
+
+• Layout 2 took 4 hours this time instead of 5 hahah, I'm making progress and learning quicker. Little hacks that made me happy..
+
+- CSS: line-height for spacing between lines
+- Shift Command (<> arrow key) to select entire line
+-
 
 ---
 
