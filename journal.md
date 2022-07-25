@@ -212,6 +212,14 @@ BONUS: Attend Startups Oasis Networking in ATL at ATDC @7PM  🤝🏼<br>
 
 - CSS: line-height for spacing between lines<br>
 - Shift Command (<> arrow key) to select entire line<br>
+- Using custom fonts<br>
+
+```
+@font-face {
+  src: url(./rondo/rondo.ttf);
+  font-family: rondo;
+}
+```
 
 <!-- TEMPLATE
 ### Day : , 2022

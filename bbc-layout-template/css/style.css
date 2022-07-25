@@ -20,8 +20,19 @@
 /******************************************
 /* BASE STYLES
 /*******************************************/
+@font-face {
+  font-family: "ReithSans";
+  src: url(./9038-BBCReithSans_Rg.e3c4ef29\ 2.ttf);
+}
+
+:root {
+  --bbc-font: "ReithSans", Arial, Helvetica, sans-serif;
+  --bbc-font-legacy: Arial, Helvetica, sans-serif;
+}
+
 body * {
   border: 2px solid lavenderblush;
+  font-family: "ReithSans";
 }
 
 /******************************************
@@ -32,6 +43,13 @@ header {
   height: 100px;
   background-color: black;
   color: white;
+}
+h2 {
+  float: left;
+  width: 50%;
+}
+main h2 + h2 {
+  padding-left: 40%;
 }
 nav * {
   float: left;
@@ -74,6 +92,10 @@ main + section > section {
   border: 5px solid red;
   float: left;
   width: 33%;
+}
+main + section > h2 {
+  clear: both;
+  width: 100%;
 }
 
 /******************************************
