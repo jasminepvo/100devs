@@ -202,18 +202,16 @@ BONUS: Attend Startups Oasis Networking in ATL at ATDC @7PM  🤝🏼<br>
 • Finished Class 08 homework pt. 2 - [Layout Replica of Khan Academy](./khanacademy-layout-template/index.html)<br>
 ![](./khanacademy-layout-template/finishedLayout.jpg)<br>
 • Started and finished Class 08 homework pt. 3 - [Layout Replica of BBC](./bbc-layout-template/index.html)<br>
-• Finished Independence Day
-•
+• Finished Independence Day<br>
+• Started [JavaScript Crash Course - Traversy Media](https://www.youtube.com/watch?v=hdI2bqOjy3c)
+• Review ANKI<br>
 
 #### Thoughts
 
-• Layout 2 took 4 hours this time instead of 5 hahah, I'm making progress and learning quicker. Little hacks that made me happy..
+• Layout 2 took 4 hours this time instead of 5 hahah, I'm making progress and learning quicker. Little hacks that made me happy..<br>
 
-- CSS: line-height for spacing between lines
-- Shift Command (<> arrow key) to select entire line
--
-
----
+- CSS: line-height for spacing between lines<br>
+- Shift Command (<> arrow key) to select entire line<br>
 
 <!-- TEMPLATE
 ### Day : , 2022
