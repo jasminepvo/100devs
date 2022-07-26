@@ -117,7 +117,7 @@ main > section {
   height: 330px;
   float: left;
   width: 50%;
-  color: white;
+  /* color: white; */
 }
 main > section > h1,
 main section > p {
@@ -131,7 +131,8 @@ main > section > section {
   width: 50%;
 }
 
-main section {
+main section,
+main section section {
   position: relative;
 }
 main section h1 {
@@ -145,6 +146,14 @@ main section p {
 main section span {
   position: absolute;
   bottom: 10px;
+}
+section h3 {
+  position: absolute;
+  bottom: 25%;
+}
+section > section > span {
+  position: absolute;
+  bottom: 10%;
 }
 
 /* Bottom of the page - News section */
