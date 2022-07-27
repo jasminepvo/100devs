@@ -20,10 +20,17 @@
 /******************************************
 /* BASE STYLES
 /*******************************************/
+:root {
+  --font: "Roboto", Arial, Helvetica, sans-serif;
+  --main-grey: rgb(99, 116, 136);
+  --main-lightgrey: rgb(214, 218, 222);
+  --main-darkgrey: rgb(22, 29, 37);
+  --main-white: rgb(255, 255, 255);
+}
 
 body {
   /* border: 2px solid lightblue; */
-  font-family: "Roboto", sans-serif;
+  font-family: var(--font);
 }
 a {
   text-decoration: none;
