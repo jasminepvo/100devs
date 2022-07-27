@@ -242,8 +242,8 @@ BONUS: Attend Startups Oasis Networking in ATL at ATDC @7PM  🤝🏼<br>
 
 • Made a commit to [#FitDevs](https://fitdevs-withkat.github.io/Support/landing_page/)<br>
 • Started and finished Class 10 lecture<br>
-• Started and finished Class 10 homework - [Source Layout]()<br>
-• Started and finished Class 10 homework - [Ground Layout]()<br>
+• Started and finished Class 10 homework - [Source Layout](./source-layout/index.html)<br>
+• Started and finished Class 10 homework - [Ground Layout](./level-ground-layout/index.html)<br>
 • Started and finished Class 10 homework - [PUSH Layout]()<br>
 • Started [JavaScript Crash Course - Traversy Media](https://www.youtube.com/watch?v=hdI2bqOjy3c)<br>
 • Review ANKI<br>
@@ -275,6 +275,9 @@ Looking forward to making more contributions to this open source project!<br>
   4. Type screenshot into the search box.<br>
   5. Select Capture full-size screenshot.<br>
   6. Once Chrome takes the screenshot, it should save it into your Downloads folder. Voila!<br>
+
+• AHHHH I FINISHED SOURCE LAYOUT IN UNDER 2 HOURS!!! I'm getting quicker i'm so proud and it actually looks decent or as my boyfriend would say it looks "professional". So happy!!!!
+![](./source-layout/finishedSourceLayout.html.png)
 
 ---
 
