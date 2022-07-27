@@ -201,10 +201,8 @@ BONUS: Attend Startups Oasis Networking in ATL at ATDC @7PM  🤝🏼<br>
 
 • Finished Class 08 homework pt. 2 - [Layout Replica of Khan Academy](./khanacademy-layout-template/index.html)<br>
 ![](./khanacademy-layout-template/finishedLayout.jpg)<br>
-• Started and finished Class 08 homework pt. 3 - [Layout Replica of BBC](./bbc-layout-template/index.html)<br>
+• Started Class 08 homework pt. 3 - [Layout Replica of BBC](./bbc-layout-template/index.html)<br>
 • Finished Independence Day<br>
-• Started [JavaScript Crash Course - Traversy Media](https://www.youtube.com/watch?v=hdI2bqOjy3c)
-• Review ANKI<br>
 
 #### Thoughts
 
@@ -220,6 +218,58 @@ BONUS: Attend Startups Oasis Networking in ATL at ATDC @7PM  🤝🏼<br>
   font-family: rondo;
 }
 ```
+
+---
+
+### Day 10: July 26, 2022
+
+#### Todays's Progress
+
+• Went on an interview<br>
+• Completed Java vending machine assessment<br>
+• Finished Class 08 homework pt. 3 - [Layout Replica of BBC](./bbc-layout-template/index.html)<br>
+
+#### Thoughts
+
+• The interview was with a startup for financial bookkeeping software. Good experience and got to see a popular co-working space for tech startups called Atlanta Tech Village. Completed a take home assessment to build a vending machine in Java which consumed most of my time.<br>
+• Learned I don't need to be spending so much time trying to make the layouts pixel perfect. I am a perfectionist so being a baddie writing bad code is DIFFICULT for me. But I am learning to move on and come back later, slowly but still learning. Perfectionism is a hard habit to break.<br>
+
+---
+
+### Day 11: July 27, 2022
+
+#### Todays's Progress
+
+• Made a commit to [#FitDevs](https://fitdevs-withkat.github.io/Support/landing_page/)<br>
+• Started and finished Class 10 lecture<br>
+• Started and finished Class 10 homework - [Source Layout]()<br>
+• Started and finished Class 10 homework - [Ground Layout]()<br>
+• Started and finished Class 10 homework - [PUSH Layout]()<br>
+• Started [JavaScript Crash Course - Traversy Media](https://www.youtube.com/watch?v=hdI2bqOjy3c)<br>
+• Review ANKI<br>
+
+#### Thoughts
+
+• Firstly, I am overjoyed that someone made a community for fit devs on Twitter. S/o to Kat. Fitness means so much to me and forever has a special place in my heart. Here's the commit I made:
+
+```
+{
+  "name": "Jasmine Vo",
+  "url": "https://github.com/jasminepvo",
+  "image": "https://github.com/jasminepvo.png",
+  "why": "To inspire and help those just starting their journey and also be inpsired by other members",
+  "weekly": ["Gym 5x/week on my program", "Drink half a gallon of water/day", "Consume healthy and balanced diet with enough protein intake", "Sleep 6+ hrs/day", "Stretch between pomodoro breaks/day"],
+  "goal": "To live an abundantly happy and healthy life",
+  "location": "Atlanta, GA - USA"
+}
+```
+
+Looking forward to making more contributions to this open source project!<br>
+• Lecture tips
+
+- fontawesome for icons<br>
+
+---
 
 <!-- TEMPLATE
 ### Day : , 2022
