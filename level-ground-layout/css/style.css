@@ -48,7 +48,7 @@ header {
 }
 header nav * {
   float: left;
-  width: 25%;
+  width: 20%;
 }
 nav li a {
   color: var(--main-white);
@@ -86,7 +86,7 @@ span.main-video {
 section.why {
   background-color: var(--main-white);
   color: var(--main-darkgrey);
-  height: 500px;
+  height: 300px;
   text-align: center;
 }
 section.why h2 {
@@ -130,7 +130,7 @@ section.volunteer {
   background-color: var(--main-white);
   color: var(--main-darkgrey);
   text-align: center;
-  height: 500px;
+  height: 300px;
   clear: both;
 }
 section.volunteer h2 {
@@ -156,15 +156,20 @@ footer {
 }
 footer section {
   float: left;
-  width: 50%;
-  border: 2px solid red;
+  width: 48%;
   margin-bottom: 15px;
+  margin-left: 1%;
+  margin-right: 1%;
 }
 footer section.footer-links {
-  padding-right: 30%;
+  padding-right: 20%;
 }
-footer section.footer-info {
-  padding-left: 30%;
+footer section.footer-info * {
+  padding-left: 20%;
+  float: right;
+}
+footer section.footer-info span {
+  padding-left: 60%;
 }
 footer section ul.icons li {
   float: left;
@@ -178,10 +183,19 @@ footer h6 {
   clear: both;
   color: var(--main-grey);
 }
+footer h5 {
+  color: var(--main-white);
+  margin: 0 auto;
+}
+footer section.footer-info p {
+  color: var(--main-lightgrey);
+  margin: 0 auto;
+}
 footer > p {
   clear: both;
-  border-top: 5px solid var(--main-lightgrey);
+  border-top: 1px solid var(--main-lightgrey);
   padding-top: 20px;
+  margin: 0 20px;
 }
 /******************************************
 /* ADDITIONAL STYLES
