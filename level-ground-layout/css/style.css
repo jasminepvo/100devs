@@ -22,7 +22,7 @@
 /*******************************************/
 :root {
   --font: "Roboto", Arial, Helvetica, sans-serif;
-  --main-grey: rgb(92, 124, 164);
+  --main-grey: rgb(99, 116, 136);
   --main-lightgrey: rgb(214, 218, 222);
   --main-darkgrey: rgb(22, 29, 37);
   --main-white: rgb(255, 255, 255);
@@ -83,10 +83,97 @@ span.main-video {
   padding-bottom: 12%;
 }
 
-/* footer portion  */
-footer {
+section.why {
+  background-color: var(--main-white);
+  color: var(--main-darkgrey);
+  height: 500px;
+  text-align: center;
+}
+section.why h2 {
+  margin: 0 auto;
+  padding-top: 5%;
+}
+section.why p {
+  margin: 0 auto;
+  padding: 10px 400px 5% 400px;
 }
 
+/* section 2 portion */
+.visit-gym,
+.visit-personal {
+  float: left;
+  width: 50%;
+  background-color: var(--main-lightgrey);
+  color: var(--main-darkgrey);
+  height: 550px;
+  text-align: center;
+}
+section.visit img {
+  background-color: var(--main-darkgrey);
+  height: 200px;
+  width: 350px;
+  margin-top: 50px;
+}
+section.visit p {
+  padding: 5px 50px;
+  margin-bottom: 40px;
+}
+section.visit a {
+  color: var(--main-darkgrey);
+  border: 1px solid var(--main-darkgrey);
+  border-radius: 5%;
+  padding: 10px 30px;
+}
+
+/* section 3 portion */
+section.volunteer {
+  background-color: var(--main-white);
+  color: var(--main-darkgrey);
+  text-align: center;
+  height: 500px;
+  clear: both;
+}
+section.volunteer h2 {
+  margin: 0 auto;
+  padding-top: 5%;
+}
+section.volunteer p {
+  margin: 0 auto;
+  padding: 10px 400px 5% 400px;
+}
+section.volunteer a {
+  color: var(--main-darkgrey);
+  border: 1px solid var(--main-darkgrey);
+  border-radius: 5%;
+  padding: 10px 30px;
+}
+
+/* footer portion  */
+footer {
+  background-color: var(--main-darkgrey);
+  height: 300px;
+  color: var(--main-white);
+}
+footer section {
+  float: left;
+  width: 50%;
+}
+footer section ul.icons li {
+  float: left;
+  width: 33%;
+}
+footer section ul li {
+  float: left;
+  width: 50%;
+}
+footer h6 {
+  clear: both;
+  color: var(--main-grey);
+}
+footer > p {
+  clear: both;
+  border-top: 5px solid var(--main-lightgrey);
+}
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
