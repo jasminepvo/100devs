@@ -22,8 +22,15 @@
 /*******************************************/
 
 body {
+  /* border: 2px solid lightblue; */
+  font-family: "Roboto", sans-serif;
 }
-
+a {
+  text-decoration: none;
+}
+li {
+  list-style: none;
+}
 /******************************************
 /* LAYOUT
 /*******************************************/
