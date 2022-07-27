@@ -109,7 +109,7 @@ section.why p {
   text-align: center;
 }
 section.visit img {
-  background-color: var(--main-darkgrey);
+  background-color: var(--main-grey);
   height: 200px;
   width: 350px;
   margin-top: 50px;
@@ -151,12 +151,20 @@ section.volunteer a {
 /* footer portion  */
 footer {
   background-color: var(--main-darkgrey);
-  height: 300px;
+  height: 250px;
   color: var(--main-white);
 }
 footer section {
   float: left;
   width: 50%;
+  border: 2px solid red;
+  margin-bottom: 15px;
+}
+footer section.footer-links {
+  padding-right: 30%;
+}
+footer section.footer-info {
+  padding-left: 30%;
 }
 footer section ul.icons li {
   float: left;
@@ -173,6 +181,7 @@ footer h6 {
 footer > p {
   clear: both;
   border-top: 5px solid var(--main-lightgrey);
+  padding-top: 20px;
 }
 /******************************************
 /* ADDITIONAL STYLES
