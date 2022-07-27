@@ -20,9 +20,16 @@
 /******************************************
 /* BASE STYLES
 /*******************************************/
+:root {
+  --font: "Roboto", Arial, Helvetica, sans-serif;
+  --main-grey: rgb(223, 232, 238);
+  --main-lightgrey: rgb(245, 249, 252);
+  --main-darkgrey: rgb(49, 70, 88);
+  --main-white: rgb(255, 255, 255);
+}
 
-body {
-  /* border: 2px solid lightblue; */
+body * {
+  border: 2px solid lightblue;
   font-family: "Roboto", sans-serif;
 }
 a {
@@ -34,12 +41,60 @@ li {
 /******************************************
 /* LAYOUT
 /*******************************************/
-header {
+/* header portion */
+header * {
+  background-color: var(--main-lightgrey);
+  color: var(--main-darkgrey);
+}
+nav h3 {
+  float: left;
+  width: 30%;
+}
+nav li {
+  display: inline-block;
+  width: 10%;
+  float: left;
+}
+nav a {
+  width: 30%;
+  margin-left: 20%;
+  background-color: var(--main-darkgrey);
+  color: var(--main-white);
+  padding: 1% 2%;
 }
 
-footer {
+/* main portion */
+main {
+  background-color: var(--main-lightgrey);
+  color: var(--main-darkgrey);
+  clear: both;
+}
+section.top-left {
+  float: left;
+  width: 50%;
+}
+section.top-left {
+  padding: 10%;
+}
+section.top-right {
+  float: right;
+  padding-top: 5%;
+}
+section.top-right img {
+  max-width: 100%;
+  max-height: 100%;
+  margin: 0 auto;
 }
 
+section.bottom {
+  clear: both;
+  /* float: left;
+  width: 25%; */
+}
+
+main + section {
+  clear: both;
+}
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
