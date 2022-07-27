@@ -20,7 +20,13 @@
 /******************************************
 /* BASE STYLES
 /*******************************************/
-
+:root {
+  --font: "Roboto", Arial, Helvetica, sans-serif;
+  --main-grey: rgb(92, 124, 164);
+  --main-lightgrey: rgb(214, 218, 222);
+  --main-darkgrey: rgb(22, 29, 37);
+  --main-white: rgb(255, 255, 255);
+}
 body {
   /* border: 2px solid lightblue; */
   font-family: "Roboto", sans-serif;
@@ -34,9 +40,50 @@ li {
 /******************************************
 /* LAYOUT
 /*******************************************/
+/* header portion */
 header {
+  background-color: var(--main-grey);
+  color: var(--main-white);
+  height: 50px;
+}
+header nav * {
+  float: left;
+  width: 25%;
+}
+nav li a {
+  color: var(--main-white);
+}
+nav > a {
+  background-color: var(--main-white);
+  color: var(--main-grey);
+  border-radius: 10%;
+  padding: 1%;
 }
 
+/* main portion */
+main {
+  background-color: var(--main-grey);
+  color: white;
+  height: 400px;
+  text-align: center;
+}
+main h1 {
+  margin: 0 auto;
+  padding: 2%;
+}
+main p {
+  margin: 0 auto;
+  padding: 0 25% 5% 25%;
+}
+span {
+  float: left;
+  width: 100%;
+}
+span.main-video {
+  padding-bottom: 12%;
+}
+
+/* footer portion  */
 footer {
 }
 
