@@ -265,9 +265,16 @@ BONUS: Attend Startups Oasis Networking in ATL at ATDC @7PM  🤝🏼<br>
 ```
 
 Looking forward to making more contributions to this open source project!<br>
-• Lecture tips
+• Ground layout only took me 3 hours this time! I am making progressive enhancement which makes me feel really good. Discovering new tips as well.
 
-- fontawesome for icons<br>
+- fontawesome for icons, I copied and pasted the kit into my template 📧<br>
+- Follow these steps to take a full-page screenshot:
+  1. Open Chrome’s menu.<br>
+  2. Head to More tools > Developer tools.<br>
+  3. Click the three-dot icon from the top-right corner and select Run command. Also, you can press Ctrl+Shift+P on Windows or Command+Shift+P on Mac.<br>
+  4. Type screenshot into the search box.<br>
+  5. Select Capture full-size screenshot.<br>
+  6. Once Chrome takes the screenshot, it should save it into your Downloads folder. Voila!<br>
 
 ---
 
