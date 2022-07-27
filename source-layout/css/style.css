@@ -29,7 +29,7 @@
 }
 
 body * {
-  border: 2px solid lightblue;
+  /* border: 2px solid lightblue; */
   font-family: "Roboto", sans-serif;
 }
 a {
@@ -42,13 +42,18 @@ li {
 /* LAYOUT
 /*******************************************/
 /* header portion */
-header * {
+header {
   background-color: var(--main-lightgrey);
   color: var(--main-darkgrey);
+  height: 100px;
+  padding-top: 1%;
+  padding-left: 5px;
 }
 nav h3 {
   float: left;
   width: 30%;
+  padding-left: 75px;
+  margin-top: 0;
 }
 nav li {
   display: inline-block;
@@ -76,6 +81,23 @@ section.top-left {
 section.top-left {
   padding: 10%;
 }
+section.top-left input {
+  background-color: var(--main-grey);
+  font-weight: 100;
+  font-size: small;
+  width: 225px;
+  height: 40px;
+  border: none;
+  padding: 4%;
+}
+section.top-left label {
+  background-color: var(--main-darkgrey);
+  color: var(--main-white);
+  padding: 2.8% 4%;
+  border: none;
+  height: 40px;
+}
+
 section.top-right {
   float: right;
   padding-top: 5%;
@@ -88,13 +110,28 @@ section.top-right img {
 
 section.bottom {
   clear: both;
-  /* float: left;
-  width: 25%; */
+  padding-left: ;
+}
+section.bottom section {
+  float: left;
+  width: 25%;
+  background-color: var(--main-lightgrey);
+  padding: 40px;
 }
 
+/* second section */
 main + section {
   clear: both;
+  width: 40%;
+  padding-left: 40px;
+  padding-top: 40px;
+  background-color: var(--main-white);
+  color: var(--main-darkgrey);
 }
+main + section p {
+  color: rgb(134, 148, 172);
+}
+
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
