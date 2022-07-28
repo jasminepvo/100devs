@@ -2,6 +2,20 @@
 * {
   box-sizing: border-box;
 }
+/* Mayanwolfe floats
+*, *::before, *::after{
+  box-sizing: inherit;
+} 
+
+html, body{
+  height: 100%;
+}
+
+img, video{
+  height: auto;
+  width: 100%;
+}
+*/
 
 /* Clear fix hack */
 .clearfix:after {
@@ -21,7 +35,7 @@
 /* BASE STYLES
 /*******************************************/
 :root {
-  --font: "Roboto", Arial, Helvetica, sans-serif;
+  --font: "Yeseva One", "Source Sans Pro", "Roboto", sans-serif;
   --main-grey: rgb(99, 116, 136);
   --main-lightgrey: rgb(214, 218, 222);
   --main-darkgrey: rgb(22, 29, 37);
