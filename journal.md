@@ -221,7 +221,7 @@ BONUS: Attend Startups Oasis Networking in ATL at ATDC @7PM  🤝🏼<br>
 
 ---
 
-### Day 10: July 26, 2022
+### Day 10: July 26, 2022 - Tuesday
 
 #### Todays's Progress
 
@@ -236,7 +236,7 @@ BONUS: Attend Startups Oasis Networking in ATL at ATDC @7PM  🤝🏼<br>
 
 ---
 
-### Day 11: July 27, 2022
+### Day 11: July 27, 2022 - Wednesday
 
 #### Todays's Progress
 
@@ -244,9 +244,6 @@ BONUS: Attend Startups Oasis Networking in ATL at ATDC @7PM  🤝🏼<br>
 • Started and finished Class 10 lecture<br>
 • Started and finished Class 10 homework - [Source Layout](./source-layout/index.html)<br>
 • Started and finished Class 10 homework - [Ground Layout](./level-ground-layout/index.html)<br>
-• Started and finished Class 10 homework - [PUSH Layout]()<br>
-• Started [JavaScript Crash Course - Traversy Media](https://www.youtube.com/watch?v=hdI2bqOjy3c)<br>
-• Review ANKI<br>
 
 #### Thoughts
 
@@ -278,6 +275,19 @@ Looking forward to making more contributions to this open source project!<br>
 
 • AHHHH I FINISHED SOURCE LAYOUT IN UNDER 2 HOURS!!! I'm getting quicker i'm so proud and it actually looks decent or as my boyfriend would say it looks "professional". So happy!!!!
 ![](./source-layout/finishedSourceLayout.html.png)
+
+---
+
+### Day 12: July 28, 2022
+
+#### Todays's Progress
+
+• Started and finished [Mayanwolfe Explains CSS Floats](https://www.youtube.com/watch?v=sjdsDxqt8vY)<br>
+• Started and finished Class 10 homework - [Cuisine Restaurant]()<br>
+• Started [JavaScript Crash Course - Traversy Media](https://www.youtube.com/watch?v=hdI2bqOjy3c)<br>
+• Review ANKI<br>
+
+#### Thoughts
 
 ---
 
