@@ -289,6 +289,44 @@ Looking forward to making more contributions to this open source project!<br>
 
 #### Thoughts
 
+• The floats video was super helpful even though I felt comfortable with floats already, it reaffirmed my knowledge and then added useful tips for images, headers and spacing! Glad someone reccomended it.
+
+- Outline with wireframe layout before adding text/content. Also use these rules if you want your child section to be inherited in your parent section
+
+```
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+html,
+body {
+  height: 100%;
+}
+```
+
+- Specify your sections with dimensions of height and width to avoid trouble
+
+```
+section{
+  height: varies //example would be 50%;
+  width: varies //example would be 100%;
+}
+```
+
+- for images that overflow:
+
+```
+img{
+  width: 100%;
+}
+### for the section the image is in ###
+section{
+  overflow: hidden;
+}
+```
+
 ---
 
 <!-- TEMPLATE

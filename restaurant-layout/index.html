@@ -26,59 +26,73 @@
     <link rel="stylesheet" href="css/style.css" />
   </head>
   <body>
-    <header>
-      <img src="#" alt="" />
-      <ul>
-        <li><a href="#">Home</a></li>
-        <li><a href="#">About Us</a></li>
-        <li><a href="#">Menu</a></li>
-        <li><a href="#">Order Now</a></li>
-        <li><a href="#">Blog</a></li>
-        <li><a href="#">Location</a></li>
-        <li><a href="#">icon</a></li>
-        <li><a href="#">icon</a></li>
-      </ul>
-    </header>
-    <main>
-      <h1>Welcome To Our Cuisine Restaurant</h1>
-      <form action="">
-        <input type="search" />
-        <select name="location" id="location" value="location">
-          <option value="location">Location</option>
-        </select>
-      </form>
-      <ul>
-        <li><i class="fa-brands fa-facebook-f"></i> 253k</li>
-        <li><i class="fa-brands fa-twitter"></i> 62k</li>
-        <li><i class="fa-brands fa-instagram"></i> 55k</li>
-      </ul>
+    <main class="main-img">
+      <header>
+        <section class="header-left">
+          <img src="./logo_1.png" alt="logo" />
+        </section>
+        <section class="header-right">
+          <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About Us</a></li>
+            <li><a href="#">Menu</a></li>
+            <li><a href="#">Order Now</a></li>
+            <li><a href="#">Blog</a></li>
+            <li><a href="#">Location</a></li>
+            <li>
+              <a href="#"><i class="fa-solid fa-cart-shopping"></i></a>
+            </li>
+            <li>
+              <a href="#"><i class="fa-solid fa-magnifying-glass"></i></a>
+            </li>
+          </ul>
+        </section>
+      </header>
+      <section class="intro">
+        <h1>Welcome</h1>
+        <h1>To Our Cuisine</h1>
+        <h1>Restaurant</h1>
+        <form action="">
+          <input type="search" value="Search here" />
+          <select name="location" id="location" value="location">
+            <option value="location">Location</option>
+          </select>
+        </form>
+        <ul>
+          <li><i class="fa-brands fa-facebook-f"></i> 253k</li>
+          <li><i class="fa-brands fa-twitter"></i> 62k</li>
+          <li><i class="fa-brands fa-instagram"></i> 55k</li>
+        </ul>
+      </section>
     </main>
 
-    <section class="about">
-      <span>About us</span>
-      <h2>Discover Our Restaurant Story</h2>
-      <p>
-        Cuisine in a team work of Cuisine Restaurant Cafe, we aim at premating
-        the faedatulf industy through the branches, we establish and through the
-        new dishes, and integrate between different cultures. Nulam quit ante.
-        Etiam sit amt arci aget erot faucibut tin cidunt. Dis leo. Sed fringila
-        maurit sit amat nibh. Done sodales cogittis magna Apnson commodo ligulp.
-        Sed fringilla mauris sit amt nibh. Donso sadales pagittio magna. Agngan
-        oommodo ligula.
-      </p>
+    <section id="about" class="about-img">
+      <section class="about">
+        <span>About us</span>
+        <h2>Discover Our Restaurant Story</h2>
+        <p>
+          Cuisine in a team work of Cuisine Restaurant Cafe, we aim at premating
+          the faedatulf industy through the branches, we establish and through
+          the new dishes, and integrate between different cultures. Nulam quit
+          ante. Etiam sit amt arci aget erot faucibut tin cidunt. Dis leo. Sed
+          fringila maurit sit amat nibh. Done sodales cogittis magna Apnson
+          commodo ligulp. Sed fringilla mauris sit amt nibh. Donso sadales
+          pagittio magna. Agngan oommodo ligula.
+        </p>
 
-      <p>
-        Nullam quis arta. Etiam sit amat orel apat aros faucibus tincidunt. Duia
-        loo. Sad fringila mauris sit amet nibh. Donac sodales sagittia magna,
-        Ajmean, commade ligula.
-      </p>
-      <button>Discover <i class="fa-solid fa-arrow-right"></i></button>
+        <p>
+          Nullam quis arta. Etiam sit amat orel apat aros faucibus tincidunt.
+          Duia loo. Sad fringila mauris sit amet nibh. Donac sodales sagittia
+          magna, Ajmean, commade ligula.
+        </p>
+        <button>Discover <i class="fa-solid fa-arrow-right"></i></button>
+      </section>
     </section>
 
     <section class="menu">
       <span>Order Online Now</span>
-      <h3>Our Specialty Cuisine</h3>
-      <ul class="menu-nav">
+      <h3 class="center-heading">Our Specialty Cuisine</h3>
+      <ul class="menu-nav center-heading">
         <a href="#">Breakfast</a>
         <a href="#">Lunch</a>
         <a href="#">Dinner</a>
@@ -87,47 +101,53 @@
       </ul>
       <section class="menu-images">
         <section class="image">
+          <img src="./contadina.jpeg" alt="contadina" class="img" />
+          <div class="overlay">
+            <p>$14.99</p>
+            <p>
+              <i class="fa-solid fa-star"> </i><i class="fa-solid fa-star"> </i
+              ><i class="fa-solid fa-star"> </i><i class="fa-solid fa-star"> </i
+              ><i class="fa-solid fa-star"></i>
+            </p>
+            <p>Contadina</p>
+            <br />
+            <button>Order Now</button>
+          </div>
+        </section>
+        <section class="image">
           <img src="" alt="" />
-          <span>$14.99</span>
+          <p>$14.99</p>
           <p>
             <i class="fa-solid fa-star"> </i><i class="fa-solid fa-star"> </i
             ><i class="fa-solid fa-star"> </i><i class="fa-solid fa-star"> </i
             ><i class="fa-solid fa-star"></i>
           </p>
-          <span>Contadina</span><br />
+          <p>Contadina</p>
+          <br />
           <button>Order Now</button>
         </section>
         <section class="image">
           <img src="" alt="" />
-          <span>$14.99</span>
+          <p>$14.99</p>
           <p>
             <i class="fa-solid fa-star"> </i><i class="fa-solid fa-star"> </i
             ><i class="fa-solid fa-star"> </i><i class="fa-solid fa-star"> </i
             ><i class="fa-solid fa-star"></i>
           </p>
-          <span>Contadina</span><br />
+          <p>Contadina</p>
+          <br />
           <button>Order Now</button>
         </section>
         <section class="image">
           <img src="" alt="" />
-          <span>$14.99</span>
+          <p>$14.99</p>
           <p>
             <i class="fa-solid fa-star"> </i><i class="fa-solid fa-star"> </i
             ><i class="fa-solid fa-star"> </i><i class="fa-solid fa-star"> </i
             ><i class="fa-solid fa-star"></i>
           </p>
-          <span>Contadina</span><br />
-          <button>Order Now</button>
-        </section>
-        <section class="image">
-          <img src="" alt="" />
-          <span>$14.99</span>
-          <p>
-            <i class="fa-solid fa-star"> </i><i class="fa-solid fa-star"> </i
-            ><i class="fa-solid fa-star"> </i><i class="fa-solid fa-star"> </i
-            ><i class="fa-solid fa-star"></i>
-          </p>
-          <span>Contadina</span><br />
+          <p>Contadina</p>
+          <br />
           <button>Order Now</button>
         </section>
       </section>

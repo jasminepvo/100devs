@@ -1,21 +1,24 @@
 /* Box Model Hack */
-* {
+html {
   box-sizing: border-box;
 }
-/* Mayanwolfe floats
-*, *::before, *::after{
-  box-sizing: inherit;
-} 
 
-html, body{
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+html,
+body {
   height: 100%;
 }
 
-img, video{
+img,
+video {
   height: auto;
   width: 100%;
 }
-*/
 
 /* Clear fix hack */
 .clearfix:after {
@@ -36,9 +39,10 @@ img, video{
 /*******************************************/
 :root {
   --font: "Yeseva One", "Source Sans Pro", "Roboto", sans-serif;
-  --main-grey: rgb(99, 116, 136);
-  --main-lightgrey: rgb(214, 218, 222);
-  --main-darkgrey: rgb(22, 29, 37);
+  --main-orange: rgb(255, 136, -0);
+  --main-gold: rgb(255, 194, 12);
+  --main-lightgrey: rgb(242, 245, 247);
+  --main-darkgrey: rgb(40, 40, 53);
   --main-white: rgb(255, 255, 255);
 }
 
@@ -46,32 +50,244 @@ body {
   /* border: 2px solid lightblue; */
   font-family: var(--font);
 }
+body * {
+  /* border: 2px solid green; */
+}
 a {
   text-decoration: none;
+  color: var(--main-darkgrey);
 }
 li {
   list-style: none;
+  color: var(--main-darkgrey);
 }
+li,
+input,
+select,
+p,
+span {
+  font-family: "Roboto Condensed";
+}
+span {
+  color: var(--main-orange);
+}
+
+.center-heading {
+  text-align: center;
+}
+
 /******************************************
 /* LAYOUT
 /*******************************************/
+/* header portion */
 header {
+  height: 10%;
+  width: 100%;
+  border: 2px solid green;
+  padding: 0 5%;
+}
+.header-left {
+  height: 100%;
+  width: 20%;
+  border: 2px solid blue;
+  float: left;
+}
+.header-left img {
+  height: 100%;
+  width: auto;
+}
+.header-right {
+  height: 100%;
+  width: 80%;
+  border: 2px solid green;
+  float: left;
+}
+.header-right ul {
+  height: 100%;
+  width: 100%;
+  border: 2px solid salmon;
+  margin: 0;
+  padding-left: 30%;
+}
+.header-right li {
+  height: 100%;
+  width: 12.5%;
+  border: 2px solid purple;
+  float: left;
+  text-align: center;
+  padding: 1% 0;
+  font-family: "Roboto Condensed";
 }
 
-footer {
+/* main portion */
+main {
+  height: 100%;
+  width: 100%;
+  border: 2px solid green;
+}
+.main-img {
+  background-image: url("mixedFruit.jpeg");
+  background-color: var(--main-white); /* Used if the image is unavailable */
+  height: 100%; /* You must set a specified height */
+  background-position: top right; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+.intro {
+  border: 2px solid red;
+  height: 90%;
+  width: 60%;
+  margin-left: 5%;
+  margin-right: 20%;
+  padding-top: 5%;
+}
+.intro h1 {
+  font-size: 4rem;
+  margin: 0;
+  padding-bottom: 1%;
+}
+.intro form {
+  margin-top: 1%;
+}
+.intro input {
+  border: 1px solid var(--main-lightgrey);
+  padding: 5px 50px;
+  background-color: var(--main-white);
+  color: rgb(178, 180, 181);
+  font-weight: 100;
+}
+.intro select {
+  border: none;
+  padding: 5px 0;
+  background-color: var(--main-orange);
+  color: var(--main-white);
+  font-size: smaller;
+}
+.intro ul {
+  border: 2px solid green;
+  padding-right: 50%;
+}
+.intro li {
+  float: left;
+  width: 33.33%;
+  border: 2px solid blue;
+}
+.intro i {
+  color: var(--main-orange);
 }
 
+/* about section portion */
+#about {
+  height: 70%;
+  width: 100%;
+  border: 2px solid pink;
+}
+.about-img {
+  background-image: url("second_bg.jpeg");
+  background-color: var(--main-white); /* Used if the image is unavailable */
+  height: 70%; /* You must set a specified height */
+  background-position: top right; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+.about {
+  height: 100%;
+  width: 50%;
+  border: 2px dotted lightskyblue;
+  margin-left: 35%;
+}
+.about h2 {
+  font-size: 2rem;
+  margin-top: 1%;
+  padding-right: 25%;
+}
+.about button {
+  color: var(--main-white);
+  background-color: var(--main-orange);
+  border: none;
+  border-radius: 5%;
+  padding: 5px;
+}
+
+/* menu section portion */
+section.menu {
+  height: 60%;
+  width: 100%;
+  background-color: var(--main-lightgrey);
+}
+.menu span {
+  text-align: center;
+  border: 2px solid red;
+  margin-left: 40%;
+}
+.menu h3 {
+  font-size: 2rem;
+}
+.menu ul {
+  font-family: "Roboto";
+}
+.menu-images {
+  height: 50%;
+  width: 100%;
+  border: 2px solid purple;
+  padding: 0 5%;
+}
+.image {
+  height: 100%;
+  width: 21%;
+  border: 2px solid lightgreen;
+  float: left;
+  margin: 0 2%;
+  overflow: hidden;
+}
+
+.image * {
+  text-align: center;
+  margin: 5px 0;
+}
+.image button {
+  color: var(--main-white);
+  background-color: var(--main-orange);
+  border: none;
+  border-radius: 10%;
+  padding: 5px;
+  margin: 0 22%;
+}
+.img {
+  display: block;
+  width: auto;
+  height: 100%;
+  background-position: right;
+}
+.overlay {
+  position: absolute;
+  background: rgba(0, 0, 0, 0.5); /* Black see-through */
+  color: white;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  transition: 0.5s ease;
+  opacity: 0;
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+}
+.image:hover .overlay {
+  opacity: 1;
+}
+
+section.contact {
+  height: 60%;
+  width: 100%;
+}
+section.testimonials {
+  height: 50%;
+  width: 100%;
+}
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
 @media screen and (max-width: 600px) {
-  section {
-  }
 }
 @media (min-width: 601px) and (max-width: 900px) {
-  section {
-  }
-  . {
-    display: none;
-  }
 }
