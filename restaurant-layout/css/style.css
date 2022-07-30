@@ -280,6 +280,10 @@ section.contact {
   height: 60%;
   width: 100%;
 }
+.contact * {
+  text-align: center;
+}
+
 section.testimonials {
   height: 50%;
   width: 100%;
