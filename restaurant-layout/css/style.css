@@ -259,9 +259,9 @@ section.menu {
   height: 100%;
   background-position: right;
 }
-.overlay {
+/* .overlay {
   position: absolute;
-  background: rgba(0, 0, 0, 0.5); /* Black see-through */
+  background: rgba(0, 0, 0, 0.5); /* Black see-through */ /*
   color: white;
   top: 0;
   width: 100%;
@@ -274,15 +274,28 @@ section.menu {
 }
 .image:hover .overlay {
   opacity: 1;
-}
+} */
 
 section.contact {
-  height: 60%;
+  height: 100%;
   width: 100%;
   text-align: center;
+  border: 2px solid red;
 }
 .contact i {
   color: var(--main-orange);
+}
+.contact div {
+  width: 60%;
+  height: 50%;
+  border: 2px solid plum;
+  margin: 2% 20%;
+  overflow: hidden;
+}
+.contact img {
+  max-height: auto;
+  max-width: 100%;
+  object-position: 0, -20%;
 }
 
 section.testimonials {
@@ -292,6 +305,16 @@ section.testimonials {
 }
 .testimonials i {
   color: var(--main-orange);
+}
+.testimonials img {
+  width: 100%;
+  height: auto;
+  max-width: 100px;
+  max-height: 100px;
+  border-radius: 50%;
+}
+.testimonials p {
+  padding: 0 20%;
 }
 /******************************************
 /* ADDITIONAL STYLES
