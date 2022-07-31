@@ -279,14 +279,19 @@ section.menu {
 section.contact {
   height: 60%;
   width: 100%;
-}
-.contact * {
   text-align: center;
+}
+.contact i {
+  color: var(--main-orange);
 }
 
 section.testimonials {
   height: 50%;
   width: 100%;
+  text-align: center;
+}
+.testimonials i {
+  color: var(--main-orange);
 }
 /******************************************
 /* ADDITIONAL STYLES
