@@ -278,14 +278,12 @@ Looking forward to making more contributions to this open source project!<br>
 
 ---
 
-### Day 12: July 28, 2022
+### Day 12: July 28, 2022 - Thursday
 
 #### Todays's Progress
 
 • Started and finished [Mayanwolfe Explains CSS Floats](https://www.youtube.com/watch?v=sjdsDxqt8vY)<br>
-• Started and finished Class 10 homework - [Cuisine Restaurant]()<br>
-• Started [JavaScript Crash Course - Traversy Media](https://www.youtube.com/watch?v=hdI2bqOjy3c)<br>
-• Review ANKI<br>
+• Started Class 10 homework - [Cuisine Restaurant](./restaurant-layout/index.html)<br>
 
 #### Thoughts
 
@@ -326,6 +324,56 @@ section{
   overflow: hidden;
 }
 ```
+
+---
+
+### Day 13: July 29, 2022 - Friday
+
+#### Todays's Progress
+
+• Continued Class 10 homework - [Cuisine Restaurant](./restaurant-layout/index.html)<br>
+
+#### Thoughts
+
+• Honestly was feeling a little burnt out from pushing so hard to finish these layouts. I took a rest day just as you would when working out. Still did 10 minutes to get a little bit in though.
+
+---
+
+### Day 14: July 30, 2022 - Saturday
+
+#### Todays's Progress
+
+• Continued Class 10 homework - [Cuisine Restaurant](./restaurant-layout/index.html)<br>
+
+#### Thoughts
+
+• STILL working on the restaraunt layout. There are so many additional techniques being used to learn: text overlay on images, slideshow images, bottom border nav. Also had to dig for the original images. Spent WAY too much time on these things.
+
+---
+
+### Day 15: July 31, 2022 - Sunday
+
+#### Todays's Progress
+
+• Finished Class 10 homework - [Cuisine Restaurant](./restaurant-layout/index.html)<br>
+
+#### Thoughts
+
+• FINALLY DONE!!! Putting this away for now. My brain definitely needed to go into diffuse mode so things could click instead of me staring at the screen for an hour wondering why it's not looking how I imagine it. For hair salon, I plan to work the wireframe without any content to get a good positioning on everything and make it easier for myself.
+
+---
+
+### Day 16: August 1, 2022 - Monday
+
+#### Todays's Progress
+
+• Started and finished Class 10 homework - [Hair Salon](./hair-salon-layout/index.html)<br>
+• Started [JavaScript Crash Course - Traversy Media](https://www.youtube.com/watch?v=hdI2bqOjy3c)<br>
+• Review ANKI<br>
+
+#### Thoughts
+
+• Finished the wireframe for hair salon in 1 hour so I'm pretty happy about that! The wireframe and time away really helped things click and not overcomplicate it anymore. Ready to move on to JavaScript!!!
 
 ---
 
