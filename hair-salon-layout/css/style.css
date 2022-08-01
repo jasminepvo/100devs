@@ -1,0 +1,224 @@
+/* Box Model Hack */
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+img,
+video {
+  height: auto;
+  width: 100%;
+}
+
+/* Clear fix hack */
+.clearfix:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+}
+
+.clear {
+  clear: both;
+}
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+:root {
+  --font: "Roboto", "Source Sans Pro", "Roboto Condensed", sans-serif;
+  --main-grey: rgb(99, 116, 136);
+  --main-lightgrey: rgb(214, 218, 222);
+  --main-darkgrey: rgb(22, 29, 37);
+  --main-white: rgb(255, 255, 255);
+}
+
+body {
+  /* border: 2px solid lightblue; */
+  font-family: var(--font);
+}
+a {
+  text-decoration: none;
+}
+li {
+  list-style: none;
+}
+/******************************************
+/* LAYOUT
+/*******************************************/
+/* header portion */
+header {
+  height: 10%;
+  width: 100%;
+  border: 2px solid pink;
+}
+header img,
+nav,
+span {
+  border: 2px solid yellow;
+  float: left;
+}
+header img {
+  width: 20%;
+  height: 100%;
+}
+header nav {
+  width: 70%;
+  height: 100%;
+}
+header span {
+  width: 10%;
+  height: 100%;
+}
+header li {
+  float: left;
+  border: 2px solid lightblue;
+  height: 100%;
+  width: 12.5%;
+  padding: 2%;
+}
+
+/* main portion */
+main {
+  height: 90%;
+  width: 100%;
+  border: 2px solid lightgreen;
+}
+.top {
+  border: 2px solid papayawhip;
+  height: 35%;
+  margin-top: 10%;
+  margin-left: 10%;
+  margin-right: 30%;
+}
+.bottom {
+  border: 2px solid plum;
+  height: 30%;
+  margin-top: 5%;
+  margin-left: 10%;
+  margin-right: 75%;
+}
+
+/* about portion */
+.about {
+  height: 30%;
+  width: 100%;
+  border: 2px solid royalblue;
+  padding: 5% 15%;
+}
+.about div {
+  height: 100%;
+  width: 33.33%;
+  float: left;
+  border: 2px solid lemonchiffon;
+  text-align: center;
+}
+
+/* news portion */
+.news {
+  height: 40%;
+  width: 100%;
+  border: 2px solid palevioletred;
+  padding: 5% 15%;
+}
+.news div {
+  height: 100%;
+  width: 50%;
+  border: 2px solid turquoise;
+  float: left;
+}
+.news-left h3 {
+  height: 35%;
+  width: 100%;
+  border: 2px solid black;
+  padding-right: 25%;
+  margin: 0;
+}
+.news-left p {
+  height: 50%;
+  width: 100%;
+  border: 2px solid thistle;
+  padding-right: 25%;
+  margin: 0;
+}
+.news-left button {
+  height: 15%;
+  width: 40%;
+  border: 2px solid black;
+  padding-right: 5%;
+  margin: 0;
+}
+
+/* services portion */
+.services-top {
+  height: 60%;
+  width: 100%;
+  border: 2px solid royalblue;
+  padding: 5% 15%;
+}
+.services-top div {
+  height: 100%;
+  width: 28.3%;
+  float: left;
+  border: 2px solid lightcoral;
+  text-align: center;
+  margin-right: 5%;
+}
+
+.services-bottom {
+  height: 40%;
+  width: 100%;
+  border: 2px solid magenta;
+  padding: 5% 15%;
+}
+.services-bottom div {
+  height: 100%;
+  width: 70%;
+  border: 2px solid paleturquoise;
+}
+
+/* lookbook portion */
+.lookbook {
+  height: 90%;
+  width: 100%;
+  border: 2px solid gold;
+  padding: 5% 15%;
+}
+.lookbook section {
+  height: 100%;
+  width: 33.3%;
+  border: 2px solid plum;
+  float: left;
+}
+.small {
+  height: 30%;
+  width: 90%;
+  border: 2px solid turquoise;
+  margin: 5%;
+}
+.long {
+  height: 60%;
+  width: 90%;
+  border: 2px solid salmon;
+  margin: 5%;
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+@media screen and (max-width: 600px) {
+}
+@media (min-width: 601px) and (max-width: 900px) {
+}
