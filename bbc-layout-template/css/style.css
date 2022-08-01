@@ -113,7 +113,7 @@ main > h2 {
 }
 
 main > section {
-  border: 2px solid blue;
+  /* border: 2px solid blue; */
   height: 330px;
   float: left;
   width: 50%;
@@ -122,7 +122,7 @@ main > section {
 main > section > h1,
 main section > p {
   /* float: left; */
-  border: 2px solid red;
+  /* border: 2px solid red; */
 }
 main > section > section {
   /* border: 2px solid gold; */
