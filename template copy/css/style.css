@@ -49,8 +49,32 @@ footer {
 
 /******************************************
 /* ADDITIONAL STYLES
-/*******************************************/
-@media screen and (max-width: 600px) {
-}
-@media (min-width: 601px) and (max-width: 900px) {
-}
+/*******************************************
+/* On mobile, please make all sections stack  */
+/* @media all and (max-width: 390px) {
+  main section,
+  .bottom section {
+    width: 100%;
+  }
+} */
+
+/* On tablet, please make the sections in main stack  */
+/* @media all and (max-width: 820px) {
+  main section {
+    width: 100%;
+  }
+} */
+
+/* On laptop, please keep the normal layout, but everything should be light green */
+/* @media all and (min-width: 820px) {
+  * {
+    background-color: lightgreen;
+  }
+} */
+
+/* On larger screens, please keep the normal layout, but everything should be light blue */
+/* @media all and (min-width: 1024px) {
+  * {
+    background-color: lightblue;
+  }
+} */
