@@ -51,13 +51,6 @@ footer {
 /* ADDITIONAL STYLES
 /*******************************************/
 @media screen and (max-width: 600px) {
-  section {
-  }
 }
 @media (min-width: 601px) and (max-width: 900px) {
-  section {
-  }
-  . {
-    display: none;
-  }
 }
