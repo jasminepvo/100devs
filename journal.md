@@ -394,6 +394,8 @@ section{
 
 • I have missed the motivational videos so much, it was definitely what I needed. First class of JavaScript was great! Leon brought so much energy, it really got me pumped. I've gone over manipulating the DOM before but idk, the way he explains it.. things just click faster.
 
+• Good Pseudo Code = Good Code 🤝🏼 ALWAYS think through the steps in plain language before writing any code. Pseudo code gives us direction.
+
 ---
 
 ### Day 18: August 3, 2022
