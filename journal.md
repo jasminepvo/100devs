@@ -370,11 +370,45 @@ section{
 • Started and finished Class 10 homework - [Hair Salon](./hair-salon-layout/index.html)<br>
 • Started [JavaScript Crash Course - Traversy Media](https://www.youtube.com/watch?v=hdI2bqOjy3c)<br>
 • Started and finished Class 11 lecture on Youtube<br>
-• Review ANKI<br>
 
 #### Thoughts
 
 • Finished the wireframe for hair salon in 1 hour so I'm pretty happy about that! The wireframe and time away really helped things click and not overcomplicate it anymore. The lecture was a good review (and showed how much time would have been saved using flex instead of float) but I am sooo ready to move on to JavaScript tomorrow!!!
+
+---
+
+### Day 17: August 2, 2022
+
+#### Todays's Progress
+
+• Listened to motivational video: [I still have a soul](https://youtu.be/01CL029k7pU)<br>
+• Started and finished Class 12 lecture on Youtube<br>
+• Read and completed the tasks [javascript.info - Variables](https://javascript.info/variables)<br>
+• Read and completed the tasks [javascript.info - Function Basics](https://javascript.info/function-basics)<br>
+• Listened to motivational video: [What will you do with it? - Eric Thomas](https://youtu.be/dV9worye5g0)<br>
+• Started and finished Class 13 lecture on Youtube<br>
+• Read and completed the tasks [javascript.info - Function Expressions](https://javascript.info/function-expressions)<br>
+• Read and completed the tasks [javascript.info - Arrow Function Basics](https://javascript.info/arrow-functions-basics)<br>
+
+#### Thoughts
+
+• I have missed the motivational videos so much, it was definitely what I needed. First class of JavaScript was great! Leon brought so much energy, it really got me pumped. I've gone over manipulating the DOM before but idk, the way he explains it.. things just click faster.
+
+---
+
+### Day 18: August 3, 2022
+
+#### Todays's Progress
+
+#### Thoughts
+
+---
+
+### Day 19: August 4, 2022
+
+#### Todays's Progress
+
+#### Thoughts
 
 ---
 
