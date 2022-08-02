@@ -394,7 +394,9 @@ section{
 
 • I have missed the motivational videos so much, it was definitely what I needed. First class of JavaScript was great! Leon brought so much energy, it really got me pumped. I've gone over manipulating the DOM before but idk, the way he explains it.. things just click faster.
 
-• Good Pseudo Code = Good Code 🤝🏼 ALWAYS think through the steps in plain language before writing any code. Pseudo code gives us direction.
+• I LOVED Class 13! Especially the bachelor examples with toggling pictures with an event listener, I can definitely think of ways to use this. Huge bachelor fan also! The temperature converter was so cool and so simple the way he did it. Really feel like I'm getting a good understanding of manipulating the DOM.
+
+- Good Pseudo Code = Good Code 🤝🏼 ALWAYS think through the steps in plain language before writing any code. Pseudo code gives us direction.
 
 ---
 
