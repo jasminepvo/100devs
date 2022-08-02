@@ -369,11 +369,12 @@ section{
 
 • Started and finished Class 10 homework - [Hair Salon](./hair-salon-layout/index.html)<br>
 • Started [JavaScript Crash Course - Traversy Media](https://www.youtube.com/watch?v=hdI2bqOjy3c)<br>
+• Started and finished Class 11 lecture on Youtube<br>
 • Review ANKI<br>
 
 #### Thoughts
 
-• Finished the wireframe for hair salon in 1 hour so I'm pretty happy about that! The wireframe and time away really helped things click and not overcomplicate it anymore. Ready to move on to JavaScript!!!
+• Finished the wireframe for hair salon in 1 hour so I'm pretty happy about that! The wireframe and time away really helped things click and not overcomplicate it anymore. The lecture was a good review (and showed how much time would have been saved using flex instead of float) but I am sooo ready to move on to JavaScript tomorrow!!!
 
 ---
 
