@@ -273,7 +273,7 @@ Looking forward to making more contributions to this open source project!<br>
   5. Select Capture full-size screenshot.<br>
   6. Once Chrome takes the screenshot, it should save it into your Downloads folder. Voila!<br>
 
-• AHHHH I FINISHED SOURCE LAYOUT IN UNDER 2 HOURS!!! I'm getting quicker i'm so proud and it actually looks decent or as my boyfriend would say it looks "professional". So happy!!!!
+• AHHHH I FINISHED SOURCE LAYOUT IN UNDER 2 HOURS!!! I'm getting quicker i'm so proud and it actually looks decent or as my boyfriend would say it looks "professional". So happy!!!!<br>
 ![](./source-layout/finishedSourceLayout.html.png)
 
 ---
@@ -402,13 +402,18 @@ section{
 
 #### Todays's Progress
 
-• Start and finish Class 12 homework - Delete all js and redo - [JS Tasks](./class12-materials/)✔️<br>
+• Start and finish Class 12 homework - Delete all js and redo - [Background Picker](./background-picker-globe/index.html)✔️<br>
+• Start and finish Class 12 homework - Delete all js and redo - [Simple Calculator](./class12-materials/)✔️<br>
+• Start and finish Class 12 homework - Delete all js and redo - [What is today?](./class12-materials/)✔️<br>
 • Read and completed the tasks [javascript.info - Function Expressions](https://javascript.info/function-expressions)✔️<br>
 • Read and completed the tasks [javascript.info - Arrow Function Basics](https://javascript.info/arrow-functions-basics)✔️<br>
 • Read [javascript.info - The JS Way Ch. 4](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter04.md)<br>
 • Start and finish Class 13 homework - Delete all js and redo - [JS Tasks](./class12-materials/)✔️<br>
 
 #### Thoughts
+
+• YOOOOO, at first I was super confused on how to add the li element in JavaScript and realized I am big braining and overanalyzing this too much. Added the li element in html, adjust the styling to css to fit the new li, then added my JS function and BOOM! I got it!! It clicked and I was able to redo it without peaking!!! Here's the result for my Youtube background picker:<br>
+![](./background-picker-globe/globe.gif)
 
 ---
 
