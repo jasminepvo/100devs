@@ -1,15 +1,21 @@
 document.querySelector("#check").addEventListener("click", check);
 
 function check() {
-  const day = document.querySelector("#day").value.toLowerCase;
-
+  // handle capital letters
+  const day = document.querySelector("#day").value.toLowerCase();
+  let result;
+  // check date
   if (day === "tuesday" || day === "thursday") {
-    alert("CLASS DAY!");
+    result = "CLASS DAY!";
   } else if (day === "saturday" || day === "sunday") {
-    alert("Weekend!");
+    result = "Weekend!";
+  } else if (day === "wednesday") {
+    // add a check for humpday
+    result = "HUMPPPP DAYYYY🐪🐪🐪🐪";
   } else {
-    alert("BORRRINNNNGGGGG!!!!");
+    result = "BORRRINNNNGGGGG!!!!";
   }
-}
 
-//Handle capital letters, place results in DOM, add a check for humpday (Wed)
+  //place results in DOM
+  document.querySelector("#placeToSee").innerText = result;
+}
