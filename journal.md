@@ -106,7 +106,7 @@ P.S. ✔️ are for homeworks that needed to be turned in on either [codepen](ww
 - separate css folder for style.css sheets to address separation of concerns<br>
 - sleepytime.com was mentioned to track your sleep
 
-• Hurray! I finished the css homeworks. My perfectionism kicked in while doing the Simple Site lab and I think it's pretty accurate other than making the border responsive with the background color. I have no idea on how to do that YET but I'm waiting to watch the responsive lecture. Three layouts using ONLY float was actually easier than I thought it would be. This display layout confused me on freeCodeCamp and TOP but Leon explained it so well that I'd like to say I'm pretty good with floats now 😎
+• Hurray! I finished the css homeworks. My perfectionism kicked in while doing the Simple Site lab and I think it's pretty accurate other than making the border responsive with the background color. I have no idea on how to do that YET but I'm waiting to watch the responsive lecture. Three layouts using ONLY float was actually easier than I thought it would be. This display layout confused me on freeCodeCamp and TOP but Leon explained it so well that I'd like to say I'm pretty good with floats now 😎<br>
 
 ---
 
@@ -172,7 +172,7 @@ BONUS: Attend Startups Oasis Networking in ATL at ATDC @7PM  🤝🏼<br>
 
 #### Todays's Progress
 
-• Started and finished Class 08 homework pt. 1 - [Layout Replica of TechCrunch](./techcrunch-layout-template/index.html)<br>
+• Started and finished Class 08 homework pt. 1 - [Layout Replica of TechCrunch](./techcrunch-layout-template/index.html)✔️<br>
 ![](./techcrunch-layout-template/finsihedLayout.jpg)<br>
 
 #### Thoughts
@@ -185,7 +185,7 @@ BONUS: Attend Startups Oasis Networking in ATL at ATDC @7PM  🤝🏼<br>
 
 #### Todays's Progress
 
-• Started Class 10 lecture<br>
+• Started Class 10 lecture on Youtube<br>
 • Started Class 08 homework pt. 2 - [Layout Replica of Khan Academy](./khanacademy-layout-template/index.html)<br>
 • Started Independence Day<br>
 
@@ -199,7 +199,7 @@ BONUS: Attend Startups Oasis Networking in ATL at ATDC @7PM  🤝🏼<br>
 
 #### Todays's Progress
 
-• Finished Class 08 homework pt. 2 - [Layout Replica of Khan Academy](./khanacademy-layout-template/index.html)<br>
+• Finished Class 08 homework pt. 2 - [Layout Replica of Khan Academy](./khanacademy-layout-template/index.html)✔️<br>
 ![](./khanacademy-layout-template/finishedLayout.jpg)<br>
 • Started Class 08 homework pt. 3 - [Layout Replica of BBC](./bbc-layout-template/index.html)<br>
 • Finished Independence Day<br>
@@ -227,7 +227,7 @@ BONUS: Attend Startups Oasis Networking in ATL at ATDC @7PM  🤝🏼<br>
 
 • Went on an interview<br>
 • Completed Java vending machine assessment<br>
-• Finished Class 08 homework pt. 3 - [Layout Replica of BBC](./bbc-layout-template/index.html)<br>
+• Finished Class 08 homework pt. 3 - [Layout Replica of BBC](./bbc-layout-template/index.html)✔️<br>
 
 #### Thoughts
 
@@ -241,9 +241,9 @@ BONUS: Attend Startups Oasis Networking in ATL at ATDC @7PM  🤝🏼<br>
 #### Todays's Progress
 
 • Made a commit to [#FitDevs](https://fitdevs-withkat.github.io/Support/landing_page/)<br>
-• Started and finished Class 10 lecture<br>
-• Started and finished Class 10 homework - [Source Layout](./source-layout/index.html)<br>
-• Started and finished Class 10 homework - [Ground Layout](./level-ground-layout/index.html)<br>
+• Started and finished Class 10 lecture on Youtube<br>
+• Started and finished Class 10 homework - [Source Layout](./source-layout/index.html)✔️<br>
+• Started and finished Class 10 homework - [Ground Layout](./level-ground-layout/index.html)✔️<br>
 
 #### Thoughts
 
@@ -355,7 +355,7 @@ section{
 
 #### Todays's Progress
 
-• Finished Class 10 homework - [Cuisine Restaurant](./restaurant-layout/index.html)<br>
+• Finished Class 10 homework - [Cuisine Restaurant](./restaurant-layout/index.html)✔️<br>
 
 #### Thoughts
 
@@ -367,7 +367,7 @@ section{
 
 #### Todays's Progress
 
-• Started and finished Class 10 homework - [Hair Salon](./hair-salon-layout/index.html)<br>
+• Started and finished Class 10 homework - [Hair Salon](./hair-salon-layout/index.html)✔️<br>
 • Started [JavaScript Crash Course - Traversy Media](https://www.youtube.com/watch?v=hdI2bqOjy3c)<br>
 • Started and finished Class 11 lecture on Youtube<br>
 
@@ -377,18 +377,16 @@ section{
 
 ---
 
-### Day 17: August 2, 2022
+### Day 17: August 2, 2022 - Tuesday
 
 #### Todays's Progress
 
 • Listened to motivational video: [I still have a soul](https://youtu.be/01CL029k7pU)<br>
 • Started and finished Class 12 lecture on Youtube<br>
-• Read and completed the tasks [javascript.info - Variables](https://javascript.info/variables)<br>
-• Read and completed the tasks [javascript.info - Function Basics](https://javascript.info/function-basics)<br>
+• Read and completed the tasks [javascript.info - Variables](https://javascript.info/variables)✔️<br>
+• Read and completed the tasks [javascript.info - Function Basics](https://javascript.info/function-basics)✔️<br>
 • Listened to motivational video: [What will you do with it? - Eric Thomas](https://youtu.be/dV9worye5g0)<br>
 • Started and finished Class 13 lecture on Youtube<br>
-• Read and completed the tasks [javascript.info - Function Expressions](https://javascript.info/function-expressions)<br>
-• Read and completed the tasks [javascript.info - Arrow Function Basics](https://javascript.info/arrow-functions-basics)<br>
 
 #### Thoughts
 
@@ -400,17 +398,29 @@ section{
 
 ---
 
-### Day 18: August 3, 2022
+### Day 18: August 3, 2022 - Wednesday
 
 #### Todays's Progress
+
+• Start and finish Class 12 homework - Delete all js and redo - [JS Tasks](./class12-materials/)✔️<br>
+• Read and completed the tasks [javascript.info - Function Expressions](https://javascript.info/function-expressions)✔️<br>
+• Read and completed the tasks [javascript.info - Arrow Function Basics](https://javascript.info/arrow-functions-basics)✔️<br>
+• Read [javascript.info - The JS Way Ch. 4](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter04.md)<br>
+• Start and finish Class 13 homework - Delete all js and redo - [JS Tasks](./class12-materials/)✔️<br>
 
 #### Thoughts
 
 ---
 
-### Day 19: August 4, 2022
+### Day 19: August 4, 2022 - Thursday
 
 #### Todays's Progress
+
+• Started and finished Class 14 lecture on Youtube<br>
+• Start and finish Class 14 homework - Delete all js and redo - [JS Tasks](./class12-materials/)✔️<br>
+• Started and finished Class 15 lecture on Youtube<br>
+• Started and finished Class 15 homework - Setup your [portfolio]()✔️<br>
+• Started and finished Class 15 homework - Draft your [proposal/contract]()✔️<br>
 
 #### Thoughts
 
@@ -426,4 +436,32 @@ section{
 #### Thoughts
 
 
---- -->
+---
+
+• Started and finished Class 16 lecture on Youtube<br>
+• Started and finished Class 17 lecture on Youtube<br>
+• Started and finished Class 18 lecture on Youtube<br>
+• Started and finished Super Review Class on Youtube<br>
+• Started and finished Class 19 lecture on Youtube<br>
+• Started and finished Class 20 lecture on Youtube<br>
+• Started and finished Class 21 lecture on Youtube<br>
+• Started and finished Class 22 lecture on Youtube<br>
+• Started and finished Class 23 lecture on Youtube<br>
+• Started and finished Class 24 lecture on Youtube<br>
+• Started and finished Class 25 lecture on Youtube<br>
+• Started and finished Class 26 lecture on Youtube<br>
+• Started and finished Class 27 lecture on Youtube<br>
+• Started and finished Class 28 lecture on Youtube<br>
+• Started and finished Class 29 lecture on Youtube<br>
+• Started and finished Class 30 lecture on Youtube<br>
+• Started and finished Class 31 lecture on Youtube<br>
+• Started and finished Class 32 lecture on Youtube<br>
+• Started and finished Class 33 lecture on Youtube<br>
+• Started and finished Class 34 lecture on Youtube<br>
+• Started and finished Class 35 lecture on Youtube<br>
+• Started and finished Class 36 lecture on Youtube<br>
+• Started and finished Class 37 lecture on Youtube<br>
+• Started and finished Class 38 lecture on Youtube<br>
+• Started and finished Class 39 lecture on Youtube<br>
+• Started and finished Class 40 lecture on Youtube<br>
+-->
