@@ -415,6 +415,7 @@ section{
 • YOOOOO, at first I was super confused on how to add the li element in JavaScript and realized I am big braining and overanalyzing this too much. Added the li element in html, adjust the styling to css to fit the new li, then added my JS function and BOOM! I got it!! It clicked and I was able to redo it without peaking!!! Here are the results for the homework:<br>
 ![](./background-picker-globe/globe.gif)
 ![](./not-simple-calculator/calc.gif)
+![](./boring-class/day.gif)<br>
 
 ---
 
