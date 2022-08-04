@@ -408,7 +408,7 @@ section{
 • Read and completed the tasks [javascript.info - Function Expressions](https://javascript.info/function-expressions)✔️<br>
 • Read and completed the tasks [javascript.info - Arrow Function Basics](https://javascript.info/arrow-functions-basics)✔️<br>
 • Read [javascript.info - The JS Way Ch. 4](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter04.md)<br>
-• Start and finish Class 13 homework - Delete all js and redo - [JS Tasks](./class12-materials/)✔️<br>
+• Start and finish Class 13 homework - Delete all js and redo - [JS Tasks](./class13-materials/)✔️<br>
 
 #### Thoughts
 
@@ -424,7 +424,7 @@ section{
 #### Todays's Progress
 
 • Started and finished Class 14 lecture on Youtube<br>
-• Start and finish Class 14 homework - Delete all js and redo - [JS Tasks](./class12-materials/)✔️<br>
+• Start and finish Class 14 homework - Delete all js and redo - [JS Tasks](./class14-materials/)✔️<br>
 • Started and finished Class 15 lecture on Youtube<br>
 • Started and finished Class 15 homework - Setup your [portfolio]()✔️<br>
 • Started and finished Class 15 homework - Draft your [proposal/contract]()✔️<br>
