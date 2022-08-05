@@ -425,11 +425,26 @@ section{
 
 • Started and finished Class 14 lecture on Youtube<br>
 • Start and finish Class 14 homework - Delete all js and redo - [JS Tasks](./class14-materials/)✔️<br>
-• Started and finished Class 15 lecture on Youtube<br>
-• Started and finished Class 15 homework - Setup your [portfolio]()✔️<br>
-• Started and finished Class 15 homework - Draft your [proposal/contract]()✔️<br>
+• Started Class 15 lecture on Youtube<br>
 
 #### Thoughts
+
+• Went over a lot of functions today and I feel really good about them. This is where my knowledge of programming fundamentals is coming to play and knowing C++/Java has been super useful. They say you only need to learn one language and the programming fundamentals.. then learning another language is easy. THEY WERE RIGHT. Picking up on JavaScript incredibly fast so I'm REALLY happy!!!<br>
+
+---
+
+### Day 20: August 5, 2022 - Friday
+
+#### Todays's Progress
+
+• Finished Class 15 lecture on Youtube<br>
+• Started and finished Class 15 homework - Setup your [portfolio]()✔️<br>
+• Started and finished Class 15 homework - Draft your [proposal]()✔️<br>
+• Started and finished Class 16 lecture on Youtube<br>
+
+#### Thoughts
+
+• "It's about the value you provide, not the tools you use." Freelancing class was insanely good! He went over everything, I still can't believe this is free haha. I love that he had office hours to answer more questions also. Everything is on my notion! As for the homework, I'm excited to get started. <br>
 
 ---
 
@@ -445,7 +460,6 @@ section{
 
 ---
 
-• Started and finished Class 16 lecture on Youtube<br>
 • Started and finished Class 17 lecture on Youtube<br>
 • Started and finished Class 18 lecture on Youtube<br>
 • Started and finished Super Review Class on Youtube<br>
