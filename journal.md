@@ -438,9 +438,7 @@ section{
 #### Todays's Progress
 
 • Finished Class 15 lecture on Youtube<br>
-• Started and finished Class 15 homework - Setup your [portfolio]()✔️<br>
-• Started and finished Class 15 homework - Draft your [proposal]()✔️<br>
-• Started and finished Class 16 lecture on Youtube<br>
+• Started Class 15 homework - Setup your [portfolio]()✔️<br>
 
 #### Thoughts
 
@@ -448,7 +446,56 @@ section{
 
 ---
 
+### Day 21: August 6, 2022 - Saturday
+
+#### Todays's Progress
+
+• Continued Class 15 homework - Setup your [portfolio]()✔️<br>
+
+#### Thoughts
+
+• Looked at a couple templates, my OCD/perfectionist is coming out and spent way too much time on this. It's so difficult for me to pick one of these and I've been contemplating with the idea of making my own. Have friends in town so didn't get much done.
+
+---
+
+### Day 22: August 7, 2022 - Sunday
+
+#### Todays's Progress
+
+• Continued Class 15 homework - Setup your [portfolio]()✔️<br>
+• Started and finished Class 15 homework - Draft your [proposal]()✔️<br>
+
+#### Thoughts
+
+• Friends still in town.. but I got my proposal done and started to add things to my portfolio.
+
+---
+
+### Day 23: August 8, 2022 - Monday
+
+#### Todays's Progress
+
+• Finished Class 15 homework - Setup your [portfolio]()✔️<br>
+• Started and finished Class 16 lecture on Youtube<br>
+
+#### Thoughts
+
+• I'm so sad I forgot to push my code to Github yesterday and lost my streak :( but it's okay. I'll just have to start over!
+
+---
+
 <!-- TEMPLATE
+
+### Day 24: August 9, 2022 - Tuesday
+
+#### Todays's Progress
+
+
+
+#### Thoughts
+
+
+---
 ### Day : , 2022
 
 #### Todays's Progress
