@@ -459,9 +459,9 @@ a:hover {
   width: 100%;
 }
 
-/* Main */
+/* Main-Header */
 
-#main {
+#main-header {
   height: 100%;
   left: 0;
   position: fixed;
@@ -470,7 +470,7 @@ a:hover {
   width: 100%;
 }
 
-#main:before {
+#main-header:before {
   content: "";
   display: inline-block;
   height: 100%;
