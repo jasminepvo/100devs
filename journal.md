@@ -438,7 +438,7 @@ section{
 #### Todays's Progress
 
 • Finished Class 15 lecture on Youtube<br>
-• Started Class 15 homework - Setup your [portfolio]()✔️<br>
+• Started Class 15 homework - Setup your [portfolio](./portfolio/index.html)✔️<br>
 
 #### Thoughts
 
@@ -450,11 +450,11 @@ section{
 
 #### Todays's Progress
 
-• Continued Class 15 homework - Setup your [portfolio]()✔️<br>
+• Continued Class 15 homework - Setup your [portfolio](./portfolio/index.html)✔️<br>
 
 #### Thoughts
 
-• Looked at a couple templates, my OCD/perfectionist is coming out and spent way too much time on this. It's so difficult for me to pick one of these and I've been contemplating with the idea of making my own. Have friends in town so didn't get much done.
+• Looked at a couple templates, my OCD/perfectionist is coming out and spent way too much time on this. It's so difficult for me to pick one of these and I've been contemplating with the idea of making my own. Have friends in town so didn't get much done.<br>
 
 ---
 
@@ -462,12 +462,12 @@ section{
 
 #### Todays's Progress
 
-• Continued Class 15 homework - Setup your [portfolio]()✔️<br>
+• Continued Class 15 homework - Setup your [portfolio](./portfolio/index.html)✔️<br>
 • Started and finished Class 15 homework - Draft your [proposal]()✔️<br>
 
 #### Thoughts
 
-• Friends still in town.. but I got my proposal done and started to add things to my portfolio.
+• Friends still in town.. but I got my proposal done and started to add things to my portfolio.<br>
 
 ---
 
@@ -475,27 +475,47 @@ section{
 
 #### Todays's Progress
 
-• Finished Class 15 homework - Setup your [portfolio]()✔️<br>
-• Started and finished Class 16 lecture on Youtube<br>
+• Continued Class 15 homework - Setup your [portfolio](./portfolio1/index.html)✔️<br>
 
 #### Thoughts
 
-• I'm so sad I forgot to push my code to Github yesterday and lost my streak :( but it's okay. I'll just have to start over!
+• I'm so sad I forgot to push my code to Github yesterday and lost my streak :( but it's okay. I'll just have to start over! Played around with another template and like the way it looks. Just need to figure out how to add to the body now. <br>
 
 ---
-
-<!-- TEMPLATE
 
 ### Day 24: August 9, 2022 - Tuesday
 
 #### Todays's Progress
 
-
+• Continued Class 15 homework - Setup your [portfolio](./portfolio2/index.html)✔️<br>
 
 #### Thoughts
 
+• I really like my header but it's been difficult figuring out a way to combine the two templates so I might have to forget about the header for now and get something up and running. Especially since I had a recruiter reach out with an amazing position where they are looking for 0-2yrs of experience, someone eager to learn which is exactly where I'm at. The call is on Friday, Aug 12 1PM with Kevel!<br>
 
 ---
+
+### Day 25: August 10, 2022 - Wednesday
+
+#### Todays's Progress
+
+• Coffee Chat with Liv 1-2PM☕️ <br>
+• Finished Class 15 homework - Setup your [portfolio](./portfolio3/index.html)✔️<br>
+• Started and finished Class 16 lecture on Youtube<br>
+• Started and finished Class 17 lecture - Networking<br>
+• Started and finished Class 18 lecture - Project Night<br>
+• Started and finished Super Review Class on Youtube<br>
+
+#### Thoughts
+
+• Super excited about my coffee chat today with Liv! It was so good to talk to her about the tech industry & traveling & her concept. We scheduled another call for Friday, Aug 12 at 2:30PM to talk about development and hoping to be able to contribute my skills to her amazing idea! I love meeting women in tech, so far all have so inspiring and empowering.<br>
+
+• I desperately NEED to get my hands on JavaScript again so I'm moving onto Class 16 lecture and will get back to my portfolio after. I feel like an oddball because I love the super nerdy side of building functions but also have a good eye for design in HTML/CSS.. it just takes me a LOT longer on the CSS aspect. I can't wait to learn a library or framework that will help speed up the process?? Maybe.. I hope its out there.<br>
+
+---
+
+<!-- TEMPLATE
+
 ### Day : , 2022
 
 #### Todays's Progress
@@ -507,9 +527,7 @@ section{
 
 ---
 
-• Started and finished Class 17 lecture on Youtube<br>
-• Started and finished Class 18 lecture on Youtube<br>
-• Started and finished Super Review Class on Youtube<br>
+
 • Started and finished Class 19 lecture on Youtube<br>
 • Started and finished Class 20 lecture on Youtube<br>
 • Started and finished Class 21 lecture on Youtube<br>
