@@ -501,22 +501,93 @@ section{
 
 • Coffee Chat with Liv 1-2PM☕️ <br>
 • Finished Class 15 homework - Setup your [portfolio](./portfolio3/index.html)✔️<br>
+• Read before class: [Thinking by Walter D Wintle](https://allpoetry.com/poem/8624439-Thinking-by-Walter-D-Wintle)<br>
 • Started and finished Class 16 lecture on Youtube<br>
-• Started and finished Class 17 lecture - Networking<br>
-• Started and finished Class 18 lecture - Project Night<br>
-• Started and finished Super Review Class on Youtube<br>
+• Read [Invictus by William Ernest Henley](https://www.poetryfoundation.org/poems/51642/invictus)<br>
+• Read The JavaScript Way Ch. 1 - [3, 2, 1.. Code](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter01.md)<br>
+• Read The JavaScript Way Ch. 2 - [Play with variables](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter02.md)<br>
+• Read The JavaScript Way Ch. 3 - [Add conditions](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter03.md)<br>
+• Read The JavaScript Way Ch. 4 - [Repeat statements](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter04.md)<br>
+• Read The JavaScript Way Ch. 5 - [Write functions](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter05.md)<br>
 
 #### Thoughts
 
-• The guests from out of town are gone so I will be back on my regular routine now and getting a lot more done. I haven't been able to code at my desk for 4 days and found myself dreaming about coding again LOL. Also making it a goal from today forward to be more active on Twitter just because the times I have been on, there's always such a GREAT Twitter space that I feel I get so much real value out of. The community is also so amazing - I mean strangers encouraging you, it always means a lot to me. I also think I'm at a place now where I feel really confident with my skills in calling myself a Software Engineer so thank you Leon. <br>
+• The guests from out of town are gone so I will be back on my regular routine now and getting a lot more done. I haven't been able to code at my desk for 4 days and found myself dreaming about coding again LOL😂. Also making it a goal from today forward to be more active on Twitter just because the times I have been on, there's always such a GREAT Twitter space that I feel I get so much real value out of. The community is also so amazing - I mean strangers encouraging you, it always means a lot to me. I also think I'm at a place now where I feel really confident with my skills in calling myself a Software Engineer so thank you Leon. 🥺<br>
 
-• Super excited about my coffee chat today with Liv! It was so good to talk to her about the tech industry & traveling & her concept. We scheduled another call for Friday, Aug 12 at 2:30PM to talk about development and hoping to be able to contribute my skills to her amazing idea! I love meeting women in tech, so far all have so inspiring and empowering.<br>
+• Super excited about my coffee chat today with Liv! It was so good to talk to her about the tech industry & traveling & her concept. We scheduled another call for Friday, Aug 12 at 2:30PM to talk about development and hoping to be able to contribute my skills to her amazing idea! I love meeting women in tech, so far all have so inspiring and empowering. 🫶🏼<br>
 
-• I desperately NEED to get my hands on JavaScript again so I'm moving onto Class 16 lecture and will get back to my portfolio after. I feel like an oddball because I love the super nerdy side of building functions but also have a good eye for design in HTML/CSS.. it just takes me a LOT longer on the CSS aspect. I can't wait to learn a library or framework that will help speed up the process?? Maybe.. I hope its out there.<br>
+• I desperately NEED to get my hands on JavaScript again so I'm moving onto Class 16 lecture and will get back to my portfolio after. I feel like an oddball because I love the super nerdy side of building functions but also have a good eye for design in HTML/CSS.. it just takes me a LOT longer on the CSS aspect. I can't wait to learn a library or framework that will help speed up the process?? 🧐 Maybe.. I hope its out there.<br>
+
+• I LOVE the poem before class. I've been reading a lot of books lately that ALL speak on how powerful the mind is. In order to win, you have to think you will win. I'm sure this was given as pre-class hw because in coding, it can be difficult to learn this new and foreign language at first and some people might think they can't but like the poem says.. if you think you are beaten, you are. The people who succeed as a software engineer succeed BECAUSE they think they can, not because they are smarter or more experienced. 💯 Great reminder as we are starting to learn JavaScript. <br>
+
+• Class 16 - LOTS of reviewing for that spaced repitition which I personally love. Then we touched on loops which clicked instantly since I learned C++ but it's cool to see the ways JavaScript uses loops to add to the DOM. Really cool and different to see it live on the browser since lower level languages only print to the console. It was AWESOME that I could pause before each lab and complete the code ALL by myself (and also cool to see the differences in my code vs Leon but ultimately it was all the same). I feel myself picking up on JavaScript SUPER FAST ⚡️ and makes me feel like Flash but in the brain haha. <br>
 
 ---
 
 <!-- TEMPLATE
+### Day 26: August 11, 2022 - Thursday
+
+#### Todays's Progress
+
+• Started and finished Class 17 lecture - Networking<br>
+• Started and finished Class 18 lecture - Project Night<br>
+• Started Super Review Class on Youtube (3hrs/9hrs)<br>
+• Read Eloquent JavaScript Ch. 1 - [Values, Types, And Operators](https://eloquentjavascript.net/01_values.html)<br>
+• Read Eloquent JavaScript Ch. 2 - [Program Structure](https://eloquentjavascript.net/02_program_structure.html)<br>
+• Read Eloquent JavaScript Ch. 3 - [Functions](https://eloquentjavascript.net/03_functions.html)<br>
+
+#### Thoughts
+
+
+---
+
+### Day 27: August 12, 2022 - Friday
+
+#### Todays's Progress
+
+• Continued Super Review Class on Youtube (6hrs/9hrs)<br>
+• Recruiter Call with Kevel 1-2PM☕️ <br>
+• Developer Call with Liv 2:30-3:30PM☕️ <br>
+• Do [Introduction to JavaScript 1-6](https://www.codecademy.com/learn/introduction-to-javascript)<br>
+• Watch [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)<br>
+
+
+#### Thoughts
+
+
+---
+
+### Day 28: August 13, 2022 - Saturday
+
+#### Todays's Progress
+
+• Started and finished Class 19 lecture on Youtube - [Arrays]https://youtu.be/YUQUGtUbwMY)<br>
+• Read The JavaScript Way Ch. 7 - [Write functions](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md)<br>
+• Read and complete tasks - [javascript.info - array methods](https://javascript.info/array-methods)<br>
+• Read Eloquent JavaScript Ch. 4 - [Functions](https://eloquentjavascript.net/04_data.html)<br>
+• Do x problem of [8Kyu Fundamentals Track](https://codewars.com)<br>
+• Do [Day 4 - Array Cardio](https://javascript30.com/)<br>
+
+#### Thoughts
+
+• CodeWars - MUST DO A MINIMUM OF 1 A DAY
+
+---
+
+### Day 29: August 14, 2022 - Sunday
+
+#### Todays's Progress
+
+• Started and finished Class 20 lecture on Youtube<br>
+• Do AGAIN[Day 4 - Array Cardio](https://javascript30.com/)<br>
+• Read and complete tasks - [javascript.info - object](https://javascript.info/array-methods)<br>
+• Do x problem of [8Kyu Fundamentals Track](https://codewars.com)<br>
+• Started and finished Class 21 lecture on Youtube<br>
+
+#### Thoughts
+
+
+---
 
 ### Day : , 2022
 
@@ -530,9 +601,8 @@ section{
 ---
 
 
-• Started and finished Class 19 lecture on Youtube<br>
-• Started and finished Class 20 lecture on Youtube<br>
-• Started and finished Class 21 lecture on Youtube<br>
+
+
 • Started and finished Class 22 lecture on Youtube<br>
 • Started and finished Class 23 lecture on Youtube<br>
 • Started and finished Class 24 lecture on Youtube<br>
