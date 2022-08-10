@@ -503,6 +503,7 @@ section{
 • Finished Class 15 homework - Setup your [portfolio](./portfolio3/index.html)✔️<br>
 • Read before class: [Thinking by Walter D Wintle](https://allpoetry.com/poem/8624439-Thinking-by-Walter-D-Wintle)<br>
 • Started and finished Class 16 lecture on Youtube<br>
+• Complete BONUS hw code from scratch - [Bring It On Again](./class16-materials/bring-it-on-again/js/main.js)<br>
 • Read [Invictus by William Ernest Henley](https://www.poetryfoundation.org/poems/51642/invictus)<br>
 • Read The JavaScript Way Ch. 1 - [3, 2, 1.. Code](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter01.md)<br>
 • Read The JavaScript Way Ch. 2 - [Play with variables](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter02.md)<br>
