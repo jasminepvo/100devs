@@ -563,7 +563,7 @@ section{
 
 • Started and finished Class 19 lecture on Youtube - [Arrays]https://youtu.be/YUQUGtUbwMY)<br>
 • Read The JavaScript Way Ch. 7 - [Write functions](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md)<br>
-• Read and complete tasks - [javascript.info - array methods](https://javascript.info/array-methods)<br>
+• Read and complete tasks - [javascript.info - Array Methods](https://javascript.info/array-methods)<br>
 • Read Eloquent JavaScript Ch. 4 - [Functions](https://eloquentjavascript.net/04_data.html)<br>
 • Do x problem of [8Kyu Fundamentals Track](https://codewars.com)<br>
 • Do [Day 4 - Array Cardio](https://javascript30.com/)<br>
@@ -580,7 +580,7 @@ section{
 
 • Started and finished Class 20 lecture on Youtube<br>
 • Do AGAIN[Day 4 - Array Cardio](https://javascript30.com/)<br>
-• Read and complete tasks - [javascript.info - object](https://javascript.info/array-methods)<br>
+• Read and complete tasks - [javascript.info - Object](https://javascript.info/object)<br>
 • Do x problem of [8Kyu Fundamentals Track](https://codewars.com)<br>
 • Started and finished Class 21 lecture on Youtube<br>
 
