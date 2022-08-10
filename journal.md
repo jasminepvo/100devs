@@ -508,6 +508,8 @@ section{
 
 #### Thoughts
 
+• The guests from out of town are gone so I will be back on my regular routine now and getting a lot more done. I haven't been able to code at my desk for 4 days and found myself dreaming about coding again LOL. Also making it a goal from today forward to be more active on Twitter just because the times I have been on, there's always such a GREAT Twitter space that I feel I get so much real value out of. The community is also so amazing - I mean strangers encouraging you, it always means a lot to me. I also think I'm at a place now where I feel really confident with my skills in calling myself a Software Engineer so thank you Leon. <br>
+
 • Super excited about my coffee chat today with Liv! It was so good to talk to her about the tech industry & traveling & her concept. We scheduled another call for Friday, Aug 12 at 2:30PM to talk about development and hoping to be able to contribute my skills to her amazing idea! I love meeting women in tech, so far all have so inspiring and empowering.<br>
 
 • I desperately NEED to get my hands on JavaScript again so I'm moving onto Class 16 lecture and will get back to my portfolio after. I feel like an oddball because I love the super nerdy side of building functions but also have a good eye for design in HTML/CSS.. it just takes me a LOT longer on the CSS aspect. I can't wait to learn a library or framework that will help speed up the process?? Maybe.. I hope its out there.<br>
