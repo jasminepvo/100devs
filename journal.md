@@ -500,16 +500,14 @@ section{
 #### Todays's Progress
 
 • Coffee Chat with Liv 1-2PM☕️ <br>
-• Finished Class 15 homework - Setup your [portfolio](./portfolio3/index.html)✔️<br>
+• Continued Class 15 homework - Setup your [portfolio](./portfolio3/index.html)✔️<br>
 • Read before class: [Thinking by Walter D Wintle](https://allpoetry.com/poem/8624439-Thinking-by-Walter-D-Wintle)<br>
 • Started and finished Class 16 lecture on Youtube<br>
-• Complete BONUS hw code from scratch - [Bring It On Again](./class16-materials/bring-it-on-again/js/main.js)<br>
+• Started and finished Class 17 lecture - Networking<br>
+• Started and finished Class 18 lecture - Project Night<br>
 • Read [Invictus by William Ernest Henley](https://www.poetryfoundation.org/poems/51642/invictus)<br>
-• Read The JavaScript Way Ch. 1 - [3, 2, 1.. Code](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter01.md)<br>
-• Read The JavaScript Way Ch. 2 - [Play with variables](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter02.md)<br>
-• Read The JavaScript Way Ch. 3 - [Add conditions](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter03.md)<br>
-• Read The JavaScript Way Ch. 4 - [Repeat statements](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter04.md)<br>
-• Read The JavaScript Way Ch. 5 - [Write functions](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter05.md)<br>
+• Read & complete tasks for The JavaScript Way Ch. 1 - [3, 2, 1.. Code](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter01.md)<br>
+• Read & complete tasks for The JavaScript Way Ch. 2 - [Play with variables](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter02.md)<br>
 
 #### Thoughts
 
@@ -525,29 +523,33 @@ section{
 
 ---
 
-<!-- TEMPLATE
 ### Day 26: August 11, 2022 - Thursday
 
 #### Todays's Progress
 
-• Started and finished Class 17 lecture - Networking<br>
-• Started and finished Class 18 lecture - Project Night<br>
-• Started Super Review Class on Youtube (3hrs/9hrs)<br>
+• Read & complete tasks for The JavaScript Way Ch. 3 - [Add conditions](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter03.md)<br>
+• Read & complete tasks for The JavaScript Way Ch. 4 - [Repeat statements](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter04.md)<br>
+• Read & complete tasks for The JavaScript Way Ch. 5 - [Write functions](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter05.md)<br>
+• Complete BONUS hw code from scratch - [Bring It On Again](./class16-materials/bring-it-on-again/js/main.js)<br>
+• Started Super Review Frontend Crash Course on Youtube (3hrs/9hrs)<br>
 • Read Eloquent JavaScript Ch. 1 - [Values, Types, And Operators](https://eloquentjavascript.net/01_values.html)<br>
 • Read Eloquent JavaScript Ch. 2 - [Program Structure](https://eloquentjavascript.net/02_program_structure.html)<br>
 • Read Eloquent JavaScript Ch. 3 - [Functions](https://eloquentjavascript.net/03_functions.html)<br>
+• Review Resume and finish job application for [Kevel]()<br>
 
 #### Thoughts
 
+• Super Review Frontend Crash Course!!! Yoooo, it's only been 26 days and I made it here! SO excited to review over everything I've learned and hoping that with all the spaced repetition, it's all clicked in my head. "Learning to code is half hard work and half believing you can do it" - Leon<br>
 
 ---
 
+<!-- TEMPLATE
 ### Day 27: August 12, 2022 - Friday
 
 #### Todays's Progress
 
 • Continued Super Review Class on Youtube (6hrs/9hrs)<br>
-• Recruiter Call with Kevel 1-2PM☕️ <br>
+• Recruiter Call with Nikki @Kevel 1-2PM☕️ <br>
 • Developer Call with Liv 2:30-3:30PM☕️ <br>
 • Do [Introduction to JavaScript 1-6](https://www.codecademy.com/learn/introduction-to-javascript)<br>
 • Watch [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)<br>
