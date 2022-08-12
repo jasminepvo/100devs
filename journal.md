@@ -529,17 +529,19 @@ section{
 
 • Read & complete tasks for The JavaScript Way Ch. 3 - [Add conditions](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter03.md)<br>
 • Read & complete tasks for The JavaScript Way Ch. 4 - [Repeat statements](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter04.md)<br>
-• Read & complete tasks for The JavaScript Way Ch. 5 - [Write functions](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter05.md)<br>
 • Complete BONUS hw code from scratch - [Bring It On Again](./class16-materials/bring-it-on-again/js/main.js)<br>
 • Started Super Review Frontend Crash Course on Youtube (3hrs/9hrs)<br>
-• Read Eloquent JavaScript Ch. 1 - [Values, Types, And Operators](https://eloquentjavascript.net/01_values.html)<br>
-• Read Eloquent JavaScript Ch. 2 - [Program Structure](https://eloquentjavascript.net/02_program_structure.html)<br>
-• Read Eloquent JavaScript Ch. 3 - [Functions](https://eloquentjavascript.net/03_functions.html)<br>
-• Review Resume and finish job application for [Kevel]()<br>
+• Started and finished Class 25 lecture on Youtube<br>
+• Started and finished Class 32 lecture on Youtube<br>
+• Started Class 33 lecture on Youtube<br>
+• Finished Class 15 homework - Setup your [portfolio](../porfolio/index.htmll)✔️<br>
+• Used Leon's template to REDO my [resume](https://docs.google.com/document/d/1xDeEF7TGKxuik_fCi1rTmnQbE_SJ6zJO/edit)<br>
 
 #### Thoughts
 
 • Super Review Frontend Crash Course!!! Yoooo, it's only been 26 days and I made it here! SO excited to review over everything I've learned and hoping that with all the spaced repetition, it's all clicked in my head. "Learning to code is half hard work and half believing you can do it" - Leon<br>
+
+• SO HAPPY I GOT MY PORTFOLIO DONE! I'm pleased with how it looks also, took forever to find a background image and style. Was only able to add 2 projects for right now but I will go back in touch it up. Deployed on netfliy and process was super easy. Also redid my resume with Leon's template although I already spent so much time making one before. I watched a couple videos ahead that talked about resumes, interviews, applying since I have an important recruiter call tomorrow. Excited to prove myself and would really love to work there with especially with everything the company stands for. <br>
 
 ---
 
@@ -551,6 +553,10 @@ section{
 • Continued Super Review Class on Youtube (6hrs/9hrs)<br>
 • Recruiter Call with Nikki @Kevel 1-2PM☕️ <br>
 • Developer Call with Liv 2:30-3:30PM☕️ <br>
+• Read & complete tasks for The JavaScript Way Ch. 5 - [Write functions](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter05.md)<br>
+• Read Eloquent JavaScript Ch. 1 - [Values, Types, And Operators](https://eloquentjavascript.net/01_values.html)<br>
+• Read Eloquent JavaScript Ch. 2 - [Program Structure](https://eloquentjavascript.net/02_program_structure.html)<br>
+• Read Eloquent JavaScript Ch. 3 - [Functions](https://eloquentjavascript.net/03_functions.html)<br>
 • Do [Introduction to JavaScript 1-6](https://www.codecademy.com/learn/introduction-to-javascript)<br>
 • Watch [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)<br>
 
@@ -609,14 +615,12 @@ section{
 • Started and finished Class 22 lecture on Youtube<br>
 • Started and finished Class 23 lecture on Youtube<br>
 • Started and finished Class 24 lecture on Youtube<br>
-• Started and finished Class 25 lecture on Youtube<br>
 • Started and finished Class 26 lecture on Youtube<br>
 • Started and finished Class 27 lecture on Youtube<br>
 • Started and finished Class 28 lecture on Youtube<br>
 • Started and finished Class 29 lecture on Youtube<br>
 • Started and finished Class 30 lecture on Youtube<br>
 • Started and finished Class 31 lecture on Youtube<br>
-• Started and finished Class 32 lecture on Youtube<br>
 • Started and finished Class 33 lecture on Youtube<br>
 • Started and finished Class 34 lecture on Youtube<br>
 • Started and finished Class 35 lecture on Youtube<br>
