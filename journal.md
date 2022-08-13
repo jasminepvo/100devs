@@ -693,6 +693,8 @@ console.log(hello("Kate")); // "Hello, Kate!"
 • Add an API to your [portfolio website]()<br>
 • Started and finished Class 27 lecture on Youtube<br>
 • Started and finished Class 28 lecture on Youtube<br>
+• Do 30 Hours of [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)<br>
+• Do [Professional Checklist](https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg)<br>
 • Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
 • Do x problem of [7Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
 • Do ANKI<br>
@@ -706,6 +708,8 @@ console.log(hello("Kate")); // "Hello, Kate!"
 
 #### Todays's Progress
 
+• Started and finished Class 29 lecture on Youtube<br>
+• Read The JavaScript Way Ch. 9 - [Understand object-oriented programming](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md)<br>
 • Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
 • Do ANKI<br>
 
@@ -777,7 +781,6 @@ console.log(hello("Kate")); // "Hello, Kate!"
 
 
 
-• Started and finished Class 29 lecture on Youtube<br>
 • Started and finished Class 30 lecture on Youtube<br>
 • Started and finished Class 31 lecture on Youtube<br>
 • Started and finished Class 33 lecture on Youtube<br>
