@@ -532,8 +532,8 @@ section{
 • Complete BONUS hw code from scratch - [Bring It On Again](./class16-materials/bring-it-on-again/js/main.js)<br>
 • Started Super Review Frontend Crash Course on Youtube (3hrs/9hrs)<br>
 • Started and finished Class 25 lecture on Youtube<br>
-• Started and finished Class 32 lecture on Youtube<br>
 • Started Class 33 lecture on Youtube<br>
+• Started Class 34 lecture on Youtube (end at 2:08:02)<br>
 • Finished Class 15 homework - Setup your [portfolio](../porfolio/index.htmll)✔️<br>
 • Used Leon's template to REDO my [resume](https://docs.google.com/document/d/1xDeEF7TGKxuik_fCi1rTmnQbE_SJ6zJO/edit)<br>
 
@@ -543,26 +543,22 @@ section{
 
 • SO HAPPY I GOT MY PORTFOLIO DONE! I'm pleased with how it looks also, took forever to find a background image and style. Was only able to add 2 projects for right now but I will go back in touch it up. Deployed on netfliy and process was super easy. Also redid my resume with Leon's template although I already spent so much time making one before. I watched a couple videos ahead that talked about resumes, interviews, applying since I have an important recruiter call tomorrow. Excited to prove myself and would really love to work there with especially with everything the company stands for. <br>
 
+• I got a lot done today.. I am happy!<br>
+
 ---
 
-<!-- TEMPLATE
 ### Day 27: August 12, 2022 - Friday
 
 #### Todays's Progress
 
-• Continued Super Review Class on Youtube (6hrs/9hrs)<br>
-• Recruiter Call with Nikki @Kevel 1-2PM☕️ <br>
-• Developer Call with Liv 2:30-3:30PM☕️ <br>
-• Read & complete tasks for The JavaScript Way Ch. 5 - [Write functions](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter05.md)<br>
-• Read Eloquent JavaScript Ch. 1 - [Values, Types, And Operators](https://eloquentjavascript.net/01_values.html)<br>
-• Read Eloquent JavaScript Ch. 2 - [Program Structure](https://eloquentjavascript.net/02_program_structure.html)<br>
-• Read Eloquent JavaScript Ch. 3 - [Functions](https://eloquentjavascript.net/03_functions.html)<br>
-• Do [Introduction to JavaScript 1-6](https://www.codecademy.com/learn/introduction-to-javascript)<br>
-• Watch [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)<br>
-
+• APPLIED to [Kevel](www.kevel.com) with custom resume and cover letter<br>
+• Recruiter Call with Nikki @Kevel 1-1:15PM☕️ <br>
 
 #### Thoughts
 
+• Today I would say I wasn't so much productive on the class side of things but I did redo my resume and customize it to Kevel with a custom cover letter as well. I took time to research the company and REALLY enjoyed what I found. Their values really stood out to me especially the ones about being open, embracing diversity and drive for innovation and creativity. These things stand out to me because well, as an Asian American, I'm looking for a company that welcomes my culture and provides a safe space for me to be myself because I didn't get that growing up and I definitely am not going to allow that in my work environment. I really appreciate the CEO starting off as a software engineer himself and have mad respect for him.. this is also so exciting because you can tell by their products that they deliver innovation and allow room for creativity which is something I'm looking for. They're also looking for someone early on in their career who is wanting to be mentored. I LOVE THIS. Even if I did not get this position, it gives me hope to know there are companies that have this mindset. I am just so much more excited for the future now! <br>
+
+• I did a lot of reflection today and want to say I'm proud of myself for grinding the past 27 days now. I feel so much more confident going into interviews and being able to talk about myself in such a positive light because there IS so much that I've accomplished that I've forgotten. It's easy to get caught up in this process and compare yourself to others but I'm learning to constantly remind myself that I am me and nobody can take that from me. I've been in a leadership role since as long as I can remember - stuco & historian in highschool, VP of The Vietnamese Student Association at Texas State - growing that org from 5 members to 75 ACTIVE members and providing a safe space for Asian Americans while spreading the culture, volunteering, creating families especially for all those away from home, President of VSA at UTD - same thing but 30 members to 200 active members, making a name in the South region as most active org and biggest social and philanthropic org at UTD. I definitely need to give myself more credit than I do. <br>
 
 ---
 
@@ -570,7 +566,14 @@ section{
 
 #### Todays's Progress
 
-• Started and finished Class 19 lecture on Youtube - [Arrays]https://youtu.be/YUQUGtUbwMY)<br>
+• Read & complete tasks for The JavaScript Way Ch. 5 - [Write functions](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter05.md)<br>
+• Read Eloquent JavaScript Ch. 1 - [Values, Types, And Operators](https://eloquentjavascript.net/01_values.html)<br>
+• Read Eloquent JavaScript Ch. 2 - [Program Structure](https://eloquentjavascript.net/02_program_structure.html)<br>
+• Read Eloquent JavaScript Ch. 3 - [Functions](https://eloquentjavascript.net/03_functions.html)<br>
+• Do [Introduction to JavaScript 1-6](https://www.codecademy.com/learn/introduction-to-javascript)<br>
+• Continued Super Review Class on Youtube (4hrs/9hrs)<br>
+• Watch [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)<br>
+• Started and finished Class 19 lecture on Youtube - [Arrays](https://youtu.be/YUQUGtUbwMY)<br>
 • Read The JavaScript Way Ch. 7 - [Write functions](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md)<br>
 • Read and complete tasks - [javascript.info - Array Methods](https://javascript.info/array-methods)<br>
 • Read Eloquent JavaScript Ch. 4 - [Functions](https://eloquentjavascript.net/04_data.html)<br>
@@ -579,9 +582,71 @@ section{
 
 #### Thoughts
 
-• CodeWars - MUST DO A MINIMUM OF 1 A DAY
+• Really proud of myself for how fast and easy I was able to work through thejsway coding problems on function declaration, function expression and fat arrow functions!<br>
+
+- function declaration has a name for the function<br>
+
+```
+// Function declaration
+function myFunction(param1, param2, ...) {
+  // Function code using param1, param2, ...
+}
+
+// Function call
+myFunction(arg1, arg2, ...);
+```
+
+- function expression is anonymous and assigned to a variable<br>
+
+```
+// Anonymous function created with a function expression and assigned to a variable
+const myFunc = function(param1, param2, ...) {
+  // Function code using param1, param2, ...
+};
+
+// Function call
+myFunc(arg1, arg2, ...);
+```
+
+- fat arrow syntax is also anonymous and assigned to a variable, provides more concise way to create anonymous functions and can be simplified if there is only one statement in the function body and written on the same line without curly braces and return statement omitted and implicit<br>
+
+```
+// Assignment of an anonymous function to the myFunc variable
+const myFunc = (param1, param2, ...) => {
+  // Statements using param1, param2, ...
+};
+
+// Anonymous function call
+// param1 value is set to arg1, param2 to arg2, ...
+myFunc(arg1, arg2, ...);
+
+//OR SIMPLIFIED EXAMPLE
+
+// Minimalist to the max
+const hello = name => `Hello, ${name}!`;
+
+console.log(hello("Kate")); // "Hello, Kate!"
+```
+
+• The Eloquent JavaScript readings took forever but they were a good review in a more traditional textbook type of way and definitely older since var was mentioned a lot. FizzBuzz seems to literally be on every single js book haha. Codecademy was again, another refresher and I was able to move through it really fast.Git & Github Crash Course again another refresher! Interesting to see what it's like on windows, hated it hahaha I love my mac. Basic commands to remember:<br>
+
+- $ git init //Initialize Local Git Repository<br>
+- $ git add <file> //Add File(s) To Index<br>
+- $ git status //Check Status of Working Tree<br>
+- $ git commit //Commit Changes In Index<br>
+- $ git push //Push To Remote Repository<br>
+- $ git pull //Pull Latest From Remote Repository<br>
+
+• SUPER REVIEW FRONT END CRASH COURSE 3:05:17 - <br>
+
+- Modern javascript handles most of what jquery used to solve so not necessary to learn but easy to pick up if you have to.
+-
+
+• CodeWars - MUST DO A MINIMUM OF 1 A DAY<br>
 
 ---
+
+<!-- TEMPLATE
 
 ### Day 29: August 14, 2022 - Sunday
 
@@ -611,6 +676,7 @@ section{
 
 
 
+• Developer Call with Liv 2:30-3:30PM☕️ <br>
 
 • Started and finished Class 22 lecture on Youtube<br>
 • Started and finished Class 23 lecture on Youtube<br>
