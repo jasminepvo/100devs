@@ -573,11 +573,13 @@ section{
 • Do [Introduction to JavaScript 1-6](https://www.codecademy.com/learn/introduction-to-javascript)<br>
 • Continued Super Review Class on Youtube (4hrs/9hrs)<br>
 • Watch [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)<br>
+
 • Started and finished Class 19 lecture on Youtube - [Arrays](https://youtu.be/YUQUGtUbwMY)<br>
-• Read The JavaScript Way Ch. 7 - [Write functions](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md)<br>
+• Read The JavaScript Way Ch. 6 - [Create your first objects](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter06.md)<br>
+• Read The JavaScript Way Ch. 7 - [Store data in arrays](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md)<br>
 • Read and complete tasks - [javascript.info - Array Methods](https://javascript.info/array-methods)<br>
 • Read Eloquent JavaScript Ch. 4 - [Functions](https://eloquentjavascript.net/04_data.html)<br>
-• Do x problem of [8Kyu Fundamentals Track](https://codewars.com)<br>
+• Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
 • Do [Day 4 - Array Cardio](https://javascript30.com/)<br>
 
 #### Thoughts
@@ -655,8 +657,105 @@ console.log(hello("Kate")); // "Hello, Kate!"
 • Started and finished Class 20 lecture on Youtube<br>
 • Do AGAIN[Day 4 - Array Cardio](https://javascript30.com/)<br>
 • Read and complete tasks - [javascript.info - Object](https://javascript.info/object)<br>
-• Do x problem of [8Kyu Fundamentals Track](https://codewars.com)<br>
+• Submit JS Tasks [codepen]()<br>
+• Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
 • Started and finished Class 21 lecture on Youtube<br>
+
+#### Thoughts
+
+
+---
+### Day 30: August 15, 2022 - Monday
+
+#### Todays's Progress
+
+• Started and finished Class 22 lecture on Youtube<br>
+• Watch [Object-oriented Programming in JavaScript: Made Super Simple | Mosh](https://youtu.be/PFmuCDHHpwk)<br>
+• Watch [Github Tutorial for Beginners](https://youtu.be/0fKg7e37bQE%E2%80%8B)<br>
+• Developer Call with Liv 1-2PM☕️ <br>
+• Started and finished Class 23 lecture on Youtube<br>
+• Started and finished Class 24 lecture on Youtube<br>
+• Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
+• Do ANKI<br>
+
+
+#### Thoughts
+
+
+---
+
+### Day 31: August 16, 2022 - Tuesday
+
+#### Todays's Progress
+• Started and finished Class 26 lecture on Youtube<br>
+• Make the cocktailDB API work with spaces between the names<br>
+• Find three APIs and build three simple apps using [APIs](https://github.com/public-apis/public-apis)<br>
+• Add an API to your [portfolio website]()<br>
+• Started and finished Class 27 lecture on Youtube<br>
+• Started and finished Class 28 lecture on Youtube<br>
+• Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
+• Do x problem of [7Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
+• Do ANKI<br>
+
+#### Thoughts
+
+
+---
+
+### Day 32: August 17, 2022 - Wednesday
+
+#### Todays's Progress
+
+• Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
+• Do ANKI<br>
+
+#### Thoughts
+
+
+---
+
+### Day 33: August 18, 2022 - Thursday
+
+#### Todays's Progress
+
+• Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
+• Do ANKI<br>
+
+#### Thoughts
+
+
+---
+
+### Day 34: August 19, 2022 - Friday
+
+#### Todays's Progress
+
+• Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
+• Do ANKI<br>
+
+#### Thoughts
+
+
+---
+
+### Day 35: August 20, 2022 - Saturday
+
+#### Todays's Progress
+
+• Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
+• Do ANKI<br>
+
+#### Thoughts
+
+
+---
+
+### Day 36: August 21, 2022 - Sunday
+
+#### Todays's Progress
+
+• Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
+• Do ANKI<br>
 
 #### Thoughts
 
@@ -667,7 +766,8 @@ console.log(hello("Kate")); // "Hello, Kate!"
 
 #### Todays's Progress
 
-
+• Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
+• Do ANKI<br>
 
 #### Thoughts
 
@@ -676,14 +776,7 @@ console.log(hello("Kate")); // "Hello, Kate!"
 
 
 
-• Developer Call with Liv 2:30-3:30PM☕️ <br>
 
-• Started and finished Class 22 lecture on Youtube<br>
-• Started and finished Class 23 lecture on Youtube<br>
-• Started and finished Class 24 lecture on Youtube<br>
-• Started and finished Class 26 lecture on Youtube<br>
-• Started and finished Class 27 lecture on Youtube<br>
-• Started and finished Class 28 lecture on Youtube<br>
 • Started and finished Class 29 lecture on Youtube<br>
 • Started and finished Class 30 lecture on Youtube<br>
 • Started and finished Class 31 lecture on Youtube<br>
