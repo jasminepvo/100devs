@@ -1,16 +1,16 @@
 /* Box Model Hack */
 * {
-  box-sizing: border-box;
+	box-sizing: border-box;
 }
 
 /* Clear fix hack */
 .clearfix:after {
-     content: ".";
-     display: block;
-     clear: both;
-     visibility: hidden;
-     line-height: 0;
-     height: 0;
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
 }
 
 .clear {
@@ -21,10 +21,27 @@
 /* BASE STYLES
 /*******************************************/
 
-body {
-
+/* make layout 1 but with flexboc */
+header {
+	border: 2px solid salmon;
+	height: 100px;
+	width: 100%;
+}
+main,
+.bottom {
+	display: flex;
+}
+section {
+	flex: 1; /* 1 space each */
+	border: 2px solid lightblue;
+	height: 300px;
 }
 
+footer {
+	border: 2px solid yellow;
+	height: 100px;
+	width: 100%;
+}
 
 /******************************************
 /* LAYOUT
