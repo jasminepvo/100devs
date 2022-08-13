@@ -571,16 +571,14 @@ section{
 • Read Eloquent JavaScript Ch. 2 - [Program Structure](https://eloquentjavascript.net/02_program_structure.html)<br>
 • Read Eloquent JavaScript Ch. 3 - [Functions](https://eloquentjavascript.net/03_functions.html)<br>
 • Do [Introduction to JavaScript 1-6](https://www.codecademy.com/learn/introduction-to-javascript)<br>
-• Continued Super Review Class on Youtube (4hrs/9hrs)<br>
+• Continued Super Review Class on Youtube (6hrs/9hrs)<br>
 • Watch [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)<br>
-
 • Started and finished Class 19 lecture on Youtube - [Arrays](https://youtu.be/YUQUGtUbwMY)<br>
 • Read The JavaScript Way Ch. 6 - [Create your first objects](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter06.md)<br>
 • Read The JavaScript Way Ch. 7 - [Store data in arrays](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md)<br>
 • Read and complete tasks - [javascript.info - Array Methods](https://javascript.info/array-methods)<br>
 • Read Eloquent JavaScript Ch. 4 - [Functions](https://eloquentjavascript.net/04_data.html)<br>
 • Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
-• Do [Day 4 - Array Cardio](https://javascript30.com/)<br>
 
 #### Thoughts
 
@@ -639,12 +637,16 @@ console.log(hello("Kate")); // "Hello, Kate!"
 - $ git push //Push To Remote Repository<br>
 - $ git pull //Pull Latest From Remote Repository<br>
 
-• SUPER REVIEW FRONT END CRASH COURSE 3:05:17 - <br>
+• SUPER REVIEW FRONT END CRASH COURSE 3:05:17 - 6:04:02 <br>
 
-- Modern javascript handles most of what jquery used to solve so not necessary to learn but easy to pick up if you have to.
+- Modern javascript handles most of what jquery used to solve so not necessary to learn but easy to pick up if you have to.<br>
 -
 
 • CodeWars - MUST DO A MINIMUM OF 1 A DAY<br>
+
+- Only look at a problem for 20 minutes, if you still don't get it.. look at the solution and add it to your ANKI then move on<br>
+- Start with the fundamentals only for a week 8kyu before trying the others to avoid getting overwhelmed.<br>
+- Push your code everyday!!!<br>
 
 ---
 
@@ -654,6 +656,7 @@ console.log(hello("Kate")); // "Hello, Kate!"
 
 #### Todays's Progress
 
+• Do [Day 4 - Array Cardio](https://javascript30.com/)<br>
 • Started and finished Class 20 lecture on Youtube<br>
 • Do AGAIN[Day 4 - Array Cardio](https://javascript30.com/)<br>
 • Read and complete tasks - [javascript.info - Object](https://javascript.info/object)<br>
@@ -728,7 +731,7 @@ console.log(hello("Kate")); // "Hello, Kate!"
 • Read MDN Web Docs - [How to use promises](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises)<br>
 • Watch and type out all the examples in [The Async Await Episode | Promised](https://www.youtube.com/watch?v=vn3tm0quoqE)<br>
 • Finished Class 34 lecture on Youtube<br>
-• Start prepping THE BANK<br>
+• Start prepping [THE BANK](https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c)<br>
 • Complete your professional link - [portfolio]()<br>
 • Complete your professional link - [story blurb]()<br>
 • Complete your professional link - [Linkedin]()<br>
@@ -756,6 +759,9 @@ console.log(hello("Kate")); // "Hello, Kate!"
 
 #### Todays's Progress
 
+• Make node-backend-simple-json more readable<br>
+• Make a coin flip game where the randomization happens server side<br>
+• Watch [JavaScript Crash Course](https://youtu.be/1sRJYuaqoiI)<br>
 • Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
 • Do ANKI<br>
 
@@ -768,6 +774,10 @@ console.log(hello("Kate")); // "Hello, Kate!"
 
 #### Todays's Progress
 
+• Started and finished Class 36 lecture on Youtube<br>
+• Watch [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+• Watch [Jake Archibald: In The Loop - setTimeout, micro tasks, requestAnimationFrame, requestIdleCallback, …](https://www.youtube.com/watch?v=cCOL7MC4Pl0)<br>
+• [Build a Simple CRUD app with Node, Express, and MongoDB] (https://zellwk.com/blog/crud-express-mongodb/)<br>
 • Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
 • Do ANKI<br>
 
@@ -780,6 +790,11 @@ console.log(hello("Kate")); // "Hello, Kate!"
 
 #### Todays's Progress
 
+• Started and finished Class 37 lecture on Youtube<br>
+• Started and finished Class 38 lecture on Youtube<br>
+• Create [Heroku](), [Mongo Atlas](), [Postman]() Accounts<br>
+• Read [Node.js and Express (Fullstack Open)](https://fullstackopen.com/en/part3/node_js_and_express)<br>
+• Make your own API and push to Heroku []()<br>
 • Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
 • Do ANKI<br>
 
@@ -787,6 +802,34 @@ console.log(hello("Kate")); // "Hello, Kate!"
 
 
 ---
+
+### Day 37: August 22, 2022
+
+#### Todays's Progress
+
+• Started and finished Class 39 lecture on Youtube<br>
+• Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
+• Do ANKI<br>
+
+#### Thoughts
+
+
+---
+
+### Day 38: August 23, 2022
+
+#### Todays's Progress
+
+• Started and finished Class 40 lecture on Youtube<br>
+• Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
+• Do ANKI<br>
+
+#### Thoughts
+
+
+---
+
+
 
 ### Day : , 2022
 
@@ -800,12 +843,4 @@ console.log(hello("Kate")); // "Hello, Kate!"
 
 ---
 
-
-
-
-• Started and finished Class 36 lecture on Youtube<br>
-• Started and finished Class 37 lecture on Youtube<br>
-• Started and finished Class 38 lecture on Youtube<br>
-• Started and finished Class 39 lecture on Youtube<br>
-• Started and finished Class 40 lecture on Youtube<br>
 -->
