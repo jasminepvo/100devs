@@ -1,0 +1,14 @@
+/* make world and zebra blue but duck and unicorn stay red  */
+h2 {
+	color: red;
+}
+
+section > h2 {
+	color: blue;
+}
+
+/* make duck purple */
+section + article > h2 {
+	color: purple;
+}
+/* h2 that is direct child of article and sibling of section */
