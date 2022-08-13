@@ -710,6 +710,9 @@ console.log(hello("Kate")); // "Hello, Kate!"
 
 • Started and finished Class 29 lecture on Youtube<br>
 • Read The JavaScript Way Ch. 9 - [Understand object-oriented programming](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md)<br>
+• Started and finished Class 30 lecture on Youtube<br>
+• Started and finished Class 31 lecture on Youtube<br>
+• PUSH: Do Codewars Array Ladder 8kyu, 7kyu, 6kyu, 7kyu, 8kyu<br>
 • Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
 • Do ANKI<br>
 
@@ -722,6 +725,25 @@ console.log(hello("Kate")); // "Hello, Kate!"
 
 #### Todays's Progress
 
+• Read MDN Web Docs - [How to use promises](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises)<br>
+• Watch and type out all the examples in [The Async Await Episode | Promised](https://www.youtube.com/watch?v=vn3tm0quoqE)<br>
+• Finished Class 34 lecture on Youtube<br>
+• Start prepping THE BANK<br>
+• Complete your professional link - [portfolio]()<br>
+• Complete your professional link - [story blurb]()<br>
+• Complete your professional link - [Linkedin]()<br>
+• Complete your professional link - [Twitter]()<br>
+• Complete your professional link - [Github]()<br>
+• Complete your professional link - [Resume]()<br>
+• Complete your professional link - [Codewars Repo]()<br>
+• Complete your professional link - [Angellist]()<br>
+• Complete your professional link - [100HoursProject - Description / Wireframe]()<br>
+• Complete your professional link - [Cover letter & Email]()<br>
+• Complete your professional link - [Hitlist]()<br>
+• Complete your professional link - [Headshot]()<br>
+• Read [Modern JavaScript For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)<br>
+• Watch [Node.js Crash Course](https://youtu.be/fBNz5xF-Kx4)<br>
+• Started and finished Class 35 lecture on Youtube<br>
 • Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
 • Do ANKI<br>
 
@@ -781,11 +803,6 @@ console.log(hello("Kate")); // "Hello, Kate!"
 
 
 
-• Started and finished Class 30 lecture on Youtube<br>
-• Started and finished Class 31 lecture on Youtube<br>
-• Started and finished Class 33 lecture on Youtube<br>
-• Started and finished Class 34 lecture on Youtube<br>
-• Started and finished Class 35 lecture on Youtube<br>
 • Started and finished Class 36 lecture on Youtube<br>
 • Started and finished Class 37 lecture on Youtube<br>
 • Started and finished Class 38 lecture on Youtube<br>
