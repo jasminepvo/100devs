@@ -578,7 +578,7 @@ section{
 • Read The JavaScript Way Ch. 7 - [Store data in arrays](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md)<br>
 • Read and complete tasks - [javascript.info - Array Methods](https://javascript.info/array-methods)<br>
 • Read Eloquent JavaScript Ch. 4 - [Functions](https://eloquentjavascript.net/04_data.html)<br>
-• Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
+• Do 1 problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
 
 #### Thoughts
 
@@ -640,13 +640,20 @@ console.log(hello("Kate")); // "Hello, Kate!"
 • SUPER REVIEW FRONT END CRASH COURSE 3:05:17 - 6:04:02 <br>
 
 - Modern javascript handles most of what jquery used to solve so not necessary to learn but easy to pick up if you have to.<br>
--
 
 • CodeWars - MUST DO A MINIMUM OF 1 A DAY<br>
 
 - Only look at a problem for 20 minutes, if you still don't get it.. look at the solution and add it to your ANKI then move on<br>
 - Start with the fundamentals only for a week 8kyu before trying the others to avoid getting overwhelmed.<br>
 - Push your code everyday!!!<br>
+
+• Arrays was 🤯🤯🤯🤯🤯. JavaScript's foreach function is the one that trips me up. I'm used to arrays but using foreach and putting a function inside with the fat arrow is new. Just going to take some practice! <br>
+
+```
+arr = [10, 20, 30];
+arr.foreach((item, index) => {
+
+})
 
 ---
 
@@ -844,3 +851,4 @@ console.log(hello("Kate")); // "Hello, Kate!"
 ---
 
 -->
+```
