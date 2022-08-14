@@ -645,11 +645,11 @@ console.log(hello("Kate")); // "Hello, Kate!"
 - Start with the fundamentals only for a week 8kyu before trying the others to avoid getting overwhelmed.<br>
 - Push your code everyday!!!<br>
 
-• Arrays was 🤯🤯🤯🤯🤯. JavaScript's foreach function is the one that trips me up. I'm used to arrays but using foreach and putting a function inside with the fat arrow is new. Just going to take some practice! <br>
+• Arrays was 🤯🤯🤯🤯🤯. JavaScript's forEach function is the one that trips me up. I'm used to arrays but using foreach and putting a function inside with the fat arrow is new. Just going to take some practice! <br>
 
 ```
 arr = [10, 20, 30];
-arr.foreach((item, index) => {
+arr.forEach((item, index) => {
 
 })
 ```
@@ -668,10 +668,33 @@ arr.foreach((item, index) => {
 • Read and complete tasks - [javascript.info - Array Methods](https://javascript.info/array-methods)<br>
 • Read Eloquent JavaScript Ch. 4 - [Functions](https://eloquentjavascript.net/04_data.html)<br>
 • Submit JS Tasks [codepen]()<br>
-• Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
+• Do 1 problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
 • Started and finished Class 21 lecture on Youtube<br>
 
 #### Thoughts
+
+• Array Cardio was TOUGH... i'm going to have to come back to that one later today to try to code it on my own. Learned a couple neat functions that JavaScript has built it:
+
+- map() - takes in array and returns new array
+- filter() - filters out specific elements
+- reduce() - gives you a running total
+- sort() - sorts the array
+
+• The three different ways to loop through elements in an array: <br>
+
+```
+for (let i = 0; i < myArray.length; i++) {
+  // Use myArray[i] to access each array element one by one
+}
+
+myArray.forEach(myElement => {
+  // Use myElement to access each array element one by one
+});
+
+for (const myElement of myArray) {
+  // Use myElement to access each array element one by one
+}
+```
 
 ---
 
@@ -741,13 +764,13 @@ arr.foreach((item, index) => {
 • Watch and type out all the examples in [The Async Await Episode | Promised](https://www.youtube.com/watch?v=vn3tm0quoqE)<br>
 • Finished Class 34 lecture on Youtube<br>
 • Start prepping [THE BANK](https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c)<br>
-• Complete your professional link - [portfolio]()<br>
+• Complete your professional link - [portfolio](https://jasminepvo.dev)<br>
 • Complete your professional link - [story blurb]()<br>
-• Complete your professional link - [Linkedin]()<br>
-• Complete your professional link - [Twitter]()<br>
-• Complete your professional link - [Github]()<br>
+• Complete your professional link - [Linkedin](https://linkedin.com/in/jasminepvo)<br>
+• Complete your professional link - [Twitter](https://twitter.com/jasminepvodev)<br>
+• Complete your professional link - [Github](https://github.com/jasminepvo)<br>
 • Complete your professional link - [Resume]()<br>
-• Complete your professional link - [Codewars Repo]()<br>
+• Complete your professional link - [Codewars Repo](https://github.com/jasminepvo/CodeWars)<br>
 • Complete your professional link - [Angellist]()<br>
 • Complete your professional link - [100HoursProject - Description / Wireframe]()<br>
 • Complete your professional link - [Cover letter & Email]()<br>
