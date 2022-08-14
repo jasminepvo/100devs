@@ -576,8 +576,6 @@ section{
 • Started and finished Class 19 lecture on Youtube - [Arrays](https://youtu.be/YUQUGtUbwMY)<br>
 • Read The JavaScript Way Ch. 6 - [Create your first objects](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter06.md)<br>
 • Read The JavaScript Way Ch. 7 - [Store data in arrays](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md)<br>
-• Read and complete tasks - [javascript.info - Array Methods](https://javascript.info/array-methods)<br>
-• Read Eloquent JavaScript Ch. 4 - [Functions](https://eloquentjavascript.net/04_data.html)<br>
 • Do 1 problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
 
 #### Thoughts
@@ -654,10 +652,9 @@ arr = [10, 20, 30];
 arr.foreach((item, index) => {
 
 })
+```
 
 ---
-
-<!-- TEMPLATE
 
 ### Day 29: August 14, 2022 - Sunday
 
@@ -665,16 +662,21 @@ arr.foreach((item, index) => {
 
 • Do [Day 4 - Array Cardio](https://javascript30.com/)<br>
 • Started and finished Class 20 lecture on Youtube<br>
+• Continued Super Review Class on Youtube (6hrs/9hrs)<br>
 • Do AGAIN[Day 4 - Array Cardio](https://javascript30.com/)<br>
 • Read and complete tasks - [javascript.info - Object](https://javascript.info/object)<br>
+• Read and complete tasks - [javascript.info - Array Methods](https://javascript.info/array-methods)<br>
+• Read Eloquent JavaScript Ch. 4 - [Functions](https://eloquentjavascript.net/04_data.html)<br>
 • Submit JS Tasks [codepen]()<br>
 • Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
 • Started and finished Class 21 lecture on Youtube<br>
 
 #### Thoughts
 
-
 ---
+
+<!-- TEMPLATE
+
 ### Day 30: August 15, 2022 - Monday
 
 #### Todays's Progress
@@ -851,4 +853,7 @@ arr.foreach((item, index) => {
 ---
 
 -->
+
+```
+
 ```
