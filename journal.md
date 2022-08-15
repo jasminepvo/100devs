@@ -719,8 +719,6 @@ arr.concat(arg1, arg2...)
 
 ---
 
-<!-- TEMPLATE
-
 ### Day 30: August 15, 2022 - Monday
 
 #### Todays's Progress
@@ -739,11 +737,11 @@ arr.concat(arg1, arg2...)
 • Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
 • Do ANKI<br>
 
-
 #### Thoughts
 
-
 ---
+
+<!-- TEMPLATE
 
 ### Day 31: August 16, 2022 - Tuesday
 
