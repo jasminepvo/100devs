@@ -24,3 +24,4 @@ stopwatch.stop = function () {
 stopwatch.sayBrand = function () {
 	console.log(stopwatch.brand);
 };
+sayBrand(); //Nike
