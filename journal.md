@@ -571,7 +571,7 @@ section{
 • Read Eloquent JavaScript Ch. 2 - [Program Structure](https://eloquentjavascript.net/02_program_structure.html)<br>
 • Read Eloquent JavaScript Ch. 3 - [Functions](https://eloquentjavascript.net/03_functions.html)<br>
 • Do [Introduction to JavaScript 1-6](https://www.codecademy.com/learn/introduction-to-javascript)<br>
-• Continued Super Review Class on Youtube (6hrs/9hrs)<br>
+• Continued Super Review Front End Crash Course on Youtube (6hrs/9hrs)<br>
 • Watch [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)<br>
 • Started and finished Class 19 lecture on Youtube - [Arrays](https://youtu.be/YUQUGtUbwMY)<br>
 • Read The JavaScript Way Ch. 6 - [Create your first objects](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter06.md)<br>
@@ -662,18 +662,14 @@ arr.forEach((item, index) => {
 
 • Do [Day 4 - Array Cardio](https://javascript30.com/)<br>
 • Started and finished Class 20 lecture on Youtube<br>
-• Continued Super Review Class on Youtube (6hrs/9hrs)<br>
-• Do AGAIN[Day 4 - Array Cardio](https://javascript30.com/)<br>
+• FINISHED Super Review Front End Crash Course on Youtube (9hrs/9hrs)<br>
 • Read and complete tasks - [javascript.info - Object](https://javascript.info/object)<br>
-• Read and complete tasks - [javascript.info - Array Methods](https://javascript.info/array-methods)<br>
-• Read Eloquent JavaScript Ch. 4 - [Functions](https://eloquentjavascript.net/04_data.html)<br>
-• Submit JS Tasks [codepen]()<br>
 • Do 1 problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
-• Started and finished Class 21 lecture on Youtube<br>
+• Do ANKI<br>
 
 #### Thoughts
 
-• Array Cardio was TOUGH... i'm going to have to come back to that one later today to try to code it on my own. Learned a couple neat functions that JavaScript has built it:
+• Array Cardio was TOUGH... i'm going to have to come back to that one later today to try to code it on my own. Learned a couple neat functions that JavaScript has built it:<br>
 
 - map() - takes in array and returns new array
 - filter() - filters out specific elements
@@ -696,6 +692,31 @@ for (const myElement of myArray) {
 }
 ```
 
+• javascript.info notes<br>
+
+- objects are ordered when they are integer properties but strings are not ex. phone codes 49, 41, 44, 1 will order as 1, 41, 44, 49 but +49, +41, +44, +1 will return in that same order as created. When adding a key: value, it will also return in the order created so the added key: value would be last.
+- delete arr[1] will remove the value from the element in the array however splice() will remove the element. The arr.splice method is a swiss army knife for arrays. It can do everything: insert, remove and replace elements.
+
+```
+arr.splice(start[, deleteCount, elem1, ..., elemN])
+```
+
+- slice() looks similiar BUT it returns a new array copying to it all items from index start to end (not including end)
+
+```
+let arr = ["t", "e", "s", "t"];
+
+alert( arr.slice(1, 3) ); // e,s (copy from 1 to 3)
+
+alert( arr.slice(-2) ); // s,t (copy from -2 till the end)
+```
+
+- concat() creates a new array that inclues values from other arrays and additional items
+
+```
+arr.concat(arg1, arg2...)
+```
+
 ---
 
 <!-- TEMPLATE
@@ -704,8 +725,13 @@ for (const myElement of myArray) {
 
 #### Todays's Progress
 
+• Started and finished Class 21 lecture on Youtube<br>
+• Read and complete tasks - [javascript.info - Array Methods](https://javascript.info/array-methods)<br>
+• Submit JS Tasks [objects](https://codepen.io/jasminepvo/pen/PoRyRxx)<br>
+• Do AGAIN[Day 4 - Array Cardio](https://javascript30.com/)<br>
+• Read Eloquent JavaScript Ch. 4 - [Functions](https://eloquentjavascript.net/04_data.html)<br>
 • Started and finished Class 22 lecture on Youtube<br>
-• Watch [Object-oriented Programming in JavaScript: Made Super Simple | Mosh](https://youtu.be/PFmuCDHHpwk)<br>
+• Watch [Object-Oriented Programming in JavaScript: Made Super Simple | Mosh](https://youtu.be/PFmuCDHHpwk)<br>
 • Watch [Github Tutorial for Beginners](https://youtu.be/0fKg7e37bQE%E2%80%8B)<br>
 • Developer Call with Liv 1-2PM☕️ <br>
 • Started and finished Class 23 lecture on Youtube<br>
