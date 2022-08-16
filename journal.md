@@ -760,7 +760,14 @@ arr.concat(arg1, arg2...)
 - Programming is taking a large task and breaking it down into digestable steps (a bunch of smaller, repeatable instructions) then asking yourself how can I write these digestable steps in a way which can be reused. THIS IS THE BEAUTY OF PROGRAMMING :)
 - Saved a lot to ANKI this class that I definitely need to review over
 
-• Class 23 - BEST WEEK EVER!!! 100+ COHORT MEMBERS GOT JOBS!!! Big energy in the beginning of class.
+• Object Oriented Programming is programming with objects instead of functions. Benefits: <br>
+
+- Encapsulation: Reduce complexity + increase reusability
+- Abstraction: Reduce complexity + isolate impact of changes
+- Inheritance: Eliminate redundant code
+- Polymorphism: Refactor ugly switch/case statements
+
+• Class 23 - BEST WEEK EVER!!! 100+ COHORT MEMBERS GOT JOBS!!! Big energy in the beginning of class. <br>
 
 ---
 
