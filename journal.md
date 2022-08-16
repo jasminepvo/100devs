@@ -664,7 +664,7 @@ arr.forEach((item, index) => {
 • Started and finished Class 20 lecture on Youtube<br>
 • FINISHED Super Review Front End Crash Course on Youtube (9hrs/9hrs)<br>
 • Read and complete tasks - [javascript.info - Object](https://javascript.info/object)<br>
-• Do 1 problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
+• Do 1 problem of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 • Do ANKI<br>
 
 #### Thoughts
@@ -726,18 +726,15 @@ arr.concat(arg1, arg2...)
 • Started and finished Class 21 lecture on Youtube<br>
 • Read and complete tasks - [javascript.info - Array Methods](https://javascript.info/array-methods)<br>
 • Submit JS Tasks [objects](https://codepen.io/jasminepvo/pen/PoRyRxx)<br>
-• Do AGAIN[Day 4 - Array Cardio](https://javascript30.com/)<br>
 • Read Eloquent JavaScript Ch. 4 - [Functions](https://eloquentjavascript.net/04_data.html)<br>
-• Started and finished Class 22 lecture on Youtube<br>
-• Watch [Object-Oriented Programming in JavaScript: Made Super Simple | Mosh](https://youtu.be/PFmuCDHHpwk)<br>
 • Watch [Github Tutorial for Beginners](https://youtu.be/0fKg7e37bQE%E2%80%8B)<br>
 • Developer Call with Liv 1-2PM☕️ <br>
-• Started and finished Class 23 lecture on Youtube<br>
-• Started and finished Class 24 lecture on Youtube<br>
-• Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
+• Do 1 problem of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 • Do ANKI<br>
 
 #### Thoughts
+
+• Pretty happy with my portfolio for the time being! Also reached out to a product lead and 2 software engineers for a coffee chat. Super excited for a response back. Dev call went amazing, getting started on that today. Using Asana for workspace and created tasks for Product Development. PUMPED ABOUT THIS PROJECT!!! 😃 <br>
 
 ---
 
@@ -746,6 +743,12 @@ arr.concat(arg1, arg2...)
 ### Day 31: August 16, 2022 - Tuesday
 
 #### Todays's Progress
+• Watch [Object-Oriented Programming in JavaScript: Made Super Simple | Mosh](https://youtu.be/PFmuCDHHpwk)<br>
+
+• Do AGAIN[Day 4 - Array Cardio](https://javascript30.com/)<br>
+• Started and finished Class 22 lecture on Youtube<br>
+• Started and finished Class 23 lecture on Youtube<br>
+• Started and finished Class 24 lecture on Youtube<br>
 • Started and finished Class 26 lecture on Youtube<br>
 • Make the cocktailDB API work with spaces between the names<br>
 • Find three APIs and build three simple apps using [APIs](https://github.com/public-apis/public-apis)<br>
