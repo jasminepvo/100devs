@@ -738,17 +738,27 @@ arr.concat(arg1, arg2...)
 
 ---
 
-<!-- TEMPLATE
-
 ### Day 31: August 16, 2022 - Tuesday
 
 #### Todays's Progress
-• Watch [Object-Oriented Programming in JavaScript: Made Super Simple | Mosh](https://youtu.be/PFmuCDHHpwk)<br>
 
-• Do AGAIN[Day 4 - Array Cardio](https://javascript30.com/)<br>
 • Started and finished Class 22 lecture on Youtube<br>
+• Watch [Object-Oriented Programming in JavaScript: Made Super Simple | Mosh](https://youtu.be/PFmuCDHHpwk)<br>
+• Do AGAIN[Day 4 - Array Cardio](https://javascript30.com/)<br>
 • Started and finished Class 23 lecture on Youtube<br>
 • Started and finished Class 24 lecture on Youtube<br>
+• Do x problem of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Do ANKI<br>
+
+#### Thoughts
+
+---
+
+<!-- TEMPLATE
+
+### Day 32: August 17, 2022 - Wednesday
+
+#### Todays's Progress
 • Started and finished Class 26 lecture on Youtube<br>
 • Make the cocktailDB API work with spaces between the names<br>
 • Find three APIs and build three simple apps using [APIs](https://github.com/public-apis/public-apis)<br>
@@ -757,19 +767,8 @@ arr.concat(arg1, arg2...)
 • Started and finished Class 28 lecture on Youtube<br>
 • Do 30 Hours of [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)<br>
 • Do [Professional Checklist](https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg)<br>
-• Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
+
 • Do x problem of [7Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
-• Do ANKI<br>
-
-#### Thoughts
-
-
----
-
-### Day 32: August 17, 2022 - Wednesday
-
-#### Todays's Progress
-
 • Started and finished Class 29 lecture on Youtube<br>
 • Read The JavaScript Way Ch. 9 - [Understand object-oriented programming](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md)<br>
 • Started and finished Class 30 lecture on Youtube<br>
