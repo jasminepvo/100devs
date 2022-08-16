@@ -746,11 +746,15 @@ arr.concat(arg1, arg2...)
 • Watch [Object-Oriented Programming in JavaScript: Made Super Simple | Mosh](https://youtu.be/PFmuCDHHpwk)<br>
 • Do AGAIN[Day 4 - Array Cardio](https://javascript30.com/)<br>
 • Started and finished Class 23 lecture on Youtube<br>
+• Do Microsoft's [Intro to Github](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/?ocid=aid3038567_RequestedResources_ThankYou_DevComm&eventId=LearnwithLeonstream_ggNxpTZxIzb_)<br>
 • Started and finished Class 24 lecture on Youtube<br>
 • Do x problem of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 • Do ANKI<br>
 
 #### Thoughts
+
+• Class 22 - When doing Codewars, look at other peoples solutions after you submit to see more ways of answering the problem! Also, do array, array, array or string, string string, problems that way you are seeing the patterns that pop up 👀 <br>
+•
 
 ---
 
