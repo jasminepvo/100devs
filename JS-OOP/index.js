@@ -133,5 +133,30 @@ if ("radius" in another) {
 //hide the details, show only the essentials
 //avoid having to add a argument everywhere the function is public - make it private
 
-//javascript has closure - scope limited to that function if variables declared in that function
+//javascript has closure: determines what variables will have accessible to an inner function - scope limited to that function if variables declared in that function
 //dont confuse closure with scope, scope is temporary and dies while closure will preserve their state
+
+function Cirle3(radius) {
+	this.radius = radius;
+
+	let defaultLocation = { x: 0, y: 0 };
+
+	let comuputeOptimumLocation = function (factor) {
+		//..
+	};
+
+	this.draw = function () {
+		let x, y; //this is scope and dies outside this function
+		comuputeOptimumLocation(0.1);
+
+		//this.radius to access members of this object
+
+		console.log("draw");
+	};
+}
+
+const circle3 = new Circle3(10);
+
+circle3.draw();
+
+//closure is what is inside the inner function, those variables will continue to stay in memory like computerOptimumLocation
