@@ -141,13 +141,13 @@ function Cirle3(radius) {
 
 	let defaultLocation = { x: 0, y: 0 };
 
-	let comuputeOptimumLocation = function (factor) {
+	let computeOptimumLocation = function (factor) {
 		//..
 	};
 
 	this.draw = function () {
 		let x, y; //this is scope and dies outside this function
-		comuputeOptimumLocation(0.1);
+		computeOptimumLocation(0.1);
 
 		//this.radius to access members of this object
 
@@ -156,7 +156,42 @@ function Cirle3(radius) {
 }
 
 const circle3 = new Circle3(10);
-
 circle3.draw();
 
 //closure is what is inside the inner function, those variables will continue to stay in memory like computerOptimumLocation
+
+//####GETTER and SETTERS
+//compute is a private member
+
+function Cirle4(radius) {
+	this.radius = radius;
+
+	let defaultLocation = { x: 0, y: 0 };
+
+	//solution 1
+	this.getDefaultLocation = function () {
+		//closure of this function includes all variables defined here and parent function
+		return defaultLocation;
+	};
+
+	this.draw = function () {
+		console.log("draw");
+	};
+
+	Object.defineProperties(this, "defaultLocation", {
+		get: function () {
+			return defaultLocation;
+		},
+		set: function (value) {
+			if (!value.x || !value.y) throw new Error("Invalid location.");
+			defaultLocation = value;
+		},
+	});
+}
+
+const circle4 = new Circle4(10);
+circle3.draw();
+
+//private function: defaultLocation can't be accessed from the outside but what if you want to display it outside your function
+circle3.getDefaultLocation();
+//bad syntax - calling this as a method. would be better to circle4.defaultLocation = 0;
