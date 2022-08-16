@@ -99,3 +99,39 @@ function increase(obj) {
 increase(obj);
 console.log(obj); //this will log 11
 //the reason for this is because when we call increase(obj), this object is passed by it's reference. So the local parameter we have in the function will point -> to the same object defined in "let obj = {value: 10}"
+
+//Objects are dynamic in JavaScript so you can add/remove additional properties to it whenever you need to, which makes JavaScript super powerful. C# / Java would need to change the class
+
+//dot notation - less verbose and simpler
+another.location = { x: 1 };
+
+//bracket notation is same as dot
+//another['location'] = { x: 1 };
+
+//but useful in certain scenarios where you want to dynamically access a property name - want to access location of propertyName or if you have special characters / spaces 'center location' or 'center-location'
+//const propertyName = 'location';
+//another[propertyName] = { x: 1 };
+
+delete another.location;
+//delete another['location']
+
+//######ENUMERATING PROPERTIES aka iterate over properties
+
+for (let key in another) {
+	if (typeof another[key] !== "function") console.log(key, another[key]);
+}
+
+const keys = Object.keys(another); //this will return all the keys in another as an array
+console.log(keys);
+
+//check for existence of a property or method in an object use 'in' operator
+if ("radius" in another) {
+	console.log("Radius is in the object");
+}
+
+// ABSTRACTION
+//hide the details, show only the essentials
+//avoid having to add a argument everywhere the function is public - make it private
+
+//javascript has closure - scope limited to that function if variables declared in that function
+//dont confuse closure with scope, scope is temporary and dies while closure will preserve their state
