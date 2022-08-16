@@ -734,7 +734,7 @@ arr.concat(arg1, arg2...)
 
 #### Thoughts
 
-• Pretty happy with my portfolio for the time being! Also reached out to a product lead and 2 software engineers for a coffee chat. Super excited for a response back. Dev call went amazing, getting started on that today. Using Asana for workspace and created tasks for Product Development. PUMPED ABOUT THIS PROJECT!!! 😃 <br>
+• Pretty happy with my portfolio for the time being! Also reached out to a product lead and 2 software engineers for a coffee chat. Super excited for a response back. Eloquent JavaScript was SOOOO long but we got through it. Github tutorial was just a refresher on what I've already been doing. Dev call went amazing, getting started on that today. Using Asana for workspace and created tasks for Product Development. PUMPED ABOUT THIS PROJECT!!! 😃 Only solved one kata because that reading was a lottttt so my brain is beat. I also didn't exercise this morning or eat/drink much. I'll be back tmr even stronger. 💪🏼<br>
 
 ---
 
@@ -757,7 +757,10 @@ arr.concat(arg1, arg2...)
 
 - BEST EXAMPLE OF CONTRUCTORS - used car factory example
 - tip: when functions are created with Uppercase, then they are constructors
-  •
+- Programming is taking a large task and breaking it down into digestable steps (a bunch of smaller, repeatable instructions) then asking yourself how can I write these digestable steps in a way which can be reused. THIS IS THE BEAUTY OF PROGRAMMING :)
+- Saved a lot to ANKI this class that I definitely need to review over
+
+• Class 23 - BEST WEEK EVER!!! 100+ COHORT MEMBERS GOT JOBS!!! Big energy in the beginning of class.
 
 ---
 
