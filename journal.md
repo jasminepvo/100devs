@@ -754,7 +754,10 @@ arr.concat(arg1, arg2...)
 #### Thoughts
 
 • Class 22 - When doing Codewars, look at other peoples solutions after you submit to see more ways of answering the problem! Also, do array, array, array or string, string string, problems that way you are seeing the patterns that pop up 👀 <br>
-•
+
+- BEST EXAMPLE OF CONTRUCTORS - used car factory example
+- tip: when functions are created with Uppercase, then they are constructors
+  •
 
 ---
 
