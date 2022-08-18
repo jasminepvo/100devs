@@ -791,9 +791,10 @@ arr.concat(arg1, arg2...)
 
 • Do AGAIN with 100Devs member [Day 4 - Array Cardio](https://javascript30.com/)<br>
 • Finished Class 23 lecture on Youtube - API's <br>
-• Do Microsoft's [Intro to Github](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/?ocid=aid3038567_RequestedResources_ThankYou_DevComm&eventId=LearnwithLeonstream_ggNxpTZxIzb_)<br>
+• Complete Class 23 homework - Microsoft's [Intro to Github](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/?ocid=aid3038567_RequestedResources_ThankYou_DevComm&eventId=LearnwithLeonstream_ggNxpTZxIzb_)<br>
 • Started and finished Class 24 lecture on Youtube - Github<br>
 • Started and finished Class 26 lecture on Youtube<br>
+• Make the cocktailDB API work with spaces between the names<br>
 
 #### Thoughts
 
@@ -823,6 +824,27 @@ arr.concat(arg1, arg2...)
 I think this is a good example:
 ![](https://docs.microsoft.com/en-us/learn/github/introduction-to-github/media/2-fork-pullrequest.png)<br>
 
+• git
+
+- git init: creates a special folder to hold all your snapshots (commits)
+- git add <file>: adds file to staging area (not yet in that special folder)
+- git add . : adds ALL files
+- git add \*.html : adds ALL html files
+- git commit: adds everything in staging to the special folder as a snapshot
+- git commit -m: same thing but short text description
+- git status: find out if you are on main first
+- git branch <name>: creates a new branch for you if you want to try something without borking all your code
+- git checkout <name>: moves you to another branch so you can make changes without affecting the rest of your codde
+- _\*\*make all changes add, commit_
+- git checkout main: moves you back to main branch and gets rid of all those changes
+- git checkout risky: moves you back to risky to make more changes
+- git merge <branch>: adds changes from other branch to main
+
+• Github
+
+- make a new branch called gh-pages then look at githubusername.io/filename will automatically host your page! Or just go in the settings
+- make commits OFTEN
+
 ---
 
 <!-- TEMPLATE
@@ -831,11 +853,9 @@ I think this is a good example:
 
 #### Todays's Progress
 
-• Make node-backend-simple-json more readable<br>
-• Make a coin flip game where the randomization happens server side<br>
-• Watch [JavaScript Crash Course](https://youtu.be/1sRJYuaqoiI)<br>
-• Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
-• Do ANKI<br>
+• Find three APIs and build three simple apps using [APIs](https://github.com/public-apis/public-apis)<br>
+• Add an API to your [portfolio website]()<br>
+• Started and finished Class 27 lecture on Youtube<br>
 
 #### Thoughts
 
@@ -846,11 +866,10 @@ I think this is a good example:
 
 #### Todays's Progress
 
-• Started and finished Class 36 lecture on Youtube<br>
-• Watch [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
-• Watch [Jake Archibald: In The Loop - setTimeout, micro tasks, requestAnimationFrame, requestIdleCallback, …](https://www.youtube.com/watch?v=cCOL7MC4Pl0)<br>
-• [Build a Simple CRUD app with Node, Express, and MongoDB] (https://zellwk.com/blog/crud-express-mongodb/)<br>
-• Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
+• Started and finished Class 28 lecture on Youtube<br>
+• Do 30 Hours of [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)<br>
+• Do [Professional Checklist](https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg)<br>
+• Do x problem of [7Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
 • Do ANKI<br>
 
 #### Thoughts
@@ -862,39 +881,29 @@ I think this is a good example:
 
 #### Todays's Progress
 
-• Started and finished Class 37 lecture on Youtube<br>
-• Started and finished Class 38 lecture on Youtube<br>
-• Create [Heroku](), [Mongo Atlas](), [Postman]() Accounts<br>
-• Read [Node.js and Express (Fullstack Open)](https://fullstackopen.com/en/part3/node_js_and_express)<br>
-• Make your own API and push to Heroku []()<br>
-• Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
-• Do ANKI<br>
+
 
 #### Thoughts
 
 
 ---
 
-### Day 37: August 22, 2022
+### Day 37: August 22, 2022 - Monday
 
 #### Todays's Progress
 
-• Started and finished Class 39 lecture on Youtube<br>
-• Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
-• Do ANKI<br>
+
 
 #### Thoughts
 
 
 ---
 
-### Day 38: August 23, 2022
+### Day 38: August 23, 2022 - Tuesday
 
 #### Todays's Progress
 
-• Started and finished Class 40 lecture on Youtube<br>
-• Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
-• Do ANKI<br>
+
 
 #### Thoughts
 
@@ -907,8 +916,7 @@ I think this is a good example:
 
 #### Todays's Progress
 
-• Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
-• Do ANKI<br>
+
 
 #### Thoughts
 
@@ -916,15 +924,9 @@ I think this is a good example:
 ---
 
 
-• Make the cocktailDB API work with spaces between the names<br>
-• Find three APIs and build three simple apps using [APIs](https://github.com/public-apis/public-apis)<br>
-• Add an API to your [portfolio website]()<br>
-• Started and finished Class 27 lecture on Youtube<br>
-• Started and finished Class 28 lecture on Youtube<br>
-• Do 30 Hours of [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)<br>
-• Do [Professional Checklist](https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg)<br>
 
-• Do x problem of [7Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
+
+
 • Started and finished Class 29 lecture on Youtube<br>
 • Read The JavaScript Way Ch. 9 - [Understand object-oriented programming](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md)<br>
 • Started and finished Class 30 lecture on Youtube<br>
@@ -952,6 +954,36 @@ I think this is a good example:
 • Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
 • Do ANKI<br>
 
+• Make node-backend-simple-json more readable<br>
+• Make a coin flip game where the randomization happens server side<br>
+• Watch [JavaScript Crash Course](https://youtu.be/1sRJYuaqoiI)<br>
+• Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
+• Do ANKI<br>
+
+• Started and finished Class 36 lecture on Youtube<br>
+• Watch [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+• Watch [Jake Archibald: In The Loop - setTimeout, micro tasks, requestAnimationFrame, requestIdleCallback, …](https://www.youtube.com/watch?v=cCOL7MC4Pl0)<br>
+• [Build a Simple CRUD app with Node, Express, and MongoDB] (https://zellwk.com/blog/crud-express-mongodb/)<br>
+• Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
+
+• Started and finished Class 37 lecture on Youtube<br>
+• Started and finished Class 38 lecture on Youtube<br>
+• Create [Heroku](), [Mongo Atlas](), [Postman]() Accounts<br>
+• Read [Node.js and Express (Fullstack Open)](https://fullstackopen.com/en/part3/node_js_and_express)<br>
+• Make your own API and push to Heroku []()<br>
+• Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
+• Do ANKI<br>
+
+• Started and finished Class 39 lecture on Youtube<br>
+• Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
+• Do ANKI<br>
+
+• Started and finished Class 40 lecture on Youtube<br>
+• Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
+• Do ANKI<br>
+
+• Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
+• Do ANKI<br>
 -->
 
 ```
