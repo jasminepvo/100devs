@@ -2,7 +2,7 @@
 
 #### Todays's Progress
 
-• Started and finished Class 01 lecture on YouTube<br>
+• Started and finished Class 01 lecture on YouTube - INTRO<br>
 • Start Class 01 homework - [Coursera course "Learning How To Learn"](https://coursera.org/share/ace875e4dd605145d75886055799dee7)<br>
 • Set an action plan for completing the course<br>
 
@@ -27,7 +27,7 @@
 
 #### Todays's Progress
 
-• Started and finished Class 02 lecture on YouTube<br> - followed along the brownies.html lab<br>
+• Started and finished Class 02 lecture on YouTube - HTML <br> - followed along the brownies.html lab<br>
 • Finished Class 01 homework - [Coursera course "Learning How To Learn"](https://coursera.org/share/ace875e4dd605145d75886055799dee7)<br>
 
 #### Thoughts
@@ -46,10 +46,10 @@
 
 #### Todays's Progress
 
-• Started and finished Class 03 lecture on YouTube<br>
+• Started and finished Class 03 lecture on YouTube - HTML<br>
 • Completed Class 02 homework - [bcc.html](./class02-materials/bbc.html) ✔️<br>
 • Completed Class 03 homework - HTML layout for [Tech Crunch](./class-03-materials/tech-crunch.html) and [Khan Academy](./class-03-materials/khan-academy.html) ✔️<br>
-• Started and finished Class 04 lecture on YouTube<br>
+• Started and finished Class 04 lecture on YouTube - CSS<br>
 • Started Class 04 homework - [Simple Site Lab](./class04-materials/simple-site-lab/simple-site.html)<br>
 • Took the five minute [typingtest.com](www.typingtest.com) and got 64wpm<br>
 • Practiced typing with [www.keybr.com](www.keybr.com) and got 82 wpm, stuck on q character<br>
@@ -78,14 +78,14 @@ P.S. ✔️ are for homeworks that needed to be turned in on either [codepen](ww
 
 #### Todays's Progress
 
-• Started and finished Class 05 lecture on YouTube<br>
+• Started and finished Class 05 lecture on YouTube - CSS Layout<br>
 • Took ANKI notes during lecture<br>
 • Completed Class 05 lab - [15 Minutes of Pain](./class05-materials/15-min-of-pain-layout/index.html)<br>
 • Completed Class 04 homework - [Simple Site Lab](./class04-materials/simple-site-lab/index.html) ✔️<br>
 • Completed Class 05 homework - [Layout 1](./class05-materials/three-layouts/layout-1/index.html) ✔️<br>
 • Completed Class 05 homework - [Layout 2](./class05-materials/three-layouts/layout-2/index.html) ✔️<br>
 • Completed Class 05 homework - [Layout 3](./class05-materials/three-layouts/layout-3/index.html) ✔️<br>
-• Started Class 06 lecture on YouTube<br>
+• Started Class 06 lecture on YouTube Review HTML/CSS<br>
 
 #### Thoughts
 
@@ -116,9 +116,9 @@ P.S. ✔️ are for homeworks that needed to be turned in on either [codepen](ww
 
 • Finished Class 06 lecture on YouTube and completed all in-class labs/pushed to Github<br>
 • Took ANKI notes during lecture<br>
-• Started Class 07 lecture on YouTube<br>
+• Started Class 07 lecture on YouTube - Responsive CSS<br>
 • Completed Class 06 homework - 15 Min of Pain Responsive ✔️<br>
-• Started and finished Class 09 lecture on YouTube<br>
+• Started and finished Class 09 lecture on YouTube - Networking <br>
 
 BONUS: Attend Startups Oasis Networking in ATL at ATDC @7PM  🤝🏼<br>
 
@@ -152,8 +152,8 @@ BONUS: Attend Startups Oasis Networking in ATL at ATDC @7PM  🤝🏼<br>
 #### Todays's Progress
 
 • Video call to help another member understand floats and responsiveness<br>
-• Finished Class 07 lecture on YouTube<br>
-• Started and finished Class 08 lecture on YouTube<br>
+• Finished Class 07 lecture on YouTube - Responsive CSS<br>
+• Started and finished Class 08 lecture on YouTube - Bad CSS<br>
 • Started Class 08 homework - <br>
 
 #### Thoughts
@@ -185,7 +185,7 @@ BONUS: Attend Startups Oasis Networking in ATL at ATDC @7PM  🤝🏼<br>
 
 #### Todays's Progress
 
-• Started Class 10 lecture on Youtube<br>
+• Started Class 10 lecture on Youtube - CSS Review<br>
 • Started Class 08 homework pt. 2 - [Layout Replica of Khan Academy](./khanacademy-layout-template/index.html)<br>
 • Started Independence Day<br>
 
@@ -241,7 +241,7 @@ BONUS: Attend Startups Oasis Networking in ATL at ATDC @7PM  🤝🏼<br>
 #### Todays's Progress
 
 • Made a commit to [#FitDevs](https://fitdevs-withkat.github.io/Support/landing_page/)<br>
-• Started and finished Class 10 lecture on Youtube<br>
+• Started and finished Class 10 lecture on Youtube - CSS Review <br>
 • Started and finished Class 10 homework - [Source Layout](./source-layout/index.html)✔️<br>
 • Started and finished Class 10 homework - [Ground Layout](./level-ground-layout/index.html)✔️<br>
 
@@ -369,7 +369,7 @@ section{
 
 • Started and finished Class 10 homework - [Hair Salon](./hair-salon-layout/index.html)✔️<br>
 • Started [JavaScript Crash Course - Traversy Media](https://www.youtube.com/watch?v=hdI2bqOjy3c)<br>
-• Started and finished Class 11 lecture on Youtube<br>
+• Started and finished Class 11 lecture on Youtube - CSS Layouts & Flexbox<br>
 
 #### Thoughts
 
@@ -382,11 +382,11 @@ section{
 #### Todays's Progress
 
 • Listened to motivational video: [I still have a soul](https://youtu.be/01CL029k7pU)<br>
-• Started and finished Class 12 lecture on Youtube<br>
+• Started and finished Class 12 lecture on Youtube JavaScript <br>
 • Read and completed the tasks [javascript.info - Variables](https://javascript.info/variables)✔️<br>
 • Read and completed the tasks [javascript.info - Function Basics](https://javascript.info/function-basics)✔️<br>
 • Listened to motivational video: [What will you do with it? - Eric Thomas](https://youtu.be/dV9worye5g0)<br>
-• Started and finished Class 13 lecture on Youtube<br>
+• Started and finished Class 13 lecture on Youtube - JavaScript <br>
 
 #### Thoughts
 
@@ -423,9 +423,9 @@ section{
 
 #### Todays's Progress
 
-• Started and finished Class 14 lecture on Youtube<br>
+• Started and finished Class 14 lecture on Youtube - Functions <br>
 • Start and finish Class 14 homework - Delete all js and redo - [JS Tasks](./class14-materials/)✔️<br>
-• Started Class 15 lecture on Youtube<br>
+• Started Class 15 lecture on Youtube - Freelancing <br>
 
 #### Thoughts
 
@@ -437,7 +437,7 @@ section{
 
 #### Todays's Progress
 
-• Finished Class 15 lecture on Youtube<br>
+• Finished Class 15 lecture on Youtube - Freelancing<br>
 • Started Class 15 homework - Setup your [portfolio](./portfolio/index.html)✔️<br>
 
 #### Thoughts
@@ -502,7 +502,7 @@ section{
 • Coffee Chat with Liv 1-2PM☕️ <br>
 • Continued Class 15 homework - Setup your [portfolio](./portfolio3/index.html)✔️<br>
 • Read before class: [Thinking by Walter D Wintle](https://allpoetry.com/poem/8624439-Thinking-by-Walter-D-Wintle)<br>
-• Started and finished Class 16 lecture on Youtube<br>
+• Started and finished Class 16 lecture on Youtube - Loops <br>
 • Started and finished Class 17 lecture - Networking<br>
 • Started and finished Class 18 lecture - Project Night<br>
 • Read [Invictus by William Ernest Henley](https://www.poetryfoundation.org/poems/51642/invictus)<br>
@@ -531,9 +531,9 @@ section{
 • Read & complete tasks for The JavaScript Way Ch. 4 - [Repeat statements](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter04.md)<br>
 • Complete BONUS hw code from scratch - [Bring It On Again](./class16-materials/bring-it-on-again/js/main.js)<br>
 • Started Super Review Frontend Crash Course on Youtube (3hrs/9hrs)<br>
-• Started and finished Class 25 lecture on Youtube<br>
-• Started Class 33 lecture on Youtube<br>
-• Started Class 34 lecture on Youtube (end at 2:08:02)<br>
+• Started and finished Class 25 lecture on Youtube - Resume<br>
+• Started and finished Class 33 lecture on Youtube - Secrets to Landing Your First Tech Job <br>
+• Started Class 34 lecture on Youtube (end at 2:08:02) - Crush Your Technical Interviews <br>
 • Finished Class 15 homework - Setup your [portfolio](../porfolio/index.htmll)✔️<br>
 • Used Leon's template to REDO my [resume](https://docs.google.com/document/d/1xDeEF7TGKxuik_fCi1rTmnQbE_SJ6zJO/edit)<br>
 
@@ -661,7 +661,7 @@ arr.forEach((item, index) => {
 #### Todays's Progress
 
 • Do [Day 4 - Array Cardio](https://javascript30.com/)<br>
-• Started and finished Class 20 lecture on Youtube<br>
+• Started and finished Class 20 lecture on Youtube - Arrays <br>
 • FINISHED Super Review Front End Crash Course on Youtube (9hrs/9hrs)<br>
 • Read and complete tasks - [javascript.info - Object](https://javascript.info/object)<br>
 • Do 1 problem of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
@@ -723,7 +723,7 @@ arr.concat(arg1, arg2...)
 
 #### Todays's Progress
 
-• Started and finished Class 21 lecture on Youtube<br>
+• Started and finished Class 21 lecture on Youtube - Objects <br>
 • Read and complete tasks - [javascript.info - Array Methods](https://javascript.info/array-methods)<br>
 • Submit JS Tasks [objects](https://codepen.io/jasminepvo/pen/PoRyRxx)<br>
 • Read Eloquent JavaScript Ch. 4 - [Functions](https://eloquentjavascript.net/04_data.html)<br>
@@ -742,9 +742,9 @@ arr.concat(arg1, arg2...)
 
 #### Todays's Progress
 
-• Started and finished Class 22 lecture on Youtube<br>
+• Started and finished Class 22 lecture on Youtube - Objects <br>
 • Watch [Object-Oriented Programming in JavaScript: Made Super Simple | Mosh](https://youtu.be/PFmuCDHHpwk)<br>
-• Started Class 23 lecture on Youtube<br>
+• Started Class 23 lecture on Youtube - APIs <br>
 • Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 • Do ANKI<br>
 
@@ -789,10 +789,10 @@ arr.concat(arg1, arg2...)
 
 #### Todays's Progress
 
-• Do AGAIN[Day 4 - Array Cardio](https://javascript30.com/)<br>
-• Started Class 23 lecture on Youtube<br>
+• Do AGAIN with 100Devs member [Day 4 - Array Cardio](https://javascript30.com/)<br>
+• Finished Class 23 lecture on Youtube - API's <br>
 • Do Microsoft's [Intro to Github](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/?ocid=aid3038567_RequestedResources_ThankYou_DevComm&eventId=LearnwithLeonstream_ggNxpTZxIzb_)<br>
-• Started and finished Class 24 lecture on Youtube<br>
+• Started and finished Class 24 lecture on Youtube - Github<br>
 • Started and finished Class 26 lecture on Youtube<br>
 
 #### Thoughts
