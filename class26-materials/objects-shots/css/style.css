@@ -3,18 +3,19 @@
 /*******************************************/
 
 /* Box Model Hack */
-*{
-  box-sizing: border-box;
+* {
+	box-sizing: border-box;
 }
 
 /******************************************
 /* LAYOUT
 /*******************************************/
-img{
-  display: block;
-  margin: 0 auto;
+img {
+	display: block;
+	margin: 0 auto;
+	height: 400px;
+	width: 300px;
 }
-
 
 /******************************************
 /* ADDITIONAL STYLES
