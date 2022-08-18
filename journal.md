@@ -781,55 +781,21 @@ arr.concat(arg1, arg2...)
 
 ---
 
-<!-- TEMPLATE
-
 ### Day 33: August 18, 2022 - Thursday
 
 #### Todays's Progress
+
+• Do AGAIN[Day 4 - Array Cardio](https://javascript30.com/)<br>
+• Started Class 23 lecture on Youtube<br>
 • Do Microsoft's [Intro to Github](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/?ocid=aid3038567_RequestedResources_ThankYou_DevComm&eventId=LearnwithLeonstream_ggNxpTZxIzb_)<br>
 • Started and finished Class 24 lecture on Youtube<br>
-• Do AGAIN[Day 4 - Array Cardio](https://javascript30.com/)<br>
 • Started and finished Class 26 lecture on Youtube<br>
-• Make the cocktailDB API work with spaces between the names<br>
-• Find three APIs and build three simple apps using [APIs](https://github.com/public-apis/public-apis)<br>
-• Add an API to your [portfolio website]()<br>
-• Started and finished Class 27 lecture on Youtube<br>
-• Started and finished Class 28 lecture on Youtube<br>
-• Do 30 Hours of [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)<br>
-• Do [Professional Checklist](https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg)<br>
-
-• Do x problem of [7Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
-• Started and finished Class 29 lecture on Youtube<br>
-• Read The JavaScript Way Ch. 9 - [Understand object-oriented programming](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md)<br>
-• Started and finished Class 30 lecture on Youtube<br>
-• Started and finished Class 31 lecture on Youtube<br>
-• PUSH: Do Codewars Array Ladder 8kyu, 7kyu, 6kyu, 7kyu, 8kyu<br>
-• Read MDN Web Docs - [How to use promises](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises)<br>
-• Watch and type out all the examples in [The Async Await Episode | Promised](https://www.youtube.com/watch?v=vn3tm0quoqE)<br>
-• Finished Class 34 lecture on Youtube<br>
-• Start prepping [THE BANK](https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c)<br>
-• Complete your professional link - [portfolio](https://jasminepvo.dev)<br>
-• Complete your professional link - [story blurb]()<br>
-• Complete your professional link - [Linkedin](https://linkedin.com/in/jasminepvo)<br>
-• Complete your professional link - [Twitter](https://twitter.com/jasminepvodev)<br>
-• Complete your professional link - [Github](https://github.com/jasminepvo)<br>
-• Complete your professional link - [Resume]()<br>
-• Complete your professional link - [Codewars Repo](https://github.com/jasminepvo/CodeWars)<br>
-• Complete your professional link - [Angellist]()<br>
-• Complete your professional link - [100HoursProject - Description / Wireframe]()<br>
-• Complete your professional link - [Cover letter & Email]()<br>
-• Complete your professional link - [Hitlist]()<br>
-• Complete your professional link - [Headshot]()<br>
-• Read [Modern JavaScript For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)<br>
-• Watch [Node.js Crash Course](https://youtu.be/fBNz5xF-Kx4)<br>
-• Started and finished Class 35 lecture on Youtube<br>
-• Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
-• Do ANKI<br>
 
 #### Thoughts
 
-
 ---
+
+<!-- TEMPLATE
 
 ### Day 34: August 19, 2022 - Friday
 
@@ -918,6 +884,43 @@ arr.concat(arg1, arg2...)
 
 
 ---
+
+
+• Make the cocktailDB API work with spaces between the names<br>
+• Find three APIs and build three simple apps using [APIs](https://github.com/public-apis/public-apis)<br>
+• Add an API to your [portfolio website]()<br>
+• Started and finished Class 27 lecture on Youtube<br>
+• Started and finished Class 28 lecture on Youtube<br>
+• Do 30 Hours of [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)<br>
+• Do [Professional Checklist](https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg)<br>
+
+• Do x problem of [7Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
+• Started and finished Class 29 lecture on Youtube<br>
+• Read The JavaScript Way Ch. 9 - [Understand object-oriented programming](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md)<br>
+• Started and finished Class 30 lecture on Youtube<br>
+• Started and finished Class 31 lecture on Youtube<br>
+• PUSH: Do Codewars Array Ladder 8kyu, 7kyu, 6kyu, 7kyu, 8kyu<br>
+• Read MDN Web Docs - [How to use promises](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises)<br>
+• Watch and type out all the examples in [The Async Await Episode | Promised](https://www.youtube.com/watch?v=vn3tm0quoqE)<br>
+• Finished Class 34 lecture on Youtube<br>
+• Start prepping [THE BANK](https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c)<br>
+• Complete your professional link - [portfolio](https://jasminepvo.dev)<br>
+• Complete your professional link - [story blurb]()<br>
+• Complete your professional link - [Linkedin](https://linkedin.com/in/jasminepvo)<br>
+• Complete your professional link - [Twitter](https://twitter.com/jasminepvodev)<br>
+• Complete your professional link - [Github](https://github.com/jasminepvo)<br>
+• Complete your professional link - [Resume]()<br>
+• Complete your professional link - [Codewars Repo](https://github.com/jasminepvo/CodeWars)<br>
+• Complete your professional link - [Angellist]()<br>
+• Complete your professional link - [100HoursProject - Description / Wireframe]()<br>
+• Complete your professional link - [Cover letter & Email]()<br>
+• Complete your professional link - [Hitlist]()<br>
+• Complete your professional link - [Headshot]()<br>
+• Read [Modern JavaScript For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)<br>
+• Watch [Node.js Crash Course](https://youtu.be/fBNz5xF-Kx4)<br>
+• Started and finished Class 35 lecture on Youtube<br>
+• Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
+• Do ANKI<br>
 
 -->
 
