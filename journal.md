@@ -779,6 +779,10 @@ arr.concat(arg1, arg2...)
 
 #### Thoughts
 
+• Spent most of my time doing the wireframe so I was a little burnt out after. Designing is harrrrddd. If I could draw things out on my iPad and it auto resized things for me that would be next level. It was also our first time working on this software (with Zira) so more challenging. The design looks good though! After taking a much needed break, I went back and created a dark mode version! Got a lot of nice feedback on twitter that the dark mode was good and both designs were clean, this meant a lot 🫶🏼<br>
+![](./imgs/angelshot-draft.jpg)
+![](./imgs/angelshot-darkmode.jpg)
+
 ---
 
 ### Day 33: August 18, 2022 - Thursday
@@ -792,6 +796,11 @@ arr.concat(arg1, arg2...)
 • Started and finished Class 26 lecture on Youtube<br>
 
 #### Thoughts
+
+• Class 23 - BEST WEEK EVER!!! 100+ COHORT MEMBERS GOT JOBS!!! Big energy in the beginning of class. <br>
+
+- SOOO COOOL TO LEARN ABOUT APIS. Used an API to fetch dog photos - would be good for simple site that lifts you up when you're having a bad day with dog photos and quotes
+- There are so many API's out there that can get cool data back from other servers. You can not only use your data, but other peoples, companies everywhere!!!
 
 ---
 
