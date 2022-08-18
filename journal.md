@@ -768,9 +768,22 @@ arr.concat(arg1, arg2...)
 
 ---
 
+### Day 32: August 17, 2022 - Wednesday
+
+#### Todays's Progress
+
+• Design wireframe for angelshot<br>
+• Read 4 Pillars of OOP<br>
+• Do 2 problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
+• Do ANKI<br>
+
+#### Thoughts
+
+---
+
 <!-- TEMPLATE
 
-### Day 32: August 17, 2022 - Wednesday
+### Day 33: August 18, 2022 - Thursday
 
 #### Todays's Progress
 • Do Microsoft's [Intro to Github](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/?ocid=aid3038567_RequestedResources_ThankYou_DevComm&eventId=LearnwithLeonstream_ggNxpTZxIzb_)<br>
@@ -791,18 +804,6 @@ arr.concat(arg1, arg2...)
 • Started and finished Class 30 lecture on Youtube<br>
 • Started and finished Class 31 lecture on Youtube<br>
 • PUSH: Do Codewars Array Ladder 8kyu, 7kyu, 6kyu, 7kyu, 8kyu<br>
-• Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
-• Do ANKI<br>
-
-#### Thoughts
-
-
----
-
-### Day 33: August 18, 2022 - Thursday
-
-#### Todays's Progress
-
 • Read MDN Web Docs - [How to use promises](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises)<br>
 • Watch and type out all the examples in [The Async Await Episode | Promised](https://www.youtube.com/watch?v=vn3tm0quoqE)<br>
 • Finished Class 34 lecture on Youtube<br>
