@@ -820,6 +820,9 @@ arr.concat(arg1, arg2...)
 - clear: clears what is currently being displayed
 - code filename: opens file in VS Code
 
+I think this is a good example:
+![](https://docs.microsoft.com/en-us/learn/github/introduction-to-github/media/2-fork-pullrequest.png)<br>
+
 ---
 
 <!-- TEMPLATE
