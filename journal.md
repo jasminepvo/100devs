@@ -802,6 +802,24 @@ arr.concat(arg1, arg2...)
 - SOOO COOOL TO LEARN ABOUT APIS. Used an API to fetch dog photos - would be good for simple site that lifts you up when you're having a bad day with dog photos and quotes
 - There are so many API's out there that can get cool data back from other servers. You can not only use your data, but other peoples, companies everywhere!!!
 
+• Class 24 - Git/Github sponsored by Microsoft! Super cool all the giveaway swag, wish I had been in the live classes. Cool to see the old Apple Mac 2 CLI.. I knew it was old but I didn't know it was thaaat old LOL.
+
+- pwd: print working director - shows where you are
+- mkdir: make directory - create a folder
+- cd: change directory - move into folder
+- cd .. : goes up a folder - back up a folder
+- cd ~ : go back to home folder
+- touch: create a file
+- ls: shows you all files in folder
+- ls -l: shows you all the files in a folder with more info
+- ls -la: shows you all the files in a folder including hidden
+- rm: removes a file
+- rm -r <folder>: removes a folder
+- \*\* use tab to autocomplete
+- rm -rf <folder>: removes everything even protected files - be careful!
+- clear: clears what is currently being displayed
+- code filename: opens file in VS Code
+
 ---
 
 <!-- TEMPLATE
