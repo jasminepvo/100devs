@@ -847,11 +847,9 @@ I think this is a good example:
 - make a new branch called gh-pages then look at githubusername.io/filename will automatically host your page! Or just go in the settings
 - make commits OFTEN
 
-• Class 26 - WOOOOAAAAAHHHHHH API's are so cool. We have to find three that we want to build a simple app with and i'm overwhelmed with ideas. I wanted to make a button that generates quotes but I'm having a hard time getting it to work. The API
+• Class 26 - WOOOOAAAAAHHHHHH API's are so cool. We have to find three that we want to build a simple app with and i'm overwhelmed with ideas. I wanted to make a button that generates quotes but I'm having a hard time getting it to work. The API want doesn't have any documentation on how to use it. The other one that is similar shows "curl -x GET (url)" which I don't understand. I converted it to JavaScript using a converter I found online and it works but it returns the entire function. I'll have to figure this out on my own or choose another API. Going to keep moving forward with VODs though in case he goes over this. <br>
 
 ---
-
-<!-- TEMPLATE
 
 ### Day 34: August 19, 2022 - Friday
 
@@ -866,8 +864,9 @@ I think this is a good example:
 
 #### Thoughts
 
-
 ---
+
+<!-- TEMPLATE
 
 ### Day 35: August 20, 2022 - Saturday
 
