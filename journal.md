@@ -858,13 +858,13 @@ I think this is a good example:
 • Started and finished Class 27 lecture on Youtube<br>
 • Build simple site with API #2 - [quotes](./class26-materials/api2/index.html)<br>
 • Build simple site with API #3 - [quotes](./class26-materials/api3/index.html)<br>
-• Make the cocktailDB API work with spaces between the names<br>
+• Make the [cocktailDB API](https://www.thecocktaildb.com/) work with spaces between the names<br>
 • Add an API to your [portfolio website](https://jasminepvo.dev)<br>
 • Startup weekly standup @1-1:45PM 👩🏻‍💻<br>
 
 #### Thoughts
 
----
+## • Class 27 - More on APIs. An API is a simple interface that does complex things
 
 <!-- TEMPLATE
 
