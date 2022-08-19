@@ -793,8 +793,8 @@ arr.concat(arg1, arg2...)
 • Finished Class 23 lecture on Youtube - API's <br>
 • Complete Class 23 homework - Microsoft's [Intro to Github](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/?ocid=aid3038567_RequestedResources_ThankYou_DevComm&eventId=LearnwithLeonstream_ggNxpTZxIzb_)<br>
 • Started and finished Class 24 lecture on Youtube - Github<br>
-• Started and finished Class 26 lecture on Youtube<br>
-• Make the cocktailDB API work with spaces between the names<br>
+• Started and finished Class 26 lecture on Youtube - Build App Using APIs<br>
+• Find three APIs and build three simple apps using [APIs](https://github.com/public-apis/public-apis)<br>
 
 #### Thoughts
 
@@ -845,6 +845,8 @@ I think this is a good example:
 - make a new branch called gh-pages then look at githubusername.io/filename will automatically host your page! Or just go in the settings
 - make commits OFTEN
 
+• Class 26 - WOOOOAAAAAHHHHHH API's are so cool. We have to find three that we want to build a simple app with and i'm overwhelmed with ideas.
+
 ---
 
 <!-- TEMPLATE
@@ -853,7 +855,8 @@ I think this is a good example:
 
 #### Todays's Progress
 
-• Find three APIs and build three simple apps using [APIs](https://github.com/public-apis/public-apis)<br>
+
+• Make the cocktailDB API work with spaces between the names<br>
 • Add an API to your [portfolio website]()<br>
 • Started and finished Class 27 lecture on Youtube<br>
 
