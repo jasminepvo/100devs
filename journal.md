@@ -774,7 +774,7 @@ arr.concat(arg1, arg2...)
 
 • Design wireframe for angelshot<br>
 • Read 4 Pillars of OOP<br>
-• Do 2 problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://www.github.com/jasminepvo/codewars)<br>
 • Do ANKI<br>
 
 #### Thoughts
@@ -795,6 +795,8 @@ arr.concat(arg1, arg2...)
 • Started and finished Class 24 lecture on Youtube - Github<br>
 • Started and finished Class 26 lecture on Youtube - Build App Using APIs<br>
 • Find three APIs and build three simple apps using [APIs](https://github.com/public-apis/public-apis)<br>
+• Build simple site with API #1 - [quotes](./class26-materials/api1/index.html)<br>
+• Do 3 problems of [8Kyu Fundamentals Track](https://www.github.com/jasminepvo/codewars)<br>
 
 #### Thoughts
 
@@ -845,7 +847,7 @@ I think this is a good example:
 - make a new branch called gh-pages then look at githubusername.io/filename will automatically host your page! Or just go in the settings
 - make commits OFTEN
 
-• Class 26 - WOOOOAAAAAHHHHHH API's are so cool. We have to find three that we want to build a simple app with and i'm overwhelmed with ideas.
+• Class 26 - WOOOOAAAAAHHHHHH API's are so cool. We have to find three that we want to build a simple app with and i'm overwhelmed with ideas. I wanted to make a button that generates quotes but I'm having a hard time getting it to work. The API
 
 ---
 
@@ -855,10 +857,12 @@ I think this is a good example:
 
 #### Todays's Progress
 
-
-• Make the cocktailDB API work with spaces between the names<br>
-• Add an API to your [portfolio website]()<br>
 • Started and finished Class 27 lecture on Youtube<br>
+• Build simple site with API #2 - [quotes](./class26-materials/api2/index.html)<br>
+• Build simple site with API #3 - [quotes](./class26-materials/api3/index.html)<br>
+• Make the cocktailDB API work with spaces between the names<br>
+• Add an API to your [portfolio website](https://jasminepvo.dev)<br>
+• Startup weekly standup @1-1:45PM 👩🏻‍💻<br>
 
 #### Thoughts
 
