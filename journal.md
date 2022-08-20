@@ -858,43 +858,44 @@ I think this is a good example:
 • Started and finished Class 27 lecture on Youtube<br>
 • Startup weekly standup @1-1:45PM 👩🏻‍💻<br>
 • Concept private repo for angelproject<br>
-• Do 3 problems of [8Kyu Fundamentals Track](https://www.github.com/jasminepvo/codewars)<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://www.github.com/jasminepvo/codewars)<br>
 • Review ANKI<br>
 
 #### Thoughts
 
-• Class 27 - More on APIs. An API is a simple interface that does complex things. Really cool to see him build out the [card game](./class27-materials/card-game/index.html). I want to go back in and make it into actual war game!
+• Class 27 - More on APIs. An API is a simple interface that does complex things. Really cool to see him build out the [card game](./class27-materials/card-game/index.html). I want to go back in and make it into actual war game!<br>
 
 - NASA API gets a photo of the day! This is so cool. I want to use this somehow
 - [Deck of Cards API](https://www.deckofcardsapi.com/) grabs a deck of cards
 - [Postman](https://web.postman.com) allows you to test your APIs
 
-<!-- TEMPLATE
+• In regards to the startup, I'm glad we're all on the same page in terms of expectations. I'm excited to take the lead and create something beautiful for her and useful for all women in the world.<br>
 
 ### Day 35: August 20, 2022 - Saturday
 
 #### Todays's Progress
 
-• Make the [cocktailDB API](https://www.thecocktaildb.com/) work with spaces between the names<br>
-• Add an API to your [portfolio website](https://jasminepvo.dev)<br>
 • Started and finished Class 28 lecture on Youtube<br>
+• Make the [cocktailDB API](https://www.thecocktaildb.com/) work with spaces between the names<br>
 • Build simple site with API #2 - [quotes](./class26-materials/api2/index.html)<br>
-• Build simple site with API #3 - [quotes](./class26-materials/api3/index.html)<br>
-• Do 30 Hours of [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)<br>
-• Do [Professional Checklist](https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg)<br>
-• Do x problem of [7Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
-• Do ANKI<br>
+• Do 3 problems of [8Kyu Fundamentals Track](https://www.github.com/jasminepvo/codewars)<br>
+• Review ANKI<br>
 
 #### Thoughts
 
-
 ---
+
+<!-- TEMPLATE
 
 ### Day 36: August 21, 2022 - Sunday
 
 #### Todays's Progress
 
-
+• Build simple site with API #3 - [quotes](./class26-materials/api3/index.html)<br>
+• Add an API to your [portfolio website](https://jasminepvo.dev)<br>
+• Do 30 Hours of [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)<br>
+• Do [Professional Checklist](https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg)<br>
+• Do x problem of [7Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
 
 #### Thoughts
 
