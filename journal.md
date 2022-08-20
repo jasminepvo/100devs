@@ -856,15 +856,16 @@ I think this is a good example:
 #### Todays's Progress
 
 • Started and finished Class 27 lecture on Youtube<br>
-• Build simple site with API #2 - [quotes](./class26-materials/api2/index.html)<br>
-• Build simple site with API #3 - [quotes](./class26-materials/api3/index.html)<br>
-• Make the [cocktailDB API](https://www.thecocktaildb.com/) work with spaces between the names<br>
-• Add an API to your [portfolio website](https://jasminepvo.dev)<br>
 • Startup weekly standup @1-1:45PM 👩🏻‍💻<br>
+• Concept private repo for angelproject<br>
 
 #### Thoughts
 
-## • Class 27 - More on APIs. An API is a simple interface that does complex things
+• Class 27 - More on APIs. An API is a simple interface that does complex things. Really cool to see him build out the [card game](./class27-materials/card-game/index.html). I want to go back in and make it into actual war game!
+
+- NASA API gets a photo of the day! This is so cool. I want to use this somehow
+- [Deck of Cards API](https://www.deckofcardsapi.com/) grabs a deck of cards
+- [Postman](https://web.postman.com) allows you to test your APIs
 
 <!-- TEMPLATE
 
@@ -872,7 +873,11 @@ I think this is a good example:
 
 #### Todays's Progress
 
+• Make the [cocktailDB API](https://www.thecocktaildb.com/) work with spaces between the names<br>
+• Add an API to your [portfolio website](https://jasminepvo.dev)<br>
 • Started and finished Class 28 lecture on Youtube<br>
+• Build simple site with API #2 - [quotes](./class26-materials/api2/index.html)<br>
+• Build simple site with API #3 - [quotes](./class26-materials/api3/index.html)<br>
 • Do 30 Hours of [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)<br>
 • Do [Professional Checklist](https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg)<br>
 • Do x problem of [7Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
