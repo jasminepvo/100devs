@@ -858,6 +858,8 @@ I think this is a good example:
 • Started and finished Class 27 lecture on Youtube<br>
 • Startup weekly standup @1-1:45PM 👩🏻‍💻<br>
 • Concept private repo for angelproject<br>
+• Do 3 problems of [8Kyu Fundamentals Track](https://www.github.com/jasminepvo/codewars)<br>
+• Review ANKI<br>
 
 #### Thoughts
 
