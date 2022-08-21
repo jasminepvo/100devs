@@ -875,11 +875,15 @@ I think this is a good example:
 
 #### Todays's Progress
 
-• Started and finished Class 28 lecture on Youtube<br>
-• Make the [cocktailDB API](https://www.thecocktaildb.com/) work with spaces between the names<br>
-• Build simple site with API #2 - [quotes](./class26-materials/api2/index.html)<br>
-• Do 3 problems of [8Kyu Fundamentals Track](https://www.github.com/jasminepvo/codewars)<br>
 • Review ANKI<br>
+
+#### Thoughts
+
+---
+
+### Day 36: August 21, 2022 - Sunday
+
+#### Todays's Progress
 
 #### Thoughts
 
@@ -887,26 +891,19 @@ I think this is a good example:
 
 <!-- TEMPLATE
 
-### Day 36: August 21, 2022 - Sunday
+### Day 37: August 22, 2022 - Monday
 
 #### Todays's Progress
 
+• Started and finished Class 28 lecture on Youtube<br>
+• Make the [cocktailDB API](https://www.thecocktaildb.com/) work with spaces between the names<br>
+• Build simple site with API #2 - [quotes](./class26-materials/api2/index.html)<br>
+• Do 3 problems of [8Kyu Fundamentals Track](https://www.github.com/jasminepvo/codewars)<br>
 • Build simple site with API #3 - [quotes](./class26-materials/api3/index.html)<br>
 • Add an API to your [portfolio website](https://jasminepvo.dev)<br>
 • Do 30 Hours of [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)<br>
 • Do [Professional Checklist](https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg)<br>
 • Do x problem of [7Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
-
-#### Thoughts
-
-
----
-
-### Day 37: August 22, 2022 - Monday
-
-#### Todays's Progress
-
-
 
 #### Thoughts
 
