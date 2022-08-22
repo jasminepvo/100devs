@@ -871,13 +871,19 @@ I think this is a good example:
 
 • In regards to the startup, I'm glad we're all on the same page in terms of expectations. I'm excited to take the lead and create something beautiful for her and useful for all women in the world.<br>
 
+---
+
 ### Day 35: August 20, 2022 - Saturday
 
 #### Todays's Progress
 
+• Startup - skeleton wireframe<br>
+• Do 1 problem of [8Kyu Fundamentals Track](https://www.github.com/jasminepvo/codewars)<br>
 • Review ANKI<br>
 
 #### Thoughts
+
+• Spent the morning away from the computer today, working out and playing basketball then going out for lunch. I can get so caught up in coding and my brain being so eager to learn, I want to stay here and keep going but I think it's important to have balance so I'm doing my best to enforce that as well. It was good rest. <br>
 
 ---
 
@@ -885,11 +891,13 @@ I think this is a good example:
 
 #### Todays's Progress
 
+• Do 1 problem of [8Kyu Fundamentals Track](https://www.github.com/jasminepvo/codewars)<br>
+
 #### Thoughts
 
----
+• Today my body forced me to rest haha. Still made sure to do 1 codewars though. <br>
 
-<!-- TEMPLATE
+---
 
 ### Day 37: August 22, 2022 - Monday
 
@@ -900,17 +908,99 @@ I think this is a good example:
 • Build simple site with API #2 - [quotes](./class26-materials/api2/index.html)<br>
 • Do 3 problems of [8Kyu Fundamentals Track](https://www.github.com/jasminepvo/codewars)<br>
 • Build simple site with API #3 - [quotes](./class26-materials/api3/index.html)<br>
-• Add an API to your [portfolio website](https://jasminepvo.dev)<br>
 • Do 30 Hours of [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)<br>
-• Do [Professional Checklist](https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg)<br>
 • Do x problem of [7Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
+• Review ANKI<br>
+
+#### Thoughts
+
+---
+
+<!-- TEMPLATE
+
+### Day 38: August 23, 2022 - Tuesday
+
+#### Todays's Progress
+
+• Do [Professional Checklist](https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg)<br>
+• Add an API to your [portfolio website](https://jasminepvo.dev)<br>
+• Started and finished Class 29 lecture on Youtube<br>
+• Read The JavaScript Way Ch. 9 - [Understand object-oriented programming](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md)<br>
+• Review ANKI<br>
+
 
 #### Thoughts
 
 
 ---
 
-### Day 38: August 23, 2022 - Tuesday
+### Day 39: August 24, 2022 - Wednesday
+
+#### Todays's Progress
+
+• Started and finished Class 30 lecture on Youtube<br>
+• Complete your professional link - [portfolio](https://jasminepvo.dev)<br>
+• Complete your professional link - [story blurb]()<br>
+• Complete your professional link - [Linkedin](https://linkedin.com/in/jasminepvo)<br>
+• Complete your professional link - [Twitter](https://twitter.com/jasminepvodev)<br>
+• Complete your professional link - [Github](https://github.com/jasminepvo)<br>
+
+#### Thoughts
+
+
+---
+
+
+### Day 40: August 25, 2022 - Thursday
+
+#### Todays's Progress
+
+• Started and finished Class 31 lecture on Youtube<br>
+• PUSH: Do Codewars Array Ladder 8kyu, 7kyu, 6kyu, 7kyu, 8kyu<br>
+• Read MDN Web Docs - [How to use promises](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises)<br>
+
+#### Thoughts
+
+
+---
+
+
+### Day 41: August 26, 2022 - Friday
+
+#### Todays's Progress
+
+• Complete your professional link - [Resume]()<br>
+• Complete your professional link - [Codewars Repo](https://github.com/jasminepvo/CodeWars)<br>
+• Complete your professional link - [Angellist]()<br>
+• Complete your professional link - [100HoursProject - Description / Wireframe]()<br>
+• Complete your professional link - [Cover letter & Email]()<br>
+• Complete your professional link - [Hitlist]()<br>
+• Complete your professional link - [Headshot]()<br>
+
+#### Thoughts
+
+
+---
+
+
+
+### Day 42: August 27, 2022 - Saturday
+
+#### Todays's Progress
+
+• Watch and type out all the examples in [The Async Await Episode | Promised](https://www.youtube.com/watch?v=vn3tm0quoqE)<br>
+• Finished Class 34 lecture on Youtube<br>
+• Start prepping [THE BANK](https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c)<br>
+
+
+#### Thoughts
+
+
+---
+
+
+
+### Day 43: August 28, 2022 - Sunday
 
 #### Todays's Progress
 
@@ -920,7 +1010,6 @@ I think this is a good example:
 
 
 ---
-
 
 
 ### Day : , 2022
@@ -938,27 +1027,6 @@ I think this is a good example:
 
 
 
-• Started and finished Class 29 lecture on Youtube<br>
-• Read The JavaScript Way Ch. 9 - [Understand object-oriented programming](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md)<br>
-• Started and finished Class 30 lecture on Youtube<br>
-• Started and finished Class 31 lecture on Youtube<br>
-• PUSH: Do Codewars Array Ladder 8kyu, 7kyu, 6kyu, 7kyu, 8kyu<br>
-• Read MDN Web Docs - [How to use promises](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises)<br>
-• Watch and type out all the examples in [The Async Await Episode | Promised](https://www.youtube.com/watch?v=vn3tm0quoqE)<br>
-• Finished Class 34 lecture on Youtube<br>
-• Start prepping [THE BANK](https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c)<br>
-• Complete your professional link - [portfolio](https://jasminepvo.dev)<br>
-• Complete your professional link - [story blurb]()<br>
-• Complete your professional link - [Linkedin](https://linkedin.com/in/jasminepvo)<br>
-• Complete your professional link - [Twitter](https://twitter.com/jasminepvodev)<br>
-• Complete your professional link - [Github](https://github.com/jasminepvo)<br>
-• Complete your professional link - [Resume]()<br>
-• Complete your professional link - [Codewars Repo](https://github.com/jasminepvo/CodeWars)<br>
-• Complete your professional link - [Angellist]()<br>
-• Complete your professional link - [100HoursProject - Description / Wireframe]()<br>
-• Complete your professional link - [Cover letter & Email]()<br>
-• Complete your professional link - [Hitlist]()<br>
-• Complete your professional link - [Headshot]()<br>
 • Read [Modern JavaScript For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)<br>
 • Watch [Node.js Crash Course](https://youtu.be/fBNz5xF-Kx4)<br>
 • Started and finished Class 35 lecture on Youtube<br>
