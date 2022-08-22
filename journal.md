@@ -909,10 +909,18 @@ I think this is a good example:
 • Do 3 problems of [8Kyu Fundamentals Track](https://www.github.com/jasminepvo/codewars)<br>
 • Build simple site with API #3 - [quotes](./class26-materials/api3/index.html)<br>
 • Do 30 Hours of [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)<br>
-• Do x problem of [7Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
+
 • Review ANKI<br>
 
 #### Thoughts
+
+• To make the cocktailDB API work with spaces, theres a couple ways to do it:
+
+- Wrap it in a template literal with backticks ``
+- Remove the whitespaces with .split('').join('')
+- Remove the whitespaces with replace('')
+
+• In regards to making 3 simple sites with API, I've decided to make 1 site with 3 API's instead :)
 
 ---
 
@@ -926,6 +934,7 @@ I think this is a good example:
 • Add an API to your [portfolio website](https://jasminepvo.dev)<br>
 • Started and finished Class 29 lecture on Youtube<br>
 • Read The JavaScript Way Ch. 9 - [Understand object-oriented programming](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md)<br>
+• Do x problem of [7Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
 • Review ANKI<br>
 
 
