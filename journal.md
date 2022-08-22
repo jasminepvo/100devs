@@ -903,13 +903,10 @@ I think this is a good example:
 
 #### Todays's Progress
 
-• Started and finished Class 28 lecture on Youtube<br>
 • Make the [cocktailDB API](https://www.thecocktaildb.com/) work with spaces between the names<br>
-• Build simple site with API #2 - [quotes](./class26-materials/api2/index.html)<br>
+• Build a site with 3 API's - [Manifest Inspiration](https://manifestinspiration.netlify.app/)<br>
+• Write good documentation of [Manifest Inpsiration on Github](https://github.com/jasminepvo/manifest)
 • Do 3 problems of [8Kyu Fundamentals Track](https://www.github.com/jasminepvo/codewars)<br>
-• Build simple site with API #3 - [quotes](./class26-materials/api3/index.html)<br>
-• Do 30 Hours of [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)<br>
-
 • Review ANKI<br>
 
 #### Thoughts
@@ -920,7 +917,7 @@ I think this is a good example:
 - Remove the whitespaces with .split('').join('')
 - Remove the whitespaces with replace('')
 
-• In regards to making 3 simple sites with API, I've decided to make 1 site with 3 API's instead :)
+• In regards to making 3 simple sites with API, I've decided to make 1 site with 3 API's instead :) I learned a lot in this process and documented everything on the repository. I also learned good documentation! I'm happy with my site and I'll probably come back to use it myself on some days. <br>
 
 ---
 
@@ -930,6 +927,8 @@ I think this is a good example:
 
 #### Todays's Progress
 
+• Do 30 Hours of [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)<br>
+• Started and finished Class 28 lecture on Youtube<br>
 • Do [Professional Checklist](https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg)<br>
 • Add an API to your [portfolio website](https://jasminepvo.dev)<br>
 • Started and finished Class 29 lecture on Youtube<br>
