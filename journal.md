@@ -921,8 +921,6 @@ I think this is a good example:
 
 ---
 
-<!-- TEMPLATE
-
 ### Day 38: August 23, 2022 - Tuesday
 
 #### Todays's Progress
@@ -936,11 +934,13 @@ I think this is a good example:
 • Do x problem of [7Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
 • Review ANKI<br>
 
-
 #### Thoughts
 
+• Using postman to test APIs
 
 ---
+
+<!-- TEMPLATE
 
 ### Day 39: August 24, 2022 - Wednesday
 
