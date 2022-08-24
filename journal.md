@@ -904,9 +904,9 @@ I think this is a good example:
 #### Todays's Progress
 
 • Make the [cocktailDB API](https://www.thecocktaildb.com/) work with spaces between the names<br>
-• Build a site with 3 API's - [Manifest Inspiration](https://manifestinspiration.netlify.app/)<br>
+• Build a site with 3 API's - [Manifest Inspiration](https://manifestinspiration.netlify.app/)✔️<br>
 • Write good documentation of [Manifest Inpsiration on Github](https://github.com/jasminepvo/manifest)
-• Do 3 problems of [8Kyu Fundamentals Track](https://www.github.com/jasminepvo/codewars)<br>
+• Do 1 problems of [8Kyu Fundamentals Track](https://www.github.com/jasminepvo/codewars)<br>
 • Review ANKI<br>
 
 #### Thoughts
@@ -925,6 +925,7 @@ I think this is a good example:
 
 #### Todays's Progress
 
+• Complete Class 28 homework - [Cocktails API](./class26-materials/objects-shots/index.html)✔️<br>
 • Do 30 Hours of [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)<br>
 • Started and finished Class 28 lecture on Youtube<br>
 • Do [Professional Checklist](https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg)<br>
