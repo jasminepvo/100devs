@@ -941,9 +941,9 @@ I think this is a good example:
 
 #### Todays's Progress
 
+• Started and finished Class 29 lecture on Youtube<br>
 • Do 30 Hours of [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)<br>
 • PUSH: Add an API to your [portfolio website](https://jasminepvo.dev)<br>
-• Started and finished Class 29 lecture on Youtube<br>
 • Read The JavaScript Way Ch. 9 - [Understand object-oriented programming](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md)<br>
 • Do x problem of [7Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
 • Review ANKI<br>
@@ -955,6 +955,8 @@ I think this is a good example:
 • Complete your professional link - [Github](https://github.com/jasminepvo)<br>
 
 #### Thoughts
+
+• Although there are shortcuts to functions like in codewars, focus on readability for code longevity.<br>
 
 ---
 
