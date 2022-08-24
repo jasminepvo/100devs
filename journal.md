@@ -918,6 +918,7 @@ I think this is a good example:
 - Remove the whitespaces with replace('')
 
 • In regards to making 3 simple sites with API, I've decided to make 1 site with 3 API's instead :) I learned a lot in this process and documented everything on the repository. I also learned good documentation! I'm happy with my site and I'll probably come back to use it myself on some days. <br>
+![](../manifest/assets/demo.gif)
 
 ---
 
@@ -936,14 +937,12 @@ I think this is a good example:
 
 ---
 
-<!-- TEMPLATE
-
 ### Day 39: August 24, 2022 - Wednesday
 
 #### Todays's Progress
 
 • Do 30 Hours of [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)<br>
-• Add an API to your [portfolio website](https://jasminepvo.dev)<br>
+• PUSH: Add an API to your [portfolio website](https://jasminepvo.dev)<br>
 • Started and finished Class 29 lecture on Youtube<br>
 • Read The JavaScript Way Ch. 9 - [Understand object-oriented programming](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md)<br>
 • Do x problem of [7Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
@@ -957,9 +956,9 @@ I think this is a good example:
 
 #### Thoughts
 
-
 ---
 
+<!-- TEMPLATE
 
 ### Day 40: August 25, 2022 - Thursday
 
