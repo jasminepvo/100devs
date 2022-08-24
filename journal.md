@@ -926,18 +926,13 @@ I think this is a good example:
 #### Todays's Progress
 
 • Complete Class 28 homework - [Cocktails API](./class26-materials/objects-shots/index.html)✔️<br>
-• Do 30 Hours of [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)<br>
 • Started and finished Class 28 lecture on Youtube<br>
-• Do [Professional Checklist](https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg)<br>
-• Add an API to your [portfolio website](https://jasminepvo.dev)<br>
-• Started and finished Class 29 lecture on Youtube<br>
-• Read The JavaScript Way Ch. 9 - [Understand object-oriented programming](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md)<br>
-• Do x problem of [7Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
-• Review ANKI<br>
+• Startup - standup + dev team / notes organization<br>
+• Do 1 problems of [8Kyu Fundamentals Track](https://www.github.com/jasminepvo/codewars)<br>
 
 #### Thoughts
 
-• Using postman to test APIs
+• Class 28 - Using postman to test APIs + working with local storage. Redid the code but will need to revisit this for sure. Spent more time than usual on this + startup standup + dev organization. <br>
 
 ---
 
@@ -947,6 +942,12 @@ I think this is a good example:
 
 #### Todays's Progress
 
+• Do 30 Hours of [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)<br>
+• Add an API to your [portfolio website](https://jasminepvo.dev)<br>
+• Started and finished Class 29 lecture on Youtube<br>
+• Read The JavaScript Way Ch. 9 - [Understand object-oriented programming](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md)<br>
+• Do x problem of [7Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
+• Review ANKI<br>
 • Started and finished Class 30 lecture on Youtube<br>
 • Complete your professional link - [portfolio](https://jasminepvo.dev)<br>
 • Complete your professional link - [story blurb]()<br>
