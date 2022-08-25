@@ -955,16 +955,19 @@ I think this is a good example:
 
 #### Todays's Progress
 
-• Do 30 Hours of [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)<br>
+• Do 30 Hours of [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript) 90% done<br>
 • PUSH: Add an API to your [portfolio website](https://jasminepvo.dev)<br>
-• Read The JavaScript Way Ch. 9 - [Understand object-oriented programming](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md)<br>
-• Do x problem of [7Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
-• Review ANKI<br>
-• Started and finished Class 30 lecture on Youtube<br>
 • Complete your professional link - [portfolio](https://jasminepvo.dev)<br>
 • Complete your professional link - [story blurb](https://jasminepvo.dev)<br>
+• Do x problem of [7Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Do 1 problem of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Review ANKI<br>
 
 #### Thoughts
+
+• Scope pollution is when we have too many global variables that exist in the global namespace, or when we reuse variables across different scopes. Scope pollution makes it difficult to keep track of our different variables and sets us up for potential accidents. For example, globally scoped variables can collide with other variables that are more locally scoped, causing unexpected behavior in our code.<br>
+
+• The JS course started to get long so I'll finish it tomorrow. I successfully added a quote API to my portfolio website though and icons of programming languages 🥳 I also re-wrote my story blurb. Time to work on the startup website, transitioning to a dark mode so I'll have to reverse all the current styling. <br>
 
 ---
 
@@ -974,6 +977,9 @@ I think this is a good example:
 ### Day 41: August 26, 2022 - Friday
 
 #### Todays's Progress
+
+• Started and finished Class 30 lecture on Youtube<br>
+• Read The JavaScript Way Ch. 9 - [Understand object-oriented programming](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md)<br>
 • Complete your professional link - [Linkedin](https://linkedin.com/in/jasminepvo)<br>
 • Complete your professional link - [Twitter](https://twitter.com/jasminepvodev)<br>
 • Complete your professional link - [Github](https://github.com/jasminepvo)<br>
