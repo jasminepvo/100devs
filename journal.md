@@ -942,6 +942,20 @@ I think this is a good example:
 #### Todays's Progress
 
 • Started and finished Class 29 lecture on Youtube<br>
+• Finished coding wireframe for startup🥳<br>
+
+#### Thoughts
+
+• Although there are shortcuts to functions like in codewars, focus on readability for code longevity.<br>
+• All my time was spent on the startup project per usual these days... I'm hoping with the wireframe being done, I'll be able to cut back hours now. _probably not_ Spent 6 hours today.<br>
+
+---
+
+<!-- TEMPLATE
+
+### Day 40: August 25, 2022 - Thursday
+
+#### Todays's Progress
 • Do 30 Hours of [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)<br>
 • PUSH: Add an API to your [portfolio website](https://jasminepvo.dev)<br>
 • Read The JavaScript Way Ch. 9 - [Understand object-oriented programming](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md)<br>
@@ -953,19 +967,6 @@ I think this is a good example:
 • Complete your professional link - [Linkedin](https://linkedin.com/in/jasminepvo)<br>
 • Complete your professional link - [Twitter](https://twitter.com/jasminepvodev)<br>
 • Complete your professional link - [Github](https://github.com/jasminepvo)<br>
-
-#### Thoughts
-
-• Although there are shortcuts to functions like in codewars, focus on readability for code longevity.<br>
-
----
-
-<!-- TEMPLATE
-
-### Day 40: August 25, 2022 - Thursday
-
-#### Todays's Progress
-
 • Started and finished Class 31 lecture on Youtube<br>
 • PUSH: Do Codewars Array Ladder 8kyu, 7kyu, 6kyu, 7kyu, 8kyu<br>
 • Read MDN Web Docs - [How to use promises](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises)<br>
