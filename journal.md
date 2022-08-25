@@ -17,7 +17,7 @@
 
 • I love that one of the first hw is "Learning how to learn"... it shows he's thought of everything especially starting at the basics and building a strong foundation. He emphasizes active recall and using ANKI (web note cards that are designed to focus on your most difficult to learn topics to fully master level based on an algorithm) which again, I love and agree with.<br>
 
-• I have completed the Responsive Web Design certificate form freeCodeCamp and foundations of The Odin Project so I feel like I have a strong hold on markup languages HTML& CSS and the basics of JavaScript. Previous discord messages say you can skip to the 9hr "Frontend Crash Course" and just review what you need to. However, I know I have nothing to lose by revisiting them especially when Leon explains the concepts in such an easy way to grasp.<br>
+• I have completed the Responsive Web Design certificate from freeCodeCamp and foundations of The Odin Project so I feel like I have a strong hold on markup languages HTML& CSS and the basics of JavaScript. Previous discord messages say you can skip to the 9hr "Frontend Crash Course" and just review what you need to. However, I know I have nothing to lose by revisiting them especially when Leon explains the concepts in such an easy way to grasp.<br>
 
 "This is a marathon, not a sprint."<br>
 
@@ -951,11 +951,10 @@ I think this is a good example:
 
 ---
 
-<!-- TEMPLATE
-
 ### Day 40: August 25, 2022 - Thursday
 
 #### Todays's Progress
+
 • Do 30 Hours of [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)<br>
 • PUSH: Add an API to your [portfolio website](https://jasminepvo.dev)<br>
 • Read The JavaScript Way Ch. 9 - [Understand object-oriented programming](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md)<br>
@@ -963,24 +962,21 @@ I think this is a good example:
 • Review ANKI<br>
 • Started and finished Class 30 lecture on Youtube<br>
 • Complete your professional link - [portfolio](https://jasminepvo.dev)<br>
-• Complete your professional link - [story blurb]()<br>
-• Complete your professional link - [Linkedin](https://linkedin.com/in/jasminepvo)<br>
-• Complete your professional link - [Twitter](https://twitter.com/jasminepvodev)<br>
-• Complete your professional link - [Github](https://github.com/jasminepvo)<br>
-• Started and finished Class 31 lecture on Youtube<br>
-• PUSH: Do Codewars Array Ladder 8kyu, 7kyu, 6kyu, 7kyu, 8kyu<br>
-• Read MDN Web Docs - [How to use promises](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises)<br>
+• Complete your professional link - [story blurb](https://jasminepvo.dev)<br>
 
 #### Thoughts
 
-
 ---
+
+<!-- TEMPLATE
 
 
 ### Day 41: August 26, 2022 - Friday
 
 #### Todays's Progress
-
+• Complete your professional link - [Linkedin](https://linkedin.com/in/jasminepvo)<br>
+• Complete your professional link - [Twitter](https://twitter.com/jasminepvodev)<br>
+• Complete your professional link - [Github](https://github.com/jasminepvo)<br>
 • Complete your professional link - [Resume]()<br>
 • Complete your professional link - [Codewars Repo](https://github.com/jasminepvo/CodeWars)<br>
 • Complete your professional link - [Angellist]()<br>
@@ -988,6 +984,9 @@ I think this is a good example:
 • Complete your professional link - [Cover letter & Email]()<br>
 • Complete your professional link - [Hitlist]()<br>
 • Complete your professional link - [Headshot]()<br>
+• Started and finished Class 31 lecture on Youtube<br>
+• PUSH: Do Codewars Array Ladder 8kyu, 7kyu, 6kyu, 7kyu, 8kyu<br>
+• Read MDN Web Docs - [How to use promises](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises)<br>
 
 #### Thoughts
 
