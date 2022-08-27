@@ -987,10 +987,11 @@ I think this is a good example:
 #### Todays's Progress
 
 • Do 30 Hours of [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript) 100% done<br>
-• Started and finished Class 30 lecture on Youtube<br>
+• Started and finished Class 30 lecture on Youtube - OOP<br>
 • Read The JavaScript Way Ch. 9 - [Understand object-oriented programming](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md)<br>
 • Do 6 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 • Do 1 problem of [7Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Review ANKI<br>
 
 #### Thoughts
 
