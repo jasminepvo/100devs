@@ -995,6 +995,8 @@ I think this is a good example:
 
 #### Thoughts
 
+• Class 30 was a HUGEEE topic today so I had to take a lot of ANKI notes but what the heck. How does Leon do it? He explained ecapsulation and abstraction in such a BEAUTIFUL and easy way to understand. During MOSH, I had to pause, note, rewind continuously but when Leon went over it, I was able to follow along SO WELL. Things began to click and make sense. Asking "BUT WHY" is something I usually do but I never get a clear definitive answer so I stopped asking that. This is a great reminder to continue to ask because that makes a great engineer and helps my curious mind. I can't wait for inheritance and polymorphism because I feel like I understand it but I know once he goes over it, it's going to digest a lot smoother. Finishing up Intro to JS and then banging out 4 more codewars for the day!<br>
+
 ---
 
 <!-- TEMPLATE
