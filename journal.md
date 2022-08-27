@@ -929,7 +929,7 @@ I think this is a good example:
 • Complete Class 28 homework - [Cocktails API](./class26-materials/objects-shots/index.html)✔️<br>
 • Started and finished Class 28 lecture on Youtube<br>
 • Startup - standup + dev team / notes organization<br>
-• Do 1 problems of [8Kyu Fundamentals Track](https://www.github.com/jasminepvo/codewars)<br>
+• Do 1 problem of [8Kyu Fundamentals Track](https://www.github.com/jasminepvo/codewars)<br>
 
 #### Thoughts
 
@@ -956,10 +956,9 @@ I think this is a good example:
 #### Todays's Progress
 
 • Do 30 Hours of [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript) 90% done<br>
-• PUSH: Add an API to your [portfolio website](https://jasminepvo.dev)<br>
-• Complete your professional link - [portfolio](https://jasminepvo.dev)<br>
-• Complete your professional link - [story blurb](https://jasminepvo.dev)<br>
-• Do x problem of [7Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• PUSH: Add an API to your [portfolio website](https://jasminepvo.dev) ✔️ <br>
+• Complete your professional link - [portfolio](https://jasminepvo.dev) ✔️ <br>
+• Complete your professional link - [story blurb](https://jasminepvo.dev) ✔️ <br>
 • Do 1 problem of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 • Review ANKI<br>
 
@@ -971,57 +970,45 @@ I think this is a good example:
 
 ---
 
-<!-- TEMPLATE
-
-
 ### Day 41: August 26, 2022 - Friday
 
 #### Todays's Progress
 
-• Started and finished Class 30 lecture on Youtube<br>
-• Read The JavaScript Way Ch. 9 - [Understand object-oriented programming](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md)<br>
-• Complete your professional link - [Linkedin](https://linkedin.com/in/jasminepvo)<br>
-• Complete your professional link - [Twitter](https://twitter.com/jasminepvodev)<br>
-• Complete your professional link - [Github](https://github.com/jasminepvo)<br>
-• Complete your professional link - [Resume]()<br>
-• Complete your professional link - [Codewars Repo](https://github.com/jasminepvo/CodeWars)<br>
-• Complete your professional link - [Angellist]()<br>
-• Complete your professional link - [100HoursProject - Description / Wireframe]()<br>
-• Complete your professional link - [Cover letter & Email]()<br>
-• Complete your professional link - [Hitlist]()<br>
-• Complete your professional link - [Headshot]()<br>
-• Started and finished Class 31 lecture on Youtube<br>
-• PUSH: Do Codewars Array Ladder 8kyu, 7kyu, 6kyu, 7kyu, 8kyu<br>
-• Read MDN Web Docs - [How to use promises](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises)<br>
+• Startup standup + worked on the project<br>
 
 #### Thoughts
 
+• Standup ran longer than expected today but I love how passionate everyone is about the project so we all kept throwing out great ideas / solutions. I can't believe it's only been a week but I love it so far. I made changes to the project based on the feedback given and decided to stop there. I've been pushing pretty hard lately so I don't want to burnout and decided it would be okay to take a break for the day. Proud of myself for being able to tell myself to stop and actually stopping. I had troubles with this in the past and it led to burnout. Will be back tomorrow and come back strong! 💪🏼 <br>
 
 ---
-
-
 
 ### Day 42: August 27, 2022 - Saturday
 
 #### Todays's Progress
 
-• Watch and type out all the examples in [The Async Await Episode | Promised](https://www.youtube.com/watch?v=vn3tm0quoqE)<br>
-• Finished Class 34 lecture on Youtube<br>
-• Start prepping [THE BANK](https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c)<br>
-
+• Do 30 Hours of [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript) 100% done<br>
+• Started and finished Class 30 lecture on Youtube<br>
+• Read The JavaScript Way Ch. 9 - [Understand object-oriented programming](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md)<br>
+• Do 6 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Do 1 problem of [7Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 
 #### Thoughts
 
-
 ---
 
+<!-- TEMPLATE
 
 
 ### Day 43: August 28, 2022 - Sunday
 
 #### Todays's Progress
 
-
+• Started and finished Class 31 lecture on Youtube<br>
+• PUSH: Do Codewars Array Ladder 8kyu, 7kyu, 6kyu, 7kyu, 8kyu<br>
+• Read MDN Web Docs - [How to use promises](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises)<br>
+• Watch and type out all the examples in [The Async Await Episode | Promised](https://www.youtube.com/watch?v=vn3tm0quoqE)<br>
+• Finished Class 34 lecture on Youtube<br>
+• Start prepping [THE BANK](https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c)<br>
 
 #### Thoughts
 
@@ -1049,6 +1036,16 @@ I think this is a good example:
 • Started and finished Class 35 lecture on Youtube<br>
 • Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
 • Do ANKI<br>
+• Complete your professional link - [Linkedin](https://linkedin.com/in/jasminepvo ✔️ )<br>
+• Complete your professional link - [Twitter](https://twitter.com/jasminepvodev) ✔️ <br>
+• Complete your professional link - [Github](https://github.com/jasminepvo) ✔️ <br>
+• Complete your professional link - [Resume]() ✔️ <br>
+• Complete your professional link - [Codewars Repo](https://github.com/jasminepvo/CodeWars) ✔️ <br>
+• Complete your professional link - [Angellist]() ✔️ <br>
+• Complete your professional link - [100HoursProject - Description / Wireframe]() ✔️ <br>
+• Complete your professional link - [Cover letter & Email]() ✔️ <br>
+• Complete your professional link - [Hitlist]() ✔️ <br>
+• Complete your professional link - [Headshot]() ✔️ <br>
 
 • Make node-backend-simple-json more readable<br>
 • Make a coin flip game where the randomization happens server side<br>
@@ -1057,14 +1054,14 @@ I think this is a good example:
 • Do ANKI<br>
 
 • Started and finished Class 36 lecture on Youtube<br>
-• Watch [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
-• Watch [Jake Archibald: In The Loop - setTimeout, micro tasks, requestAnimationFrame, requestIdleCallback, …](https://www.youtube.com/watch?v=cCOL7MC4Pl0)<br>
-• [Build a Simple CRUD app with Node, Express, and MongoDB] (https://zellwk.com/blog/crud-express-mongodb/)<br>
+• Watch [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ) ✔️ <br>
+• Watch [Jake Archibald: In The Loop - setTimeout, micro tasks, requestAnimationFrame, requestIdleCallback, …](https://www.youtube.com/watch?v=cCOL7MC4Pl0) ✔️ <br>
+• [Build a Simple CRUD app with Node, Express, and MongoDB] (https://zellwk.com/blog/crud-express-mongodb/) ✔️ <br>
 • Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
 
 • Started and finished Class 37 lecture on Youtube<br>
 • Started and finished Class 38 lecture on Youtube<br>
-• Create [Heroku](), [Mongo Atlas](), [Postman]() Accounts<br>
+• Create [Heroku](), [Mongo Atlas](), [Postman]() Accounts ✔️ <br>
 • Read [Node.js and Express (Fullstack Open)](https://fullstackopen.com/en/part3/node_js_and_express)<br>
 • Make your own API and push to Heroku []()<br>
 • Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
