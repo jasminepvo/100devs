@@ -988,8 +988,7 @@ I think this is a good example:
 
 • Do 30 Hours of [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript) 100% done<br>
 • Started and finished Class 30 lecture on Youtube - OOP<br>
-• Read The JavaScript Way Ch. 9 - [Understand object-oriented programming](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md)<br>
-• Do 6 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 • Do 1 problem of [7Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 • Review ANKI<br>
 
@@ -999,10 +998,21 @@ I think this is a good example:
 
 ---
 
+### Day 43: August 28, 2022 - Sunday
+
+#### Todays's Progress
+
+• Read The JavaScript Way Ch. 9 - [Understand object-oriented programming](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter09.md)<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Review ANKI<br>
+
+#### Thoughts
+
+---
+
 <!-- TEMPLATE
 
-
-### Day 43: August 28, 2022 - Sunday
+### Day : , 2022
 
 #### Todays's Progress
 
@@ -1012,17 +1022,6 @@ I think this is a good example:
 • Watch and type out all the examples in [The Async Await Episode | Promised](https://www.youtube.com/watch?v=vn3tm0quoqE)<br>
 • Finished Class 34 lecture on Youtube<br>
 • Start prepping [THE BANK](https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c)<br>
-
-#### Thoughts
-
-
----
-
-
-### Day : , 2022
-
-#### Todays's Progress
-
 
 
 #### Thoughts
