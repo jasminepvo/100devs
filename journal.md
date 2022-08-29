@@ -994,7 +994,7 @@ I think this is a good example:
 
 #### Thoughts
 
-• Class 30 was a HUGEEE topic today so I had to take a lot of ANKI notes but what the heck. How does Leon do it? He explained ecapsulation and abstraction in such a BEAUTIFUL and easy way to understand. During MOSH, I had to pause, note, rewind continuously but when Leon went over it, I was able to follow along SO WELL. Things began to click and make sense. Asking "BUT WHY" is something I usually do but I never get a clear definitive answer so I stopped asking that. This is a great reminder to continue to ask because that makes a great engineer and helps my curious mind. I can't wait for inheritance and polymorphism because I feel like I understand it but I know once he goes over it, it's going to digest a lot smoother. Finishing up Intro to JS and then banging out 4 more codewars for the day!<br>
+• Class 30 was a HUGEEE topic today so I had to take a lot of ANKI notes but what the heck. How does Leon do it? He explained ecapsulation and abstraction in such a BEAUTIFUL and easy way to understand. During MOSH, I had to pause, note, rewind continuously but when Leon went over it, I was able to follow along SO WELL. Things began to click and make sense. Asking "BUT WHY" is something I usually do but I never get a clear definitive answer so I stopped asking that. This is a great reminder to continue to ask because that makes a great engineer and helps my curious mind. I can't wait for inheritance and polymorphism because I feel like I understand it but I know once he goes over it, it's going to digest a lot smoother. Finishing up Intro to JS which ended up being a good review but I wouldn't recommend for starting out learning. <br>
 
 ---
 
@@ -1008,36 +1008,37 @@ I think this is a good example:
 
 #### Thoughts
 
+• Minimal coding happened today, spent this weekend with friends - making new ones and saying goodbye to another one leaving the country to live in Bali/Thailand for 6 months. I'm so excited for him! <br>
+
 ---
 
-<!-- TEMPLATE
-
-### Day : , 2022
+### Day 44: August 29, 2022 - Monday
 
 #### Todays's Progress
 
 • Started and finished Class 31 lecture on Youtube<br>
+• Do 4 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• TEAM PROJECT - [Tic Tac Toe]() using OOP with @
+• Started and finished Class 32 lecture on Youtube<br>
 • PUSH: Do Codewars Array Ladder 8kyu, 7kyu, 6kyu, 7kyu, 8kyu<br>
-• Read MDN Web Docs - [How to use promises](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises)<br>
-• Watch and type out all the examples in [The Async Await Episode | Promised](https://www.youtube.com/watch?v=vn3tm0quoqE)<br>
-• Finished Class 34 lecture on Youtube<br>
-• Start prepping [THE BANK](https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c)<br>
-
+• Review ANKI<br>
 
 #### Thoughts
 
+• Felt super good with Codewars today that I went for 4. I was solving the first 3 in less than a minute but the last one got me. Took me 18 min but I solved it WITHOUT looking at the solution 😃. Excited for the team project today and implementing new OOP practice. <br>
 
 ---
 
+<!-- TEMPLATE
 
 
+### Day 45: August 30, 2022 - Tuesday
 
+#### Todays's Progress
 
-• Read [Modern JavaScript For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)<br>
-• Watch [Node.js Crash Course](https://youtu.be/fBNz5xF-Kx4)<br>
-• Started and finished Class 35 lecture on Youtube<br>
-• Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
-• Do ANKI<br>
+• Read MDN Web Docs - [How to use promises](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises)<br>
+• Watch and type out all the examples in [The Async Await Episode | Promised](https://www.youtube.com/watch?v=vn3tm0quoqE)<br>
+• Finished Class 34 lecture on Youtube<br>
 • Complete your professional link - [Linkedin](https://linkedin.com/in/jasminepvo ✔️ )<br>
 • Complete your professional link - [Twitter](https://twitter.com/jasminepvodev) ✔️ <br>
 • Complete your professional link - [Github](https://github.com/jasminepvo) ✔️ <br>
@@ -1048,37 +1049,101 @@ I think this is a good example:
 • Complete your professional link - [Cover letter & Email]() ✔️ <br>
 • Complete your professional link - [Hitlist]() ✔️ <br>
 • Complete your professional link - [Headshot]() ✔️ <br>
+• Start prepping [THE BANK](https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c)<br>
+• Do 4 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Review ANKI<br>
+
+#### Thoughts
+
+
+---
+
+
+### Day 46: August 31, 2022 - Wednesday
+
+#### Todays's Progress
+
+• Read [Modern JavaScript For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)<br>
+• Watch [Node.js Crash Course](https://youtu.be/fBNz5xF-Kx4)<br>
+• Started and finished Class 35 lecture on Youtube<br>
+• Do 4 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Review ANKI<br>
+
+#### Thoughts
+
+
+---
+
+
+### Day 47: September 1, 2022 - Thursday
+
+#### Todays's Progress
 
 • Make node-backend-simple-json more readable<br>
 • Make a coin flip game where the randomization happens server side<br>
 • Watch [JavaScript Crash Course](https://youtu.be/1sRJYuaqoiI)<br>
-• Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
-• Do ANKI<br>
+• [Build a Simple CRUD app with Node, Express, and MongoDB] (https://zellwk.com/blog/crud-express-mongodb/) ✔️ <br>
+• Do 4 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Review ANKI<br>
+
+#### Thoughts
+
+
+---
+
+
+### Day 48: September 2, 2022 - Friday
+
+#### Todays's Progress
 
 • Started and finished Class 36 lecture on Youtube<br>
 • Watch [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ) ✔️ <br>
 • Watch [Jake Archibald: In The Loop - setTimeout, micro tasks, requestAnimationFrame, requestIdleCallback, …](https://www.youtube.com/watch?v=cCOL7MC4Pl0) ✔️ <br>
-• [Build a Simple CRUD app with Node, Express, and MongoDB] (https://zellwk.com/blog/crud-express-mongodb/) ✔️ <br>
-• Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
+• Do 4 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Review ANKI<br>
+
+#### Thoughts
+
+
+---
+
+
+### Day 49: September 3, 2022 - Saturday
+
+#### Todays's Progress
+
+
+• Do 4 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Review ANKI<br>
+
+#### Thoughts
+
+
+---
+
+
+
+
+
+
+
+
+
 
 • Started and finished Class 37 lecture on Youtube<br>
 • Started and finished Class 38 lecture on Youtube<br>
 • Create [Heroku](), [Mongo Atlas](), [Postman]() Accounts ✔️ <br>
 • Read [Node.js and Express (Fullstack Open)](https://fullstackopen.com/en/part3/node_js_and_express)<br>
 • Make your own API and push to Heroku []()<br>
-• Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
-• Do ANKI<br>
+
 
 • Started and finished Class 39 lecture on Youtube<br>
-• Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
-• Do ANKI<br>
+
 
 • Started and finished Class 40 lecture on Youtube<br>
-• Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
-• Do ANKI<br>
 
-• Do x problem of [8Kyu Fundamentals Track](https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&xids=played&beta=false&order_by=total_completed%20desc)<br>
-• Do ANKI<br>
+
+
 -->
 
 ```
