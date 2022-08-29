@@ -1,42 +1,59 @@
 /* Box Model Hack */
-* {
-  box-sizing: border-box;
+html {
+	box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+	box-sizing: inherit;
+}
+
+html,
+body {
+	height: 100%;
+}
+
+img,
+video {
+	height: auto;
+	width: 100%;
 }
 
 /* Clear fix hack */
 .clearfix:after {
-  content: ".";
-  display: block;
-  clear: both;
-  visibility: hidden;
-  line-height: 0;
-  height: 0;
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
 }
 
 .clear {
-  clear: both;
+	clear: both;
 }
 
 /******************************************
 /* BASE STYLES
 /*******************************************/
 :root {
-  --font: "Roboto", "Source Sans Pro", "Roboto Condensed", sans-serif;
-  --main-grey: rgb(99, 116, 136);
-  --main-lightgrey: rgb(214, 218, 222);
-  --main-darkgrey: rgb(22, 29, 37);
-  --main-white: rgb(255, 255, 255);
+	--font: "Roboto", "Source Sans Pro", "Roboto Condensed", sans-serif;
+	--main-grey: rgb(99, 116, 136);
+	--main-lightgrey: rgb(214, 218, 222);
+	--main-darkgrey: rgb(22, 29, 37);
+	--main-white: rgb(255, 255, 255);
 }
 
 body {
-  /* border: 2px solid lightblue; */
-  font-family: var(--font);
+	/* border: 2px solid lightblue; */
+	font-family: var(--font);
 }
 a {
-  text-decoration: none;
+	text-decoration: none;
 }
 li {
-  list-style: none;
+	list-style: none;
 }
 /******************************************
 /* LAYOUT
@@ -68,13 +85,13 @@ footer {
 /* On laptop, please keep the normal layout, but everything should be light green */
 /* @media all and (min-width: 820px) {
   * {
-    background-color: lightgreen;
+    
   }
 } */
 
 /* On larger screens, please keep the normal layout, but everything should be light blue */
 /* @media all and (min-width: 1024px) {
   * {
-    background-color: lightblue;
+
   }
 } */
