@@ -14,7 +14,7 @@ class Dog extends Animal {
 		this.breed = breed;
 	}
 	about() {
-		console.log(`${name} is a ${this.breed}`);
+		console.log(`${this.name} is a ${this.breed}`);
 	}
 }
 
