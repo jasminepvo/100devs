@@ -1017,31 +1017,28 @@ I think this is a good example:
 #### Todays's Progress
 
 • Started and finished Class 31 lecture on Youtube<br>
+• TEAM PROJECT - [Tic Tac Toe](https://teamtictactoe.netlify.app/) using OOP with [@minimis](https://github.com/kyle-christian)<br>
 • Do 4 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
-• TEAM PROJECT - [Tic Tac Toe](https://teamtictactoe.netlify.app/) using OOP with @minimis
-• Started and finished Class 32 lecture on Youtube<br>
-• PUSH: Do Codewars Array Ladder 8kyu, 7kyu, 6kyu, 7kyu, 8kyu<br>
 • Review ANKI<br>
 
 #### Thoughts
 
 • Felt super good with Codewars today that I went for 4. I was solving the first 3 in less than a minute but the last one got me. Took me 18 min but I solved it WITHOUT looking at the solution 😃. Excited for the team project today and implementing new OOP practice. <br>
 
-• UMMM HELLO??? Pair programming today was so super freakin fun!!!<br>
+• UMMM HELLO??? Pair programming today was so super freakin fun!!! At first, we were clueless on where to start but then we started to break it down little by little since tic tac toe actually has a lot of logic. It was a pleasure to work with Kyle! <br>
 
 ---
-
-<!-- TEMPLATE
-
 
 ### Day 45: August 30, 2022 - Tuesday
 
 #### Todays's Progress
 
+• Started and finished Class 32 lecture on Youtube<br>
+• PUSH: Do Codewars Array Ladder 8kyu, 7kyu, 6kyu, 7kyu, 8kyu<br>
 • Read MDN Web Docs - [How to use promises](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises)<br>
 • Watch and type out all the examples in [The Async Await Episode | Promised](https://www.youtube.com/watch?v=vn3tm0quoqE)<br>
 • Finished Class 34 lecture on Youtube<br>
-• Complete your professional link - [Linkedin](https://linkedin.com/in/jasminepvo ✔️ )<br>
+• Complete your professional link - [Linkedin](https://linkedin.com/in/jasminepvo) ✔️ <br>
 • Complete your professional link - [Twitter](https://twitter.com/jasminepvodev) ✔️ <br>
 • Complete your professional link - [Github](https://github.com/jasminepvo) ✔️ <br>
 • Complete your professional link - [Resume]() ✔️ <br>
@@ -1057,9 +1054,9 @@ I think this is a good example:
 
 #### Thoughts
 
-
 ---
 
+<!-- TEMPLATE
 
 ### Day 46: August 31, 2022 - Wednesday
 
