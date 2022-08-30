@@ -1018,7 +1018,7 @@ I think this is a good example:
 
 • Started and finished Class 31 lecture on Youtube<br>
 • Do 4 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
-• TEAM PROJECT - [Tic Tac Toe]() using OOP with @
+• TEAM PROJECT - [Tic Tac Toe](https://teamtictactoe.netlify.app/) using OOP with @minimis
 • Started and finished Class 32 lecture on Youtube<br>
 • PUSH: Do Codewars Array Ladder 8kyu, 7kyu, 6kyu, 7kyu, 8kyu<br>
 • Review ANKI<br>
@@ -1026,6 +1026,8 @@ I think this is a good example:
 #### Thoughts
 
 • Felt super good with Codewars today that I went for 4. I was solving the first 3 in less than a minute but the last one got me. Took me 18 min but I solved it WITHOUT looking at the solution 😃. Excited for the team project today and implementing new OOP practice. <br>
+
+• UMMM HELLO??? Pair programming today was so super freakin fun!!!<br>
 
 ---
 
