@@ -1035,20 +1035,11 @@ I think this is a good example:
 
 • Started and finished Class 32 lecture on Youtube<br>
 • PUSH: Do Codewars Array Ladder 8kyu, 7kyu, 6kyu, 7kyu, 8kyu<br>
-• Read MDN Web Docs - [How to use promises](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises)<br>
-• Watch and type out all the examples in [The Async Await Episode | Promised](https://www.youtube.com/watch?v=vn3tm0quoqE)<br>
-• Finished Class 34 lecture on Youtube<br>
 • Complete your professional link - [Linkedin](https://linkedin.com/in/jasminepvo) ✔️ <br>
 • Complete your professional link - [Twitter](https://twitter.com/jasminepvodev) ✔️ <br>
-• Complete your professional link - [Github](https://github.com/jasminepvo) ✔️ <br>
-• Complete your professional link - [Resume]() ✔️ <br>
 • Complete your professional link - [Codewars Repo](https://github.com/jasminepvo/CodeWars) ✔️ <br>
-• Complete your professional link - [Angellist]() ✔️ <br>
-• Complete your professional link - [100HoursProject - Description / Wireframe]() ✔️ <br>
 • Complete your professional link - [Cover letter & Email]() ✔️ <br>
-• Complete your professional link - [Hitlist]() ✔️ <br>
 • Complete your professional link - [Headshot]() ✔️ <br>
-• Start prepping [THE BANK](https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c)<br>
 • Do 4 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 • Review ANKI<br>
 
@@ -1074,23 +1065,28 @@ console.log('Synchronous 4');
 
 ---
 
-<!-- TEMPLATE
-
 ### Day 46: August 31, 2022 - Wednesday
 
 #### Todays's Progress
 
+• Finished Class 34 lecture on Youtube<br>
+• Started and finished Class 35 lecture on Youtube<br>
+• Complete your professional link - [Resume]() ✔️ <br>
+• Complete your professional link - [Github](https://github.com/jasminepvo) ✔️ <br>
+• Complete your professional link - [Angellist]() ✔️ <br>
+• Read MDN Web Docs - [How to use promises](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises)<br>
+• Watch and type out all the examples in [The Async Await Episode | Promised](https://www.youtube.com/watch?v=vn3tm0quoqE)<br>
 • Read [Modern JavaScript For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)<br>
 • Watch [Node.js Crash Course](https://youtu.be/fBNz5xF-Kx4)<br>
-• Started and finished Class 35 lecture on Youtube<br>
+• Start prepping [THE BANK](https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c)<br>
 • Do 4 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 • Review ANKI<br>
 
 #### Thoughts
 
-
 ---
 
+<!-- TEMPLATE
 
 ### Day 47: September 1, 2022 - Thursday
 
@@ -1156,6 +1152,8 @@ console.log('Synchronous 4');
 
 • Started and finished Class 39 lecture on Youtube<br>
 
+• Complete your professional link - [100HoursProject - Description / Wireframe]() ✔️ <br>
+• Complete your professional link - [Hitlist]() ✔️ <br>
 
 • Started and finished Class 40 lecture on Youtube<br>
 
