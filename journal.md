@@ -1054,6 +1054,24 @@ I think this is a good example:
 
 #### Thoughts
 
+• Class 32 was such good review. I loved how he walked through encorporating the code into OOP with encapsulation, abstraction, inheritance and polymorphism.
+
+• The Async Await Episode | Promised
+
+```
+//L1
+console.log('Synchronous 1');
+//L2
+setTimeout(_ => console.log('Timeout 2'), 0);
+//L3
+Promise.resolve().then(_ => console.log('Promise 3'));
+//L4
+console.log('Synchronous 4');
+```
+
+- First line gets logged right away
+- Second line
+
 ---
 
 <!-- TEMPLATE
