@@ -1070,15 +1070,23 @@ console.log('Synchronous 4');
 #### Todays's Progress
 
 • Finished Class 34 lecture on Youtube<br>
-• Started and finished Class 35 lecture on Youtube<br>
-• Complete your professional link - [Resume]() ✔️ <br>
-• Complete your professional link - [Github](https://github.com/jasminepvo) ✔️ <br>
-• Complete your professional link - [Angellist]() ✔️ <br>
-• Read MDN Web Docs - [How to use promises](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises)<br>
-• Watch and type out all the examples in [The Async Await Episode | Promised](https://www.youtube.com/watch?v=vn3tm0quoqE)<br>
-• Read [Modern JavaScript For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)<br>
-• Watch [Node.js Crash Course](https://youtu.be/fBNz5xF-Kx4)<br>
+• Start [Build a Simple CRUD app with Node, Express, and MongoDB] (https://zellwk.com/blog/crud-express-mongodb/) ✔️ <br>
 • Start prepping [THE BANK](https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c)<br>
+• Do 4 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Review ANKI<br>
+
+#### Thoughts
+
+---
+
+### Day 47: September 1, 2022 - Thursday
+
+#### Todays's Progress
+
+• Start BANKI with discord group <br>
+• Women Who Code Atlanta virtual lunch meetup <br>
+• Watch and type out all the examples in [The Async Await Episode | Promised](https://www.youtube.com/watch?v=vn3tm0quoqE)<br>
+• Watch [Node.js Crash Course](https://youtu.be/fBNz5xF-Kx4)<br>
 • Do 4 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 • Review ANKI<br>
 
@@ -1088,30 +1096,18 @@ console.log('Synchronous 4');
 
 <!-- TEMPLATE
 
-### Day 47: September 1, 2022 - Thursday
-
-#### Todays's Progress
-
-• Make node-backend-simple-json more readable<br>
-• Make a coin flip game where the randomization happens server side<br>
-• Watch [JavaScript Crash Course](https://youtu.be/1sRJYuaqoiI)<br>
-• [Build a Simple CRUD app with Node, Express, and MongoDB] (https://zellwk.com/blog/crud-express-mongodb/) ✔️ <br>
-• Do 4 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
-• Review ANKI<br>
-
-#### Thoughts
-
-
----
-
-
 ### Day 48: September 2, 2022 - Friday
 
 #### Todays's Progress
 
-• Started and finished Class 36 lecture on Youtube<br>
-• Watch [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ) ✔️ <br>
-• Watch [Jake Archibald: In The Loop - setTimeout, micro tasks, requestAnimationFrame, requestIdleCallback, …](https://www.youtube.com/watch?v=cCOL7MC4Pl0) ✔️ <br>
+• Started and finished Class 35 lecture on Youtube<br>
+• Read MDN Web Docs - [How to use promises](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises)<br>
+• Read [Modern JavaScript For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)<br>
+• Make node-backend-simple-json more readable<br>
+• Make a coin flip game where the randomization happens server side<br>
+• Watch [JavaScript Crash Course](https://youtu.be/1sRJYuaqoiI)<br>
+• Finish [Build a Simple CRUD app with Node, Express, and MongoDB] (https://zellwk.com/blog/crud-express-mongodb/) ✔️ <br>
+
 • Do 4 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 • Review ANKI<br>
 
@@ -1125,6 +1121,26 @@ console.log('Synchronous 4');
 
 #### Todays's Progress
 
+• React Scrimba
+• Hot Soups Contributors Page <br>
+• Started and finished Class 36 lecture on Youtube<br>
+• Watch [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ) ✔️ <br>
+• Watch [Jake Archibald: In The Loop - setTimeout, micro tasks, requestAnimationFrame, requestIdleCallback, …](https://www.youtube.com/watch?v=cCOL7MC4Pl0) ✔️ <br>
+• Complete your professional link - [Resume]() ✔️ <br>
+• Complete your professional link - [Github](https://github.com/jasminepvo) ✔️ <br>
+• Complete your professional link - [Angellist]() ✔️ <br>
+• Do 4 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Review ANKI<br>
+
+#### Thoughts
+
+
+---
+
+### Day 50: September 4, 2022 - Sunday
+
+#### Todays's Progress
+
 
 • Do 4 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 • Review ANKI<br>
@@ -1134,6 +1150,47 @@ console.log('Synchronous 4');
 
 ---
 
+
+### Day 51: September 5, 2022 - Monday
+
+#### Todays's Progress
+
+
+• Do 4 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Review ANKI<br>
+
+#### Thoughts
+
+
+---
+
+
+### Day 52: September 6, 2022 - Tuesday
+
+#### Todays's Progress
+
+
+• Do 4 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Review ANKI<br>
+
+#### Thoughts
+
+
+---
+
+
+### Day 53: September 7, 2022 - Wednesday
+
+#### Todays's Progress
+
+
+• Do 4 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Review ANKI<br>
+
+#### Thoughts
+
+
+---
 
 
 
