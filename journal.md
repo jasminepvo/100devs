@@ -1211,7 +1211,7 @@ fetchProducts();
 
 - Keep in mind that just like a promise chain, await forces asynchronous operations to be completed in series. This is necessary if the result of the next operation depends on the result of the last one, but if that's not the case then something like Promise.all() will be more performant.
 
-•
+• Wow, the modern Javascript for dinosaurs was amazing. It explained everything that I've been questioning so well. From what npn does, what is node, gives you ideas on the different frameworks and how they work.. seeing how everything evolved since javascript first came out to now with dependencies and just bascially shortcuts to the workflow. SO COOL!
 
 ---
 
