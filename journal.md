@@ -1033,6 +1033,7 @@ I think this is a good example:
 
 #### Todays's Progress
 
+• Startup standup meeting<br>
 • Started and finished Class 32 lecture on Youtube<br>
 • PUSH: Do Codewars Array Ladder 8kyu, 7kyu, 6kyu, 7kyu, 8kyu<br>
 • Complete your professional link - [Linkedin](https://linkedin.com/in/jasminepvo) ✔️ <br>
@@ -1069,9 +1070,11 @@ console.log('Synchronous 4');
 
 #### Todays's Progress
 
+• Coffee chat with Dwya<br>
 • Finished Class 34 lecture on Youtube<br>
 • Start [Build a Simple CRUD app with Node, Express, and MongoDB] (https://zellwk.com/blog/crud-express-mongodb/) ✔️ <br>
 • Start prepping [THE BANK](https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c)<br>
+• Dinner with Girish<br>
 • Do 4 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 • Review ANKI<br>
 
@@ -1087,8 +1090,41 @@ console.log('Synchronous 4');
 • Women Who Code Atlanta virtual lunch meetup <br>
 • Watch and type out all the examples in [The Async Await Episode | Promised](https://www.youtube.com/watch?v=vn3tm0quoqE)<br>
 • Watch [Node.js Crash Course](https://youtu.be/fBNz5xF-Kx4)<br>
-• Do 4 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+
+#### Thoughts
+
+Really impactful day, met an amazing group of women. Finally feel like I've found my place in the world and that is through technology. I've so enjoyed finding friends with the same interest, not afraid to nerd out. Loving my journey so far and feeling incredibly grateful.<br>
+
+---
+
+### Day 48: September 2, 2022 - Friday
+
+#### Todays's Progress
+
+• BANKI with discord group<br>
+• Startup standup meeting<br>
+• Build fitdevs leadership board with Kyle<br>
+• Do 1 problem of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 • Review ANKI<br>
+
+#### Thoughts
+
+• I had such an amazing time learning how to create the fitdevs leadership board with Kyle! I'm so happy that he let me be in the driver seat and was SUCH a patient and awesome teacher. Thinking out loud so I could see how he would walk through the problem, giving me to time/space to take what he was saying and figure it out on my own. Although I've never touched React, Next.js, npm, node, dotenv, mongoDB - I feel like I learned SO FREAKIN MUCH. It wasn't just going through the motions either, I truly feel a little more confident about each one and retained all the knowledge. Also, to see how we connected to the database in MongoDB using the connection string, pulling the data, learning object shorthand syntax, reading documentation to find how to sort the array in ascending/descending order, learning export/require - whatever the framework needs, connecting from client side to server side to showing the visual in React using HTML inside the js?? AHHHH HOW COOL RIGHT. <br>
+
+---
+
+### Day 49: September 3, 2022 - Saturday
+
+#### Todays's Progress
+
+• Finish [Node.js Crash Course](https://youtu.be/fBNz5xF-Kx4)<br>
+• Read MDN Web Docs - [How to use promises](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises)<br>
+• Read [Modern JavaScript For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)<br>
+• Started and finished Class 35 lecture on Youtube<br>
+• Watch [JavaScript Crash Course](https://youtu.be/1sRJYuaqoiI) 2/6hr<br>
+• Start [React Scrimba](https://scrimba.com/learn/learnreact)<br>
+• Solve 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Continue adding [THE BANK](https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c) into ANKI<br>
 
 #### Thoughts
 
@@ -1096,51 +1132,16 @@ console.log('Synchronous 4');
 
 <!-- TEMPLATE
 
-### Day 48: September 2, 2022 - Friday
-
-#### Todays's Progress
-
-• Started and finished Class 35 lecture on Youtube<br>
-• Read MDN Web Docs - [How to use promises](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises)<br>
-• Read [Modern JavaScript For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)<br>
-• Make node-backend-simple-json more readable<br>
-• Make a coin flip game where the randomization happens server side<br>
-• Watch [JavaScript Crash Course](https://youtu.be/1sRJYuaqoiI)<br>
-• Finish [Build a Simple CRUD app with Node, Express, and MongoDB] (https://zellwk.com/blog/crud-express-mongodb/) ✔️ <br>
-
-• Do 4 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
-• Review ANKI<br>
-
-#### Thoughts
-
-
----
-
-
-### Day 49: September 3, 2022 - Saturday
-
-#### Todays's Progress
-
-• React Scrimba
-• Hot Soups Contributors Page <br>
-• Started and finished Class 36 lecture on Youtube<br>
-• Watch [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ) ✔️ <br>
-• Watch [Jake Archibald: In The Loop - setTimeout, micro tasks, requestAnimationFrame, requestIdleCallback, …](https://www.youtube.com/watch?v=cCOL7MC4Pl0) ✔️ <br>
-• Complete your professional link - [Resume]() ✔️ <br>
-• Complete your professional link - [Github](https://github.com/jasminepvo) ✔️ <br>
-• Complete your professional link - [Angellist]() ✔️ <br>
-• Do 4 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
-• Review ANKI<br>
-
-#### Thoughts
-
-
----
-
 ### Day 50: September 4, 2022 - Sunday
 
 #### Todays's Progress
 
+• Start Open Source Project [Hot Soups Contributors Page](https://github.com/HotSoupRepos/WebApp-FrontEnd)<br>
+• Started and finished Class 36 lecture on Youtube<br>
+• Make node-backend-simple-json more readable<br>
+• Make a coin flip game where the randomization happens server side<br>
+• Watch [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ) ✔️ <br>
+• Watch [Jake Archibald: In The Loop - setTimeout, micro tasks, requestAnimationFrame, requestIdleCallback, …](https://www.youtube.com/watch?v=cCOL7MC4Pl0) ✔️ <br>
 
 • Do 4 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 • Review ANKI<br>
@@ -1202,13 +1203,17 @@ console.log('Synchronous 4');
 
 • Started and finished Class 37 lecture on Youtube<br>
 • Started and finished Class 38 lecture on Youtube<br>
+• Finish [Build a Simple CRUD app with Node, Express, and MongoDB] (https://zellwk.com/blog/crud-express-mongodb/) ✔️ <br>
+
 • Create [Heroku](), [Mongo Atlas](), [Postman]() Accounts ✔️ <br>
 • Read [Node.js and Express (Fullstack Open)](https://fullstackopen.com/en/part3/node_js_and_express)<br>
 • Make your own API and push to Heroku []()<br>
 
 
 • Started and finished Class 39 lecture on Youtube<br>
-
+• Complete your professional link - [Resume]() ✔️ <br>
+• Complete your professional link - [Github](https://github.com/jasminepvo) ✔️ <br>
+• Complete your professional link - [Angellist]() ✔️ <br>
 • Complete your professional link - [100HoursProject - Description / Wireframe]() ✔️ <br>
 • Complete your professional link - [Hitlist]() ✔️ <br>
 
