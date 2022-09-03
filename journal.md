@@ -1128,6 +1128,91 @@ Really impactful day, met an amazing group of women. Finally feel like I've foun
 
 #### Thoughts
 
+• Started off the day solving 2 katas, each within 1 min. Brain is feeling sharp today! 😎 Ready to handle whatever is to come today, since these intros to backend have been feeling tough like I'm hitting a wall. I think with the startup off my plate, I feel so much better and ready to catch up again. <br>
+
+• How to use promises
+
+- fetch() API, asynchronous function that starts the operation and returns a Promise object.
+- Promise's .then() method... you will pass a handler function in and when(and if) the fetch operation succeeds, the promise will call the handler
+- chaining promises... DO NOT DO THIS
+
+```
+const fetchPromise = fetch('https://mdn.github.io/learning-area/javascript/apis/fetching-data/can-store/products.json');
+
+fetchPromise.then((response) => {
+  const jsonPromise = response.json();
+  jsonPromise.then((data) => {
+    console.log(data[0].name);
+  });
+});
+```
+
+- do this instead... means we can avoid ever-increasing levels of indentation when we need to make consecutive asynchronous function calls.
+
+```
+const fetchPromise = fetch('https://mdn.github.io/learning-area/javascript/apis/fetching-data/can-store/products.json');
+
+fetchPromise
+  .then((response) => response.json())
+  .then((data) => {
+    console.log(data[0].name);
+  });
+```
+
+- catching errors... we can use a catch() method which works just like a then() method except the handler passed to catch() is called when the asynchronous operation FAILS
+
+```
+.catch((error) => {
+    console.error(`Could not get products: ${error}`);
+  });
+
+OUTPUT: Failed to fetch: TypeError: Failed to fetch
+
+```
+
+- promise terminology
+
+```
+pending: the promise has been created, and the asynchronous function it's associated with has not succeeded or failed yet. This is the state your promise is in when it's returned from a call to fetch(), and the request is still being made.
+fulfilled: the asynchronous function has succeeded. When a promise is fulfilled, its then() handler is called.
+rejected: the asynchronous function has failed. When a promise is rejected, its catch() handler is called.
+```
+
+- Promise.all()
+  fulfilled when and if all the promises in the array are fulfilled. In this case, the then() handler is called with an array of all the responses, in the same order that the promises were passed into all().<br>
+  rejected when and if any of the promises in the array are rejected. In this case, the catch() handler is called with the error thrown by the promise that rejected.<br>
+- Promise.any() works similiar except it will return ANY promise that is fulfilled except you can't predict which fetch request will complete first
+
+• async and await
+
+- Inside an async function, you can use the await keyword before a call to a function that returns a promise. This makes the code wait at that point until the promise is settled, at which point the fulfilled value of the promise is treated as a return value, or the rejected value is thrown.
+
+```
+async function fetchProducts() {
+  try {
+    // after this line, our function will wait for the `fetch()` call to be settled
+    // the `fetch()` call will either return a Response or throw an error
+    const response = await fetch('https://mdn.github.io/learning-area/javascript/apis/fetching-data/can-store/products.json');
+    if (!response.ok) {
+      throw new Error(`HTTP error: ${response.status}`);
+    }
+    // after this line, our function will wait for the `response.json()` call to be settled
+    // the `response.json()` call will either return the parsed JSON object or throw an error
+    const data = await response.json();
+    console.log(data[0].name);
+  }
+  catch (error) {
+    console.error(`Could not get products: ${error}`);
+  }
+}
+
+fetchProducts();
+```
+
+- Keep in mind that just like a promise chain, await forces asynchronous operations to be completed in series. This is necessary if the result of the next operation depends on the result of the last one, but if that's not the case then something like Promise.all() will be more performant.
+
+•
+
 ---
 
 <!-- TEMPLATE
