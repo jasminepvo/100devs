@@ -1227,7 +1227,7 @@ fetchProducts();
 • Make a coin flip game where the randomization happens server side<br>
 • Watch [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ) ✔️ <br>
 • Watch [Jake Archibald: In The Loop - setTimeout, micro tasks, requestAnimationFrame, requestIdleCallback, …](https://www.youtube.com/watch?v=cCOL7MC4Pl0) ✔️ <br>
-
+• Complete AWS SheBuilds program - [Module 1](https://explore.skillbuilder.aws/learn/signin)<br>
 • Do 4 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 • Review ANKI<br>
 
