@@ -1122,9 +1122,8 @@ Really impactful day, met an amazing group of women. Finally feel like I've foun
 • Read [Modern JavaScript For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)<br>
 • Started and finished Class 35 lecture on Youtube<br>
 • Watch [JavaScript Crash Course](https://youtu.be/1sRJYuaqoiI) 2/6hr<br>
-• Start [React Scrimba](https://scrimba.com/learn/learnreact)<br>
+• Complete React site Lesson 1-12 of [React Scrimba](https://scrimba.com/learn/learnreact)<br>
 • Solve 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
-• Continue adding [THE BANK](https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c) into ANKI<br>
 
 #### Thoughts
 
@@ -1213,6 +1212,8 @@ fetchProducts();
 
 • Wow, the modern Javascript for dinosaurs was amazing. It explained everything that I've been questioning so well. From what npn does, what is node, gives you ideas on the different frameworks and how they work.. seeing how everything evolved since javascript first came out to now with dependencies and just bascially shortcuts to the workflow. SO COOL!
 
+• First off, Scrimba is AWESOME platform! Second, React is SO COOL AND FUN. Joining HTML/Javscript together is just.. chefs kiss but also genius level 100000🤯 I'm having so much fun pausing and coding along. I'm getting it super quick too, ugh I love it! I'm glad I took the time to build my strong foundation in HTML/CSS/Javascript though.
+
 ---
 
 <!-- TEMPLATE
@@ -1229,7 +1230,7 @@ fetchProducts();
 • Watch [Jake Archibald: In The Loop - setTimeout, micro tasks, requestAnimationFrame, requestIdleCallback, …](https://www.youtube.com/watch?v=cCOL7MC4Pl0) ✔️ <br>
 • Complete AWS SheBuilds program - [Module 1](https://explore.skillbuilder.aws/learn/signin)<br>
 • Do 4 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
-• Review ANKI<br>
+• Continue adding [THE BANK](https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c) into ANKI<br>
 
 #### Thoughts
 
