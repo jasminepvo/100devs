@@ -1120,8 +1120,6 @@ Really impactful day, met an amazing group of women. Finally feel like I've foun
 • Finish [Node.js Crash Course](https://youtu.be/fBNz5xF-Kx4)<br>
 • Read MDN Web Docs - [How to use promises](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises)<br>
 • Read [Modern JavaScript For Dinosaurs](https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70)<br>
-• Started and finished Class 35 lecture on Youtube<br>
-• Watch [JavaScript Crash Course](https://youtu.be/1sRJYuaqoiI) 2/6hr<br>
 • Complete React site Lesson 1-12 of [React Scrimba](https://scrimba.com/learn/learnreact)<br>
 • Solve 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 
@@ -1216,40 +1214,45 @@ fetchProducts();
 
 ---
 
-<!-- TEMPLATE
-
 ### Day 50: September 4, 2022 - Sunday
 
 #### Todays's Progress
 
-• Start Open Source Project [Hot Soups Contributors Page](https://github.com/HotSoupRepos/WebApp-FrontEnd)<br>
-• Started and finished Class 36 lecture on Youtube<br>
+• Started and finished Class 35 lecture on Youtube<br>
+• Complete your professional link - [Resume]() ✔️ <br>
+• Complete your professional link - [Github](https://github.com/jasminepvo) ✔️ <br>
+• Complete your professional link - [Angellist](https://angel.co/jasminepvo) ✔️ <br>
+• Complete your professional link - [100HoursProject - Description / Wireframe](https://github.com/jasminepvo/100hoursproject) ✔️ <br>
+• Complete your professional link - [Hitlist]() ✔️ <br>
 • Make node-backend-simple-json more readable<br>
-• Make a coin flip game where the randomization happens server side<br>
-• Watch [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ) ✔️ <br>
-• Watch [Jake Archibald: In The Loop - setTimeout, micro tasks, requestAnimationFrame, requestIdleCallback, …](https://www.youtube.com/watch?v=cCOL7MC4Pl0) ✔️ <br>
-• Complete AWS SheBuilds program - [Module 1](https://explore.skillbuilder.aws/learn/signin)<br>
-• Do 4 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Do 1 problem of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 • Continue adding [THE BANK](https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c) into ANKI<br>
 
 #### Thoughts
 
+• Lots happening personally today so I did less coding but finished my professional checklist finally. Loved class 35 connecting front to back so we are technically fullstack engineers now!! So cool, I've been wondering when we'd finally get to this point and I'm mind blown. Also reminded me of C++ so that was cool! <br>
 
 ---
-
 
 ### Day 51: September 5, 2022 - Monday
 
 #### Todays's Progress
 
-
+• Started and finished Class 36 lecture on Youtube<br>
+• Complete React site Lesson 1-12 of [React Scrimba](https://scrimba.com/learn/learnreact)<br>
+• Make a coin flip game where the randomization happens server side<br>
+• Watch [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ) ✔️ <br>
+• Watch [Jake Archibald: In The Loop - setTimeout, micro tasks, requestAnimationFrame, requestIdleCallback, …](https://www.youtube.com/watch?v=cCOL7MC4Pl0) ✔️ <br>
+• Start Open Source Project [Hot Soups Contributors Page](https://github.com/HotSoupRepos/WebApp-FrontEnd)<br>
+• Complete AWS SheBuilds program - [Module 1](https://explore.skillbuilder.aws/learn/signin)<br>
 • Do 4 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 • Review ANKI<br>
 
 #### Thoughts
 
-
 ---
+
+<!-- TEMPLATE
 
 
 ### Day 52: September 6, 2022 - Tuesday
@@ -1286,7 +1289,7 @@ fetchProducts();
 
 
 
-
+• Watch [JavaScript Crash Course](https://youtu.be/1sRJYuaqoiI) 2/6hr<br>
 • Started and finished Class 37 lecture on Youtube<br>
 • Started and finished Class 38 lecture on Youtube<br>
 • Finish [Build a Simple CRUD app with Node, Express, and MongoDB] (https://zellwk.com/blog/crud-express-mongodb/) ✔️ <br>
@@ -1297,11 +1300,6 @@ fetchProducts();
 
 
 • Started and finished Class 39 lecture on Youtube<br>
-• Complete your professional link - [Resume]() ✔️ <br>
-• Complete your professional link - [Github](https://github.com/jasminepvo) ✔️ <br>
-• Complete your professional link - [Angellist]() ✔️ <br>
-• Complete your professional link - [100HoursProject - Description / Wireframe]() ✔️ <br>
-• Complete your professional link - [Hitlist]() ✔️ <br>
 
 • Started and finished Class 40 lecture on Youtube<br>
 
