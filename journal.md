@@ -1238,15 +1238,13 @@ fetchProducts();
 #### Todays's Progress
 
 • Started and finished Class 36 lecture on Youtube<br>
-• Complete React site Lesson 13-31 of [React Scrimba](https://scrimba.com/learn/learnreact)<br>
 • Make node-backend-simple-json more readable<br>
-• Make a coin flip game where the randomization happens server side<br>
 • Watch [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ) ✔️ <br>
 • Watch [Jake Archibald: In The Loop - setTimeout, micro tasks, requestAnimationFrame, requestIdleCallback, …](https://www.youtube.com/watch?v=cCOL7MC4Pl0) ✔️ <br>
-• Start Open Source Project [Hot Soups Contributors Page](https://github.com/HotSoupRepos/WebApp-FrontEnd)<br>
-• Complete AWS SheBuilds program - [Module 1](https://explore.skillbuilder.aws/learn/signin)<br>
-• Do 4 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
-• Review ANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Daily BANKI with discord group<br>
+• Complete React site Lesson 13-31 of [React Scrimba](https://scrimba.com/learn/learnreact)<br>
+• Complete AWS SheBuilds program - [Module 1-2](https://explore.skillbuilder.aws/learn/signin)<br>
 
 #### Thoughts
 
@@ -1259,12 +1257,16 @@ fetchProducts();
 
 #### Todays's Progress
 
+• Daily BANKI<br>
 • Started and finished Class 37 lecture on Youtube<br>
+• Make a coin flip game where the randomization happens server side<br>
+• Start Open Source Project [Hot Soups Contributors Page](https://github.com/HotSoupRepos/WebApp-FrontEnd)<br>
 • Started and finished Class 38 lecture on Youtube<br>
 • Finish [Build a Simple CRUD app with Node, Express, and MongoDB] (https://zellwk.com/blog/crud-express-mongodb/) ✔️ <br>
 • Create [Heroku](), [Mongo Atlas](), [Postman]() Accounts ✔️ <br>
 • Do 4 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
-• Review ANKI<br>
+• Build React AirBnb Experiences Clone Lesson 1-27 of [React Scrimba](https://scrimba.com/learn/learnreact)<br>
+• Complete AWS SheBuilds program - [Module 3-4](https://explore.skillbuilder.aws/learn/signin)<br>
 
 #### Thoughts
 
@@ -1276,10 +1278,12 @@ fetchProducts();
 
 #### Todays's Progress
 
+• Daily BANKI<br>
 • Read [Node.js and Express (Fullstack Open)](https://fullstackopen.com/en/part3/node_js_and_express)<br>
 • Make your own API and push to Heroku []()<br>
 • Do 4 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
-• Review ANKI<br>
+• Build React AirBnb Experiences Clone Lesson 1-27 of [React Scrimba](https://scrimba.com/learn/learnreact)<br>
+• Complete AWS SheBuilds program - [Module 3-4](https://explore.skillbuilder.aws/learn/signin)<br>
 
 #### Thoughts
 
