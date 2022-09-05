@@ -1224,7 +1224,6 @@ fetchProducts();
 • Complete your professional link - [Angellist](https://angel.co/jasminepvo) ✔️ <br>
 • Complete your professional link - [100HoursProject - Description / Wireframe](https://github.com/jasminepvo/100hoursproject) ✔️ <br>
 • Complete your professional link - [Hitlist]() ✔️ <br>
-• Make node-backend-simple-json more readable<br>
 • Do 1 problem of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 • Continue adding [THE BANK](https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c) into ANKI<br>
 
@@ -1239,7 +1238,8 @@ fetchProducts();
 #### Todays's Progress
 
 • Started and finished Class 36 lecture on Youtube<br>
-• Complete React site Lesson 1-12 of [React Scrimba](https://scrimba.com/learn/learnreact)<br>
+• Complete React site Lesson 13-31 of [React Scrimba](https://scrimba.com/learn/learnreact)<br>
+• Make node-backend-simple-json more readable<br>
 • Make a coin flip game where the randomization happens server side<br>
 • Watch [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ) ✔️ <br>
 • Watch [Jake Archibald: In The Loop - setTimeout, micro tasks, requestAnimationFrame, requestIdleCallback, …](https://www.youtube.com/watch?v=cCOL7MC4Pl0) ✔️ <br>
@@ -1259,7 +1259,10 @@ fetchProducts();
 
 #### Todays's Progress
 
-
+• Started and finished Class 37 lecture on Youtube<br>
+• Started and finished Class 38 lecture on Youtube<br>
+• Finish [Build a Simple CRUD app with Node, Express, and MongoDB] (https://zellwk.com/blog/crud-express-mongodb/) ✔️ <br>
+• Create [Heroku](), [Mongo Atlas](), [Postman]() Accounts ✔️ <br>
 • Do 4 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 • Review ANKI<br>
 
@@ -1273,7 +1276,8 @@ fetchProducts();
 
 #### Todays's Progress
 
-
+• Read [Node.js and Express (Fullstack Open)](https://fullstackopen.com/en/part3/node_js_and_express)<br>
+• Make your own API and push to Heroku []()<br>
 • Do 4 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 • Review ANKI<br>
 
@@ -1290,13 +1294,6 @@ fetchProducts();
 
 
 • Watch [JavaScript Crash Course](https://youtu.be/1sRJYuaqoiI) 2/6hr<br>
-• Started and finished Class 37 lecture on Youtube<br>
-• Started and finished Class 38 lecture on Youtube<br>
-• Finish [Build a Simple CRUD app with Node, Express, and MongoDB] (https://zellwk.com/blog/crud-express-mongodb/) ✔️ <br>
-
-• Create [Heroku](), [Mongo Atlas](), [Postman]() Accounts ✔️ <br>
-• Read [Node.js and Express (Fullstack Open)](https://fullstackopen.com/en/part3/node_js_and_express)<br>
-• Make your own API and push to Heroku []()<br>
 
 
 • Started and finished Class 39 lecture on Youtube<br>
