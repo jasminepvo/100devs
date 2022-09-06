@@ -1259,15 +1259,17 @@ fetchProducts();
 • Started and finished Class 37 lecture on Youtube<br>
 • Make a coin flip game where the randomization happens server side<br>
 • Start Open Source Project [Hot Soups Contributors Page](https://github.com/HotSoupRepos/WebApp-FrontEnd)<br>
-• Started and finished Class 38 lecture on Youtube<br>
 • Finish [Build a Simple CRUD app with Node, Express, and MongoDB] (https://zellwk.com/blog/crud-express-mongodb/) ✔️ <br>
-• Create [Heroku](), [Mongo Atlas](), [Postman]() Accounts ✔️ <br>
-• Do 4 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Started and finished Class 38 lecture on Youtube<br>
+• Create [Render](https://render.com), [Mongo Atlas](https://mongodb.com), [Postman](https://postman.com) Accounts ✔️ <br>
+• Do 1 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 • Build React AirBnb Experiences Clone Lesson 1-27 of [React Scrimba](https://scrimba.com/learn/learnreact)<br>
 • Complete AWS SheBuilds program - [Module 1-2](https://explore.skillbuilder.aws/learn/signin)<br>
 • Complete AWS SheBuilds program - [Module 3-4](https://explore.skillbuilder.aws/learn/signin)<br>
 
 #### Thoughts
+
+• Class 37 walked through Node, what an event loop is, stack, queue, callbacks.. good stuff. Added all the BANKI q's to my ANKI so I can review them while I'm on the plane this weekend. Going out of town for a wedding Thursday but I still plan to push Codewars/BANKI daily.
 
 ---
 
