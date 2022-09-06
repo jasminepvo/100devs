@@ -1250,9 +1250,6 @@ fetchProducts();
 
 ---
 
-<!-- TEMPLATE
-
-
 ### Day 52: September 6, 2022 - Tuesday
 
 #### Todays's Progress
@@ -1272,9 +1269,9 @@ fetchProducts();
 
 #### Thoughts
 
-
 ---
 
+<!-- TEMPLATE
 
 ### Day 53: September 7, 2022 - Wednesday
 
