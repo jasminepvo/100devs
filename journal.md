@@ -1240,13 +1240,13 @@ fetchProducts();
 • Started and finished Class 36 lecture on Youtube<br>
 • Make node-backend-simple-json more readable<br>
 • Watch [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ) ✔️ <br>
-• Watch [Jake Archibald: In The Loop - setTimeout, micro tasks, requestAnimationFrame, requestIdleCallback, …](https://www.youtube.com/watch?v=cCOL7MC4Pl0) ✔️ <br>
-• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Do 1 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 • Daily BANKI with discord group<br>
-• Complete React site Lesson 13-31 of [React Scrimba](https://scrimba.com/learn/learnreact)<br>
-• Complete AWS SheBuilds program - [Module 1-2](https://explore.skillbuilder.aws/learn/signin)<br>
+• Complete React site Lesson 13-28 of [React Scrimba](https://scrimba.com/learn/learnreact)<br>
 
 #### Thoughts
+
+• I need to get the syntax down for split(), map(), forEach, filter(), reduce(), join() etc. I understand them but forget when I do Codewars. React was fun as usual! I can't wait to do the digital business card tomorrow!
 
 ---
 
@@ -1258,6 +1258,7 @@ fetchProducts();
 #### Todays's Progress
 
 • Daily BANKI<br>
+• Watch [Jake Archibald: In The Loop - setTimeout, micro tasks, requestAnimationFrame, requestIdleCallback, …](https://www.youtube.com/watch?v=cCOL7MC4Pl0) ✔️ <br>
 • Started and finished Class 37 lecture on Youtube<br>
 • Make a coin flip game where the randomization happens server side<br>
 • Start Open Source Project [Hot Soups Contributors Page](https://github.com/HotSoupRepos/WebApp-FrontEnd)<br>
@@ -1266,6 +1267,7 @@ fetchProducts();
 • Create [Heroku](), [Mongo Atlas](), [Postman]() Accounts ✔️ <br>
 • Do 4 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 • Build React AirBnb Experiences Clone Lesson 1-27 of [React Scrimba](https://scrimba.com/learn/learnreact)<br>
+• Complete AWS SheBuilds program - [Module 1-2](https://explore.skillbuilder.aws/learn/signin)<br>
 • Complete AWS SheBuilds program - [Module 3-4](https://explore.skillbuilder.aws/learn/signin)<br>
 
 #### Thoughts
