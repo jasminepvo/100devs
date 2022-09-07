@@ -1277,12 +1277,10 @@ fetchProducts();
 • Daily BANKI<br>
 • Read [Node.js and Express (Fullstack Open)](https://fullstackopen.com/en/part3/node_js_and_express)<br>
 • Make your own API and push to Heroku []()<br>
-• Do 4 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
-• Build React AirBnb Experiences Clone Lesson 1-27 of [React Scrimba](https://scrimba.com/learn/learnreact)<br>
-• Complete AWS SheBuilds program - [Module 1-2](https://explore.skillbuilder.aws/learn/signin)<br>
-• Complete AWS SheBuilds program - [Module 3-4](https://explore.skillbuilder.aws/learn/signin)<br>
+• Do 1 problem of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 • Started and finished Class 38 lecture on Youtube<br>
 • Start Open Source Project [Hot Soups Contributors Page](https://github.com/HotSoupRepos/WebApp-FrontEnd)<br>
+• Hot Soups Website Team Meeting @7PM<br>
 
 #### Thoughts
 
@@ -1299,6 +1297,7 @@ fetchProducts();
 • Complete AWS SheBuilds program - [Module 1-2](https://explore.skillbuilder.aws/learn/signin)<br>
 • Started and finished Class 38 lecture on Youtube<br>
 • Start Open Source Project [Hot Soups Contributors Page](https://github.com/HotSoupRepos/WebApp-FrontEnd)<br>
+• Build React AirBnb Experiences Clone Lesson 1-27 of [React Scrimba](https://scrimba.com/learn/learnreact)<br>
 
 #### Thoughts
 
@@ -1417,7 +1416,8 @@ fetchProducts();
 • Started and finished Class 44/45 lecture on Youtube<br>
 • Started and finished Class 46/47 lecture on Youtube<br>
 
-
+• Complete AWS SheBuilds program - [Module 1-2](https://explore.skillbuilder.aws/learn/signin)<br>
+• Complete AWS SheBuilds program - [Module 3-4](https://explore.skillbuilder.aws/learn/signin)<br>
 
 
 
