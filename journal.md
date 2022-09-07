@@ -1260,7 +1260,7 @@ fetchProducts();
 • Make a coin flip game where the randomization happens server side<br>
 • Finish [Build a Simple CRUD app with Node, Express, and MongoDB] (https://zellwk.com/blog/crud-express-mongodb/) ✔️ <br>
 • Create [Render](https://render.com), [Mongo Atlas](https://mongodb.com), [Postman](https://postman.com) Accounts ✔️ <br>
-• Do 1 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 
 #### Thoughts
 
