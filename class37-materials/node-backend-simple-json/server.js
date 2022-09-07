@@ -50,17 +50,20 @@ const server = http.createServer((req, res) => {
 			} //student != leon
 		} //student if
 	} //else if
+	//load styling
 	else if (page == "/css/style.css") {
 		fs.readFile("css/style.css", function (err, data) {
 			res.write(data);
 			res.end();
 		});
+		//load javascript
 	} else if (page == "/js/main.js") {
 		fs.readFile("js/main.js", function (err, data) {
 			res.writeHead(200, { "Content-Type": "text/javascript" });
 			res.write(data);
 			res.end();
 		});
+		// makes 404 look nice
 	} else {
 		figlet("404!!", function (err, data) {
 			if (err) {
@@ -73,5 +76,5 @@ const server = http.createServer((req, res) => {
 		});
 	}
 });
-
+//page
 server.listen(8000);

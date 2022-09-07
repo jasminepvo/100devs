@@ -1270,8 +1270,6 @@ fetchProducts();
 
 ---
 
-<!-- TEMPLATE
-
 ### Day 53: September 7, 2022 - Wednesday
 
 #### Todays's Progress
@@ -1281,12 +1279,126 @@ fetchProducts();
 • Make your own API and push to Heroku []()<br>
 • Do 4 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 • Build React AirBnb Experiences Clone Lesson 1-27 of [React Scrimba](https://scrimba.com/learn/learnreact)<br>
-• Complete AWS SheBuilds program - [Module 3-4](https://explore.skillbuilder.aws/learn/signin)<br>
-• Build React AirBnb Experiences Clone Lesson 1-27 of [React Scrimba](https://scrimba.com/learn/learnreact)<br>
 • Complete AWS SheBuilds program - [Module 1-2](https://explore.skillbuilder.aws/learn/signin)<br>
 • Complete AWS SheBuilds program - [Module 3-4](https://explore.skillbuilder.aws/learn/signin)<br>
 • Started and finished Class 38 lecture on Youtube<br>
 • Start Open Source Project [Hot Soups Contributors Page](https://github.com/HotSoupRepos/WebApp-FrontEnd)<br>
+
+#### Thoughts
+
+---
+
+<!-- TEMPLATE
+
+### Day 54: September 8, 2022 - Thursday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Complete AWS SheBuilds program - [Module 1-2](https://explore.skillbuilder.aws/learn/signin)<br>
+• Started and finished Class 38 lecture on Youtube<br>
+• Start Open Source Project [Hot Soups Contributors Page](https://github.com/HotSoupRepos/WebApp-FrontEnd)<br>
+
+#### Thoughts
+
+
+---
+
+
+### Day 55: September 9, 2022 - Friday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Complete AWS SheBuilds program - [Module 1-2](https://explore.skillbuilder.aws/learn/signin)<br>
+
+#### Thoughts
+
+
+---
+
+
+### Day 56: September 10, 2022 - Saturday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Complete AWS SheBuilds program - [Module 1-2](https://explore.skillbuilder.aws/learn/signin)<br>
+
+#### Thoughts
+
+
+---
+
+
+### Day 57: September 11, 2022 - Sunday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Complete AWS SheBuilds program - [Module 1-2](https://explore.skillbuilder.aws/learn/signin)<br>
+
+#### Thoughts
+
+
+---
+
+
+### Day 58: September 12, 2022 - Monday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Complete AWS SheBuilds program - [Module 1-2](https://explore.skillbuilder.aws/learn/signin)<br>
+
+#### Thoughts
+
+
+---
+
+
+### Day 59: September 13, 2022 - Tuesday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Complete AWS SheBuilds program - [Module 1-2](https://explore.skillbuilder.aws/learn/signin)<br>
+• Started and finished Class 39 lecture on Youtube<br>
+
+#### Thoughts
+
+
+---
+
+
+### Day 60: September 14, 2022 - Wednesday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Complete AWS SheBuilds program - [Module 1-2](https://explore.skillbuilder.aws/learn/signin)<br>
+• Started and finished Class 40 lecture on Youtube<br>
+
+
+#### Thoughts
+
+
+---
+
+
+### Day 53: September 7, 2022 - Wednesday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 
 #### Thoughts
 
@@ -1297,20 +1409,16 @@ fetchProducts();
 
 
 
-
-
-
 • Watch [JavaScript Crash Course](https://youtu.be/1sRJYuaqoiI) 2/6hr<br>
 
+• Started and finished Class 41 lecture on Youtube<br>
+• Started and finished Class 42 lecture on Youtube<br>
+• Started and finished Class 43 lecture on Youtube<br>
+• Started and finished Class 44/45 lecture on Youtube<br>
+• Started and finished Class 46/47 lecture on Youtube<br>
 
-• Started and finished Class 39 lecture on Youtube<br>
 
-• Started and finished Class 40 lecture on Youtube<br>
 
 
 
 -->
-
-```
-
-```
