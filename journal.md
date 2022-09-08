@@ -1275,35 +1275,35 @@ fetchProducts();
 #### Todays's Progress
 
 • Daily BANKI<br>
-• Read [Node.js and Express (Fullstack Open)](https://fullstackopen.com/en/part3/node_js_and_express)<br>
-• Make your own API and push to Heroku []()<br>
 • Do 1 problem of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
-• Started and finished Class 38 lecture on Youtube<br>
-• Start Open Source Project [Hot Soups Contributors Page](https://github.com/HotSoupRepos/WebApp-FrontEnd)<br>
+• Started Class 38 lecture on Youtube<br>
 • Hot Soups Website Team Meeting @7PM<br>
+• Complete React Solo Project - Digital Business Card <br>
 
 #### Thoughts
 
----
+• Days with meetings always feel so long. The React project was so fun though. I learned a lot about creating components, importing/exporting. Also ran into an issue with the image not loading on deploy but working when I run it locally. I fixed this by importing the image filename at the top of the file and then setting src to {img}. <br>
 
-<!-- TEMPLATE
+---
 
 ### Day 54: September 8, 2022 - Thursday
 
 #### Todays's Progress
 
 • Daily BANKI<br>
-• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Solve 1 problem of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Refact 10 problems of previous [Codewars](https://github.com/jasminepvo/codewars) solutions<br>
 • Complete AWS SheBuilds program - [Module 1-2](https://explore.skillbuilder.aws/learn/signin)<br>
-• Started and finished Class 38 lecture on Youtube<br>
 • Start Open Source Project [Hot Soups Contributors Page](https://github.com/HotSoupRepos/WebApp-FrontEnd)<br>
-• Build React AirBnb Experiences Clone Lesson 1-27 of [React Scrimba](https://scrimba.com/learn/learnreact)<br>
+• Add styling to fitdevs leaderboard<br>
 
 #### Thoughts
 
+• Flying to San Jose today so I tried to prep my laptop so I can still work without wifi. Will try to get as much done as possible before we land! Excited <br>
 
 ---
 
+<!-- TEMPLATE
 
 ### Day 55: September 9, 2022 - Friday
 
@@ -1340,6 +1340,7 @@ fetchProducts();
 • Daily BANKI<br>
 • Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 • Complete AWS SheBuilds program - [Module 1-2](https://explore.skillbuilder.aws/learn/signin)<br>
+• Started and finished Class 38 lecture on Youtube<br>
 
 #### Thoughts
 
@@ -1354,6 +1355,8 @@ fetchProducts();
 • Daily BANKI<br>
 • Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 • Complete AWS SheBuilds program - [Module 1-2](https://explore.skillbuilder.aws/learn/signin)<br>
+• Read [Node.js and Express (Fullstack Open)](https://fullstackopen.com/en/part3/node_js_and_express)<br>
+• Make your own API and push to Heroku []()<br>
 
 #### Thoughts
 
@@ -1369,6 +1372,7 @@ fetchProducts();
 • Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 • Complete AWS SheBuilds program - [Module 1-2](https://explore.skillbuilder.aws/learn/signin)<br>
 • Started and finished Class 39 lecture on Youtube<br>
+• Build React AirBnb Experiences Clone Lesson 1-27 of [React Scrimba](https://scrimba.com/learn/learnreact)<br>
 
 #### Thoughts
 
