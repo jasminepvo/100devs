@@ -1303,8 +1303,6 @@ fetchProducts();
 
 ---
 
-<!-- TEMPLATE
-
 ### Day 55: September 9, 2022 - Friday
 
 #### Todays's Progress
@@ -1315,8 +1313,9 @@ fetchProducts();
 
 #### Thoughts
 
-
 ---
+
+<!-- TEMPLATE
 
 
 ### Day 56: September 10, 2022 - Saturday
