@@ -1292,14 +1292,15 @@ fetchProducts();
 
 • Daily BANKI<br>
 • Solve 1 problem of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
-• Refact 10 problems of previous [Codewars](https://github.com/jasminepvo/codewars) solutions<br>
-• Complete AWS SheBuilds program - [Module 1-2](https://explore.skillbuilder.aws/learn/signin)<br>
+• Refact 1 problem of previous [Codewars](https://github.com/jasminepvo/codewars) solutions<br>
 • Start Open Source Project [Hot Soups Contributors Page](https://github.com/HotSoupRepos/WebApp-FrontEnd)<br>
 • Add styling to fitdevs leaderboard<br>
 
 #### Thoughts
 
-• Flying to San Jose today so I tried to prep my laptop so I can still work without wifi. Will try to get as much done as possible before we land! Excited <br>
+• Flying to San Jose today so I tried to prep my laptop so I can still work without wifi. Will try to get as much done as possible before we land! Excited. <br>
+
+• Ended up completing the contributors page and submitting the pull request for that. Also worked on 5 behavioral questions and completed a description for my 100Hours Project! Got a lot done for the plane ride having so much turbulence. <br>
 
 ---
 
@@ -1308,15 +1309,13 @@ fetchProducts();
 #### Todays's Progress
 
 • Daily BANKI<br>
-• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
-• Complete AWS SheBuilds program - [Module 1-2](https://explore.skillbuilder.aws/learn/signin)<br>
+• Do 1 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 
 #### Thoughts
 
+• Made sure to push some code before the wedding. <br>
+
 ---
-
-<!-- TEMPLATE
-
 
 ### Day 56: September 10, 2022 - Saturday
 
@@ -1324,27 +1323,25 @@ fetchProducts();
 
 • Daily BANKI<br>
 • Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
-• Complete AWS SheBuilds program - [Module 1-2](https://explore.skillbuilder.aws/learn/signin)<br>
 
 #### Thoughts
 
+• I lost my Github streak :( sad day... I'll build it back again though.
 
 ---
-
 
 ### Day 57: September 11, 2022 - Sunday
 
 #### Todays's Progress
 
 • Daily BANKI<br>
-• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
-• Complete AWS SheBuilds program - [Module 1-2](https://explore.skillbuilder.aws/learn/signin)<br>
-• Started and finished Class 38 lecture on Youtube<br>
+• Do 1 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 
 #### Thoughts
 
-
 ---
+
+<!-- TEMPLATE
 
 
 ### Day 58: September 12, 2022 - Monday
@@ -1356,6 +1353,8 @@ fetchProducts();
 • Complete AWS SheBuilds program - [Module 1-2](https://explore.skillbuilder.aws/learn/signin)<br>
 • Read [Node.js and Express (Fullstack Open)](https://fullstackopen.com/en/part3/node_js_and_express)<br>
 • Make your own API and push to Heroku []()<br>
+• Finished Class 38 lecture on Youtube<br>
+
 
 #### Thoughts
 
