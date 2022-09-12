@@ -1292,7 +1292,7 @@ fetchProducts();
 
 • Daily BANKI<br>
 • Solve 1 problem of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
-• Refact 1 problem of previous [Codewars](https://github.com/jasminepvo/codewars) solutions<br>
+• Refactor 1 problem of previous [Codewars](https://github.com/jasminepvo/codewars) solutions<br>
 • Start Open Source Project [Hot Soups Contributors Page](https://github.com/HotSoupRepos/WebApp-FrontEnd)<br>
 • Add styling to fitdevs leaderboard<br>
 
@@ -1322,11 +1322,10 @@ fetchProducts();
 #### Todays's Progress
 
 • Daily BANKI<br>
-• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 
 #### Thoughts
 
-• I lost my Github streak :( sad day... I'll build it back again though.
+• I lost my Github streak of 33 days :( sad day... I'll build it back again though.
 
 ---
 
@@ -1334,15 +1333,13 @@ fetchProducts();
 
 #### Todays's Progress
 
-• Daily BANKI<br>
 • Do 1 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 
 #### Thoughts
 
+• Didn't have much time to code but solved a Codewars before heading out. <br>
+
 ---
-
-<!-- TEMPLATE
-
 
 ### Day 58: September 12, 2022 - Monday
 
@@ -1350,17 +1347,16 @@ fetchProducts();
 
 • Daily BANKI<br>
 • Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
-• Complete AWS SheBuilds program - [Module 1-2](https://explore.skillbuilder.aws/learn/signin)<br>
 • Read [Node.js and Express (Fullstack Open)](https://fullstackopen.com/en/part3/node_js_and_express)<br>
-• Make your own API and push to Heroku []()<br>
 • Finished Class 38 lecture on Youtube<br>
-
 
 #### Thoughts
 
+• Flying back today with a 2 hour layover so I'll try to finish class 38 VOD while I have wifi.
 
 ---
 
+<!-- TEMPLATE
 
 ### Day 59: September 13, 2022 - Tuesday
 
@@ -1369,32 +1365,53 @@ fetchProducts();
 • Daily BANKI<br>
 • Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 • Complete AWS SheBuilds program - [Module 1-2](https://explore.skillbuilder.aws/learn/signin)<br>
+• Make your own API and push to Heroku []()<br>
 • Started and finished Class 39 lecture on Youtube<br>
-• Build React AirBnb Experiences Clone Lesson 1-27 of [React Scrimba](https://scrimba.com/learn/learnreact)<br>
+• Started and finished Class 40 lecture on Youtube<br>
+• Started and finished Class 41 lecture on Youtube<br>
+
 
 #### Thoughts
 
+•
 
 ---
-
 
 ### Day 60: September 14, 2022 - Wednesday
 
 #### Todays's Progress
 
 • Daily BANKI<br>
+• Started and finished Class 42 lecture on Youtube<br>
+• Started and finished Class 43 lecture on Youtube<br>
 • Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 • Complete AWS SheBuilds program - [Module 1-2](https://explore.skillbuilder.aws/learn/signin)<br>
-• Started and finished Class 40 lecture on Youtube<br>
 
 
 #### Thoughts
 
+•
 
 ---
 
+### Day 61: September 15, 2022 - Thursday
 
-### Day 53: September 7, 2022 - Wednesday
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Started and finished Class 44/45 lecture on Youtube<br>
+• Started and finished Class 46/47 lecture on Youtube<br>
+• Build React AirBnb Experiences Clone Lesson 1-27 of [React Scrimba](https://scrimba.com/learn/learnreact)<br>
+
+
+#### Thoughts
+
+•
+
+---
+
+### Day 62: September 16, 2022 - Friday
 
 #### Todays's Progress
 
@@ -1403,24 +1420,148 @@ fetchProducts();
 
 #### Thoughts
 
+• Today is Peter's birthday
 
 ---
 
 
 
+### Day 63: September 17, 2022 - Saturday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+
+#### Thoughts
+
+•
+
+---
 
 
-• Watch [JavaScript Crash Course](https://youtu.be/1sRJYuaqoiI) 2/6hr<br>
 
-• Started and finished Class 41 lecture on Youtube<br>
-• Started and finished Class 42 lecture on Youtube<br>
-• Started and finished Class 43 lecture on Youtube<br>
-• Started and finished Class 44/45 lecture on Youtube<br>
-• Started and finished Class 46/47 lecture on Youtube<br>
+### Day 64: September 18, 2022 - Sunday
 
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 • Complete AWS SheBuilds program - [Module 1-2](https://explore.skillbuilder.aws/learn/signin)<br>
+
+
+#### Thoughts
+
+•
+
+---
+
+
+
+### Day 65: September 19, 2022 - Monday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 • Complete AWS SheBuilds program - [Module 3-4](https://explore.skillbuilder.aws/learn/signin)<br>
 
+
+#### Thoughts
+
+•
+
+---
+
+
+
+### Day 66: September 20, 2022 - Tuesday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+
+#### Thoughts
+
+•
+
+---
+
+
+
+### Day 67: September 21, 2022 - Wednesday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+
+#### Thoughts
+
+•
+
+---
+
+
+
+### Day 68: September 22, 2022 - Thursday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+
+#### Thoughts
+
+•
+
+---
+
+
+
+### Day 69: September 23, 2022 - Friday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+
+#### Thoughts
+
+•
+
+---
+
+
+
+### Day 70: September 24, 2022 - Saturday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+
+#### Thoughts
+
+•
+
+---
+
+### Day 71: September 25, 2022 - Sunday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+
+#### Thoughts
+
+•
+
+---
+
+• Watch [JavaScript Crash Course](https://youtu.be/1sRJYuaqoiI) 2/6hr<br>
 
 
 -->
