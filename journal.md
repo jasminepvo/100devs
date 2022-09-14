@@ -1346,9 +1346,6 @@ fetchProducts();
 #### Todays's Progress
 
 • Daily BANKI<br>
-• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
-• Read [Node.js and Express (Fullstack Open)](https://fullstackopen.com/en/part3/node_js_and_express)<br>
-• Finished Class 38 lecture on Youtube<br>
 
 #### Thoughts
 
@@ -1356,32 +1353,34 @@ fetchProducts();
 
 ---
 
-<!-- TEMPLATE
-
 ### Day 59: September 13, 2022 - Tuesday
 
 #### Todays's Progress
 
 • Daily BANKI<br>
 • Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
-• Complete AWS SheBuilds program - [Module 1-2](https://explore.skillbuilder.aws/learn/signin)<br>
-• Make your own API and push to Heroku []()<br>
-• Started and finished Class 39 lecture on Youtube<br>
-• Started and finished Class 40 lecture on Youtube<br>
-• Started and finished Class 41 lecture on Youtube<br>
-
+• Read [Node.js and Express (Fullstack Open)](https://fullstackopen.com/en/part3/node_js_and_express)<br>
+• Finished Class 38 lecture on Youtube<br>
+• Started on fullstack project with 100devs members<br>
 
 #### Thoughts
 
-•
+• Was great coming back and listening to the MVC lecture and realizing I knew everything that was talked about. Awesome start to the project using Github issues + project... basically the project manager which I really enjoyed.
 
 ---
+
+<!-- TEMPLATE
 
 ### Day 60: September 14, 2022 - Wednesday
 
 #### Todays's Progress
 
 • Daily BANKI<br>
+• Complete AWS SheBuilds program - [Module 1-2](https://explore.skillbuilder.aws/learn/signin)<br>
+• Make your own API and push to Heroku []()<br>
+• Started and finished Class 39 lecture on Youtube<br>
+• Started and finished Class 40 lecture on Youtube<br>
+• Started and finished Class 41 lecture on Youtube<br>
 • Started and finished Class 42 lecture on Youtube<br>
 • Started and finished Class 43 lecture on Youtube<br>
 • Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
