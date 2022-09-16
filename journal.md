@@ -1294,7 +1294,6 @@ fetchProducts();
 • Solve 1 problem of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 • Refactor 1 problem of previous [Codewars](https://github.com/jasminepvo/codewars) solutions<br>
 • Start Open Source Project [Hot Soups Contributors Page](https://github.com/HotSoupRepos/WebApp-FrontEnd)<br>
-• Add styling to fitdevs leaderboard<br>
 
 #### Thoughts
 
@@ -1369,29 +1368,20 @@ fetchProducts();
 
 ---
 
-<!-- TEMPLATE
-
 ### Day 60: September 14, 2022 - Wednesday
 
 #### Todays's Progress
 
-• Daily BANKI<br>
-• Complete AWS SheBuilds program - [Module 1-2](https://explore.skillbuilder.aws/learn/signin)<br>
-• Make your own API and push to Heroku []()<br>
-• Started and finished Class 39 lecture on Youtube<br>
-• Started and finished Class 40 lecture on Youtube<br>
-• Started and finished Class 41 lecture on Youtube<br>
-• Started and finished Class 42 lecture on Youtube<br>
-• Started and finished Class 43 lecture on Youtube<br>
-• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
-• Complete AWS SheBuilds program - [Module 1-2](https://explore.skillbuilder.aws/learn/signin)<br>
-
+• Refactr.tech all day in person conference - [ML Ops Image Classifier with React/Python Flask workshop](https://github.com/flippedcoder/refactr.tech-ml-workshop)<br>
+• Add styling to fitdevs leaderboard, submit [PR](https://github.com/FitDevs-withKat/Fitness-Accountability/pull/196<br>
+• Do 1 problem of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 
 #### Thoughts
 
-•
+• Tech conference workshop was amazing! I learned so much in terms of machine learning/debugging. Same with the leaderboard. Submit another PR to open source 😎
 
 ---
+
 
 ### Day 61: September 15, 2022 - Thursday
 
@@ -1399,10 +1389,6 @@ fetchProducts();
 
 • Daily BANKI<br>
 • Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
-• Started and finished Class 44/45 lecture on Youtube<br>
-• Started and finished Class 46/47 lecture on Youtube<br>
-• Build React AirBnb Experiences Clone Lesson 1-27 of [React Scrimba](https://scrimba.com/learn/learnreact)<br>
-
 
 #### Thoughts
 
@@ -1423,6 +1409,7 @@ fetchProducts();
 
 ---
 
+<!-- TEMPLATE
 
 
 ### Day 63: September 17, 2022 - Saturday
@@ -1431,6 +1418,19 @@ fetchProducts();
 
 • Daily BANKI<br>
 • Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Daily BANKI<br>
+• Complete AWS SheBuilds program - [Module 1-2](https://explore.skillbuilder.aws/learn/signin)<br>
+• Make your own API and push to Heroku []()<br>
+• Started and finished Class 39 lecture on Youtube<br>
+• Started and finished Class 40 lecture on Youtube<br>
+• Started and finished Class 41 lecture on Youtube<br>
+• Started and finished Class 42 lecture on Youtube<br>
+• Started and finished Class 43 lecture on Youtube<br>
+• Complete AWS SheBuilds program - [Module 1-2](https://explore.skillbuilder.aws/learn/signin)<br>
+• Started and finished Class 44/45 lecture on Youtube<br>
+• Started and finished Class 46/47 lecture on Youtube<br>
+• Build React AirBnb Experiences Clone Lesson 1-27 of [React Scrimba](https://scrimba.com/learn/learnreact)<br>
+
 
 #### Thoughts
 
