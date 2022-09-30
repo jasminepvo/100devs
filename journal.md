@@ -1324,7 +1324,7 @@ fetchProducts();
 
 #### Thoughts
 
-• I lost my Github streak of 33 days :( sad day... I'll build it back again though.
+• Had beef fondue with entire family then celebrated cousins birthday at night. <br
 
 ---
 
@@ -1372,27 +1372,33 @@ fetchProducts();
 
 #### Todays's Progress
 
-• Refactr.tech all day in person conference - [ML Ops Image Classifier with React/Python Flask workshop](https://github.com/flippedcoder/refactr.tech-ml-workshop)<br>
+• Refactr.tech workshop from 8AM-4PM - [ML Ops Image Classifier with React/Python Flask workshop](https://github.com/flippedcoder/refactr.tech-ml-workshop)<br>
 • Add styling to fitdevs leaderboard, submit [PR](https://github.com/FitDevs-withKat/Fitness-Accountability/pull/196<br>
 • Do 1 problem of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 
 #### Thoughts
 
-• Tech conference workshop was amazing! I learned so much in terms of machine learning/debugging. Same with the leaderboard. Submit another PR to open source 😎
+• Tech conference workshop was amazing! I learned so much in terms of machine learning/debugging. We were able to build a full functioning app that classified images using machine learning. Lots of Python + libraries, Cloudinary, React, Node. 
+  
+• The leaderboard styling also encountered a lot of debugging and working with Next.js/Vercel specific server side bugs and Twitter embedded tweets issues. BIG WIN THO - Submit another PR to open source 😎
 
 ---
-
 
 ### Day 61: September 15, 2022 - Thursday
 
 #### Todays's Progress
 
-• Daily BANKI<br>
-• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Refactr.tech all day in person conference from 8AM-6:30PM <br>
+• Do 1 problem of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 
 #### Thoughts
 
-•
+• I had an amazing time at my first tech conference. Started off with a bang from Angie Jones (VP, Developer Relations at Block) on Web5 then followed by 
+  - ELI5 (Explain to me like I’m Five) Tech Terms Decoded -Shaundai Person
+  - Building With Geo - Travis McPhail
+  - Wordle was canceled but I got a chance to talk to the recruiters/hiring managers at the booths
+  - Also made a new, good friend and listened to diveristy talk
+  - Board games and drinks to end the day
 
 ---
 
@@ -1400,124 +1406,125 @@ fetchProducts();
 
 #### Todays's Progress
 
-• Daily BANKI<br>
-• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Refactr.tech all day in person conference from 8AM-6:30PM <br>
+• Do 1 problem of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 
 #### Thoughts
 
-• Today is Peter's birthday
-
+• Last day started with Valarie Regas (Developer Advocate, StarTree) on Rebuilding together. She is a bootcamp grad so her story was inspirational and eye-opening
+  - Using ionic to turn web apps into mobile apps
+  - Open Source instead of Outsource Your Data -@Brandontroberts from opensaucedpizza.com
+  - Debugging -@CeceilaMartinez from Ionic
+  - ended with The Future is Equitable by Mekka Okereke (Google Engineering Director). LOVED him and how much he emphasized equitable over equality. He basically built up the Atlanta office bringing more diversity in. Made me want to work with him with how great he was
+  
+ • Today was Peter's birthday so I came home to be with him instead of attending the VR afterparty!
+  
 ---
-
-<!-- TEMPLATE
-
 
 ### Day 63: September 17, 2022 - Saturday
 
 #### Todays's Progress
 
+• Do 1 problem of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 • Daily BANKI<br>
-• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
-• Daily BANKI<br>
-• Complete AWS SheBuilds program - [Module 1-2](https://explore.skillbuilder.aws/learn/signin)<br>
-• Make your own API and push to Heroku []()<br>
-• Started and finished Class 39 lecture on Youtube<br>
-• Started and finished Class 40 lecture on Youtube<br>
-• Started and finished Class 41 lecture on Youtube<br>
-• Started and finished Class 42 lecture on Youtube<br>
-• Started and finished Class 43 lecture on Youtube<br>
-• Complete AWS SheBuilds program - [Module 1-2](https://explore.skillbuilder.aws/learn/signin)<br>
-• Started and finished Class 44/45 lecture on Youtube<br>
-• Started and finished Class 46/47 lecture on Youtube<br>
-• Build React AirBnb Experiences Clone Lesson 1-27 of [React Scrimba](https://scrimba.com/learn/learnreact)<br>
-
 
 #### Thoughts
 
-•
+• Spent the day celebrating Peter's birthday with ayce sushi for lunch and ayce hotpot for dinner with friends. <br>
 
 ---
-
-
 
 ### Day 64: September 18, 2022 - Sunday
 
 #### Todays's Progress
 
 • Daily BANKI<br>
-• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
-• Complete AWS SheBuilds program - [Module 1-2](https://explore.skillbuilder.aws/learn/signin)<br>
+• Do 1 problem of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Started and finished Class 39 lecture on Youtube<br>
 
 
 #### Thoughts
 
-•
+• Brunch to send off a friend out of state for peak, gym, then recovering from all the social activity.
 
 ---
-
-
 
 ### Day 65: September 19, 2022 - Monday
 
 #### Todays's Progress
 
 • Daily BANKI<br>
-• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
-• Complete AWS SheBuilds program - [Module 3-4](https://explore.skillbuilder.aws/learn/signin)<br>
+• Do 1 problem of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Started and finished Class 40 lecture on Youtube<br>
+• Continue 100devs team project of a fullstack app - [Studyboard](https://studyboard.kyle-christian.repl.co/)<br>
 
 
 #### Thoughts
 
-•
+• Recovering from all the social activity. Watched some lecture and worked on the team project for some light work to stay consistent but definitely feeling a little burnt out. Also, the bug I encountered was from not setting my environment variables correctly due to the documentation in the README.md of the project so I DEFINTELY made sure to fix that. <br>
+Incorrect way:
+```
+  PORT: 8000
+  DB_STRING: <link>
+```
+Correct way:
+```
+  PORT= 8000
+  DB_STRING= <link>
+```
 
 ---
-
-
 
 ### Day 66: September 20, 2022 - Tuesday
 
 #### Todays's Progress
 
 • Daily BANKI<br>
-• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Do 1 problem of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Started and finished Class 41 lecture on Youtube<br>
+• Started and finished Class 42 lecture on Youtube<br>
+• Redo Resume with help from [Jonaed | NoDegreeDotCom](https://twitter.com/NoDegreeDotCom)<br>
 
 #### Thoughts
 
-•
+• So awesome getting my resume reviewed, really happy with it now knowing it'll pass ATS. Also proud of how much I've accomplished since starting 100devs that I am now able to display on my resume making me look pretty impressive 🤯 <br>
 
 ---
-
-
 
 ### Day 67: September 21, 2022 - Wednesday
 
 #### Todays's Progress
 
 • Daily BANKI<br>
-• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Do 1 problem of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Started and finished Class 43 lecture on Twitch<br>
+• Build CRUD fullstack app - [PollPlease](https://github.com/jasminepvo/PollPlease)<br>
 
 #### Thoughts
 
-•
+• This app took longer than I expected and of course the scope of the project was more complex than initial thoughts.
 
 ---
-
-
 
 ### Day 68: September 22, 2022 - Thursday
 
 #### Todays's Progress
 
 • Daily BANKI<br>
-• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Do 1 problem of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Finish building and deploying [AngelHope](https://github.com/jasminepvo/angelhope) <br>
 
 #### Thoughts
 
-•
+• AngelHope is finally done and I'm happy with it! Revamped everything to not contain sensitive information and added the Spreadsheet API with Zira. Other than Zira finishing it up with responsiveness, my work is done!
+  - added partner features section
+  - added animations and box/text shadows
+  - added favicon
+  - created logo
+  - updated color palette
+  - redo form on partner with us section
 
 ---
-
-
 
 ### Day 69: September 23, 2022 - Friday
 
@@ -1525,14 +1532,13 @@ fetchProducts();
 
 • Daily BANKI<br>
 • Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Build React AirBnb Experiences Clone Lesson 1-27 of [React Scrimba](https://scrimba.com/learn/learnreact)<br>
 
 #### Thoughts
 
-•
+• LOVED learning about props and creating reusable data components. I feel like this is a game changer. Also looking at all websites differently now.
 
 ---
-
-
 
 ### Day 70: September 24, 2022 - Saturday
 
@@ -1540,10 +1546,11 @@ fetchProducts();
 
 • Daily BANKI<br>
 • Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Build React Travel Journal Solo Project of [React Scrimba](https://scrimba.com/learn/learnreact)<br>
 
 #### Thoughts
 
-•
+• This project was super fun to build and I did it pretty quickly too! The thing that takes me the longest is design - searching for images/colors/layout 😜
 
 ---
 
@@ -1553,14 +1560,149 @@ fetchProducts();
 
 • Daily BANKI<br>
 • Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Finish 100devs team project of a fullstack app - [Studyboard](https://studyboard.kyle-christian.repl.co/)<br>
+• Update [Github profile](https://github.com/jasminepvo/jasminepvo) with banner, icons & projects<br>
 
 #### Thoughts
 
-•
+• OUR APP IS NOW LIVE AND IT LOOKS AMAZING! Our team really did a wonderful job. I can't wait to start using it!
+• Also extremely happy with how my Github profile looks now. Spent a lot of time customizing it to feel like me. Will definitely add in projects once I finish my 100hrs project!
+
+---
+  
+### Day 72: September 26, 2022 - Monday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+
+#### Thoughts
+
+• 
+  
+---
+  
+### Day 73: September 27, 2022 - Tuesday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Start 100Hours Project [Chiro CMS](https://github.com/jasminepvo/chirocms/commits/main)<br>
+
+#### Thoughts
+
+• 100Hours Project - design (TOTAL: 5hrs)
+  - build logo
+  - start designing the wireframe
+  - build dark mode
+
+---
+  
+### Day 74: September 28, 2022 - Wednesday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Continue 100Hours Project [Chiro CMS](https://github.com/jasminepvo/chirocms/commits/main)<br>
+• Hot Soup Website Team Meeting @6PM<br>
+
+#### Thoughts
+
+• 100Hours Project - design (2hrs)
+  - redo footer
+  - finanilize the wireframe with client
+  
+• 100Hours Project - code React components (TOTAL: 6hrs)
+  - Navbar (1.5hr)
+  - Hero (.5hr)
+  - Services (3hr)
+  
+  - Researching content/finding logos + responsiveness (2hrs)
+  
+• Hot Soup Website has been redesigned so new tasks were assigned. Really excited to work on this!
+
+---
+  
+### Day 75: September 29, 2022 - Thursday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Continue 100Hours Project [Chiro CMS](https://github.com/jasminepvo/chirocms/commits/main)<br>
+
+#### Thoughts
+
+• 100Hours Project - code React components (TOTAL: 8hrs)
+  - About (1hr)
+  - What To Expect (1hr)
+  - Testimonials (1hr)
+  - Add video to hero (1hr)
+  
+  - Researching content/finding logos + responsiveness (4hrs)
+  
+---
+  
+### Day 76: September 30, 2022 - Friday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Continue 100Hours Project [Chiro CMS](https://github.com/jasminepvo/chirocms/commits/main)<br>
+• Continue [Hitlist](https://docs.google.com/spreadsheets/d/16u0-J9z6iDONqTo-tASSerYzphYdq9YOtibaREJlnSg/edit#gid=392317579)<br>
+
+#### Thoughts
+
+• 100Hours Project - code React components (TOTAL: hrs)
+  - Testimonials (3hr)
+  - Deals (10min)
+  - Footer ()
+  
+  - Researching content/finding logos + responsiveness (hrs)
+
+---
+  
+### Day 77: October 1, 2022 - Saturday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Continue 100Hours Project [Chiro CMS](https://github.com/jasminepvo/chirocms/commits/main)<br>
+• Finish [Hitlist](https://docs.google.com/spreadsheets/d/16u0-J9z6iDONqTo-tASSerYzphYdq9YOtibaREJlnSg/edit#gid=392317579)<br>
+
+#### Thoughts
+
+• 100Hours Project - coding the site (TOTAL: hrs)
+
+---
+  
+<!-- TEMPLATE
+
+### Day 78: October 2, 2022 - Sunday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Continue 100Hours Project [Chiro CMS](https://github.com/jasminepvo/chirocms/commits/main)<br>
+
+#### Thoughts
+
+• 100Hours Project - code (TOTAL: hrs)
 
 ---
 
+  
 • Watch [JavaScript Crash Course](https://youtu.be/1sRJYuaqoiI) 2/6hr<br>
-
+• Complete AWS SheBuilds program - [Module 1-2](https://explore.skillbuilder.aws/learn/signin)<br>
+• Make your own API and push to Heroku []()<br>
+• Complete AWS SheBuilds program - [Module 3-4](https://explore.skillbuilder.aws/learn/signin)<br>
+• Started and finished Class 44/45 lecture on Youtube<br>
+• Started and finished Class 46/47 lecture on Youtube<br>
 
 -->
