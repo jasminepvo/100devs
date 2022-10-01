@@ -1657,15 +1657,19 @@ Correct way:
 
 #### Thoughts
 
-• 100Hours Project - code React components (TOTAL: hrs)
-  - Testimonials (3hr)
+• 100Hours Project - code React components (TOTAL: 6hrs)
+  - Testimonials (2hr)
   - Deals (10min)
-  - Footer ()
+  - Footer (1hr)
   
-  - Researching content/finding logos + responsiveness (hrs)
+  - Researching content/finding logos + responsiveness (2hrs)
+  
+• Added about x companies 
 
 ---
-  
+ 
+  <!-- TEMPLATE
+
 ### Day 77: October 1, 2022 - Saturday
 
 #### Todays's Progress
@@ -1681,7 +1685,6 @@ Correct way:
 
 ---
   
-<!-- TEMPLATE
 
 ### Day 78: October 2, 2022 - Sunday
 
