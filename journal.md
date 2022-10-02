@@ -1676,8 +1676,6 @@ Correct way:
 
 ---
  
-  <!-- TEMPLATE
-
 ### Day 77: October 1, 2022 - Saturday
 
 #### Todays's Progress
@@ -1707,7 +1705,8 @@ Correct way:
 
 ---
 
-  
+    <!-- TEMPLATE
+
 • Watch [JavaScript Crash Course](https://youtu.be/1sRJYuaqoiI) 2/6hr<br>
 • Complete AWS SheBuilds program - [Module 1-2](https://explore.skillbuilder.aws/learn/signin)<br>
 • Make your own API and push to Heroku []()<br>
