@@ -1579,7 +1579,7 @@ Correct way:
 
 #### Thoughts
 
-• 
+• Spent a little more time touching up all my social links and projects today. Really proud of how far I've come.
   
 ---
   
@@ -1597,6 +1597,8 @@ Correct way:
   - build logo
   - start designing the wireframe
   - build dark mode
+  
+  * TOTAL HOURS: 5 *
 
 ---
   
@@ -1622,6 +1624,8 @@ Correct way:
   
   - Researching content/finding logos + responsiveness (2hrs)
   
+  * TOTAL HOURS: 14 *
+  
 • Hot Soup Website has been redesigned so new tasks were assigned. Really excited to work on this!
 
 ---
@@ -1644,6 +1648,8 @@ Correct way:
   
   - Researching content/finding logos + responsiveness (4hrs)
   
+  * TOTAL HOURS: 22 *
+  
 ---
   
 ### Day 76: September 30, 2022 - Friday
@@ -1664,7 +1670,9 @@ Correct way:
   
   - Researching content/finding logos + responsiveness (2hrs)
   
-• Added about x companies 
+  * TOTAL HOURS: 28 *
+  
+• Added about 3 more companies 
 
 ---
  
@@ -1676,15 +1684,13 @@ Correct way:
 
 • Daily BANKI<br>
 • Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
-• Continue 100Hours Project [Chiro CMS](https://github.com/jasminepvo/chirocms/commits/main)<br>
-• Finish [Hitlist](https://docs.google.com/spreadsheets/d/16u0-J9z6iDONqTo-tASSerYzphYdq9YOtibaREJlnSg/edit#gid=392317579)<br>
+• Continue [Hitlist](https://docs.google.com/spreadsheets/d/16u0-J9z6iDONqTo-tASSerYzphYdq9YOtibaREJlnSg/edit#gid=392317579)<br>
 
 #### Thoughts
 
-• 100Hours Project - coding the site (TOTAL: hrs)
+• Added about 5 more companies 
 
 ---
-  
 
 ### Day 78: October 2, 2022 - Sunday
 
@@ -1692,11 +1698,12 @@ Correct way:
 
 • Daily BANKI<br>
 • Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
-• Continue 100Hours Project [Chiro CMS](https://github.com/jasminepvo/chirocms/commits/main)<br>
+• Coffee Chat @11AM with JP Morgan Software Engineer<br>
+• Coffee Chat @1PM with another engineer<br>
 
 #### Thoughts
 
-• 100Hours Project - code (TOTAL: hrs)
+• Added about 20 more companies. Decided that I'm going to start reviewing data structures and alogirithms and applying for jobs now due to the coffee chats I had. Everyone keeps telling me I'm ready and my resume looks great, I just need to believe in myself. That's the hardest part of it all with not completing my degree, it has definitely stopped me from believing in myself when I feel confident I'd succeed at the job. I know my work ethic, ability to collaborate with others and skills I have acquired make me more than qualified as a candidate. Any company would be lucky to have me because of how hard I will work for them. I just need to believe in myself and I'm starting to after those chats.
 
 ---
 
