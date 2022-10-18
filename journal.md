@@ -1704,11 +1704,310 @@ Correct way:
 • Added about 20 more companies. Decided that I'm going to start reviewing data structures and alogirithms and applying for jobs now due to the coffee chats I had. Everyone keeps telling me I'm ready and my resume looks great, I just need to believe in myself. That's the hardest part of it all with not completing my degree, it has definitely stopped me from believing in myself when I feel confident I'd succeed at the job. I know my work ethic, ability to collaborate with others and skills I have acquired make me more than qualified as a candidate. Any company would be lucky to have me because of how hard I will work for them. I just need to believe in myself and I'm starting to after those chats.
 
 ---
+  
+### Day 79: October 3, 2022 - Monday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+
+#### Thoughts
+
+• Reached out to recruiters today to schedule calls. 2 planned for Friday, 3 on Monday. Polishing up my resume/portfolio/linkedin. Also listened to the fairyjobmother on 100devs stage. Perfect for preparing for the successful hunt!
+
+---
+  
+### Day 80: October 4, 2022 - Tuesday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+
+#### Thoughts
+
+• Feeling the stress, trying to work on meditation and reading to help with that but it's been difficult. Luckily a friend reached out offering to help me get 3 referrals from Microsoft, Amazon, VMWare and Okta so I'm getting everything sent over for that.
+
+---
+  
+### Day 81: October 5, 2022 - Wednesday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Informational Call with Mikail @7PM<br>
+
+#### Thoughts
+
+• Reached out to Mikail about the Park n Fly role. I decided not to go forward with it due to the pay not matching what I need. Great to know that I would be considered for the position though. Finished applying to the referred companies.
+
+---
+  
+### Day 82: October 6, 2022 - Thursday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Career Fair 11AM-2PM<br>
+• Punchlist @4:15PM<br>
+
+#### Thoughts
+
+• The career fair wasn't geared towards tech roles, more so servers/manual labor/healthcare etc. I made a good connection with the BOA rep, Tamika who said she could connect me with someone if I found a job posting on their site that I was interested in. Unfortunately, most of the roles are Java based which isn't something I'm fond of. I know I could do it but I really want to be passionate about my job so it doesn't feel like work. Also encountered some incidents downtown that were very uncomfortable, came home and get a rejection email from VMWare which felt like an auto rejection so I felt discouraged and went on LinkedIn to start click applying. As I was scrolling through my newsfeed, I saw a recruiter post about a job so I decided to shoot my shot. He suprisingly responded immediately and I scheduled for time later that day. Although I was having the worst day and SO tired, that call went AMAZING! I feel really hopeful with it being a real estate + tech company and the connection I made with the recruiter. I just need to update my portfolio :)                                                                           
+
+---
+  
+### Day 83: October 7, 2022 - Friday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• FanDuel @11:30AM<br>
+• Amazon @12PM<br>
+  
+#### Thoughts
+
+• Both calls went amazing. I would love to work at either companies. Fanduel suprised me with how many women are in leadership roles - I'm so excited for the hiring event. Amazon also suprised me with the internal support systems for women and Asians. Updated my portfolio with recent projects but I really want to rebuild it from scratch... Will see.
+
+---
+  
+### Day 84: October 8, 2022 - Saturday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+
+#### Thoughts
+
+• Started SecretSalary to make salary transparency more accessible. Really excited about this project as we see people gettings jobs and hope it can help with negotiating those higher salarys they deserve.
+• Have the wedding for Hoang + Michelle today.
+
+---
+  
+### Day 85: October 9, 2022 - Sunday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+
+#### Thoughts
+
+• Continued SecretSalary
+• Have the wedding for Tiffany + Diego today.
+
+---
+  
+### Day 86: October 10, 2022 - Monday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Motion Recruitment @10AM<br>
+
+#### Thoughts
+
+• Felt extremely sick today and had to reschedule the rest of my calls for today. Got through one though and she passed my resume to PlaySports which would be hybrid in Atlanta.
+
+---
+  
+### Day 87: October 11, 2022 - Tuesday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• RoomsToGo @11AM<br>
+
+#### Thoughts
+
+• Call went great! He said I would be a perfect fit for the senior frontend engineer role. Hybrid, 2 days remote with office being on 400. 90-110K
+
+---
+  
+### Day 88: October 12, 2022 - Wednesday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+
+#### Thoughts
+
+• Did 2 whiteboard problems on binarysearch, this was great experience walking through PREP. Parameters, Return, Example, Pseudocode
+
+---
+
+### Day 89: October 13, 2022 - Thursday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+
+#### Thoughts
+
+• Did 1 more whiteboard problems on binarysearch, this was great experience walking through PREP. Parameters, Return, Example, Pseudocode
+
+---
+
+### Day 90: October 14, 2022 - Friday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• 48in48 Global Conference<br>
+
+#### Thoughts
+
+• Off to a great start with 5 of us being in person, we got to meet and start brainstorming for our non-profit. Ate SUCH good food and explored Cox which was so cool.
+
+---
+
+### Day 91: October 15, 2022 - Saturday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• 48in48 Global Conference<br>
+
+#### Thoughts
+
+• Was there early for breakfast and ran into a Cox employee who gave us a tour of the gym. I can't believe they have 3!!! Makes me want to work there also with how highly he talked about Cox. As far as the 'whatever' team, we got to meet with The Lewis Connection non-profit leader Rasheyda who was so excited and loved what we had so far!
+
+---
+
+### Day 92: October 16, 2022 - Sunday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• 48in48 Global Conference<br>
+
+#### Thoughts
+
+• We did it. We are all tired by the end of it but proud of what we've accomplished and how much everyone put in. Here's our site: http://thelewisconnection.s1.48in48.org/
+• Also helped the QA team.. this was a whole new experience for me but it was great to dive deeper into accessibility and testing!
+
+---
+
+### Day 93: October 17, 2022 - Monday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+
+#### Thoughts
+
+• Applied to 8 more jobs today, love having huntr.co to track everything. 
+
+---
+
+### Day 94: October 18, 2022 - Tuesday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Complete AWS SheBuilds program - [Module 1-2](https://explore.skillbuilder.aws/learn/signin)<br>
+
+#### Thoughts
+
+• Finally updating my journal, NEED to update daily. I realize how off balance I feel when I don't I feel lost or like I didn't do much. I've actually been doing a LOT and somehow my social battery is still alive. 
+
+---
 
 <!-- TEMPLATE
 
+### Day 95: October 19, 2022 - Wednesday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+
+#### Thoughts
+
+• 
+
+---
+
+### Day 96: October 20, 2022 - Thursday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+
+#### Thoughts
+
+• 
+
+---
+
+### Day 97: October 21, 2022 - Friday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+
+#### Thoughts
+
+• 
+
+---
+
+### Day 98: October 22, 2022 - Saturday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+
+#### Thoughts
+
+• 
+
+---
+
+### Day 99: October 23, 2022 - Sunday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+
+#### Thoughts
+
+• 
+
+---
+
+### Day 100: October 24, 2022 - Monday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+
+#### Thoughts
+
+• 
+
+---
+
 • Watch [JavaScript Crash Course](https://youtu.be/1sRJYuaqoiI) 2/6hr<br>
-• Complete AWS SheBuilds program - [Module 1-2](https://explore.skillbuilder.aws/learn/signin)<br>
 • Make your own API and push to Heroku []()<br>
 • Complete AWS SheBuilds program - [Module 3-4](https://explore.skillbuilder.aws/learn/signin)<br>
 • Started and finished Class 44/45 lecture on Youtube<br>
