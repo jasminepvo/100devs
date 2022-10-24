@@ -1927,18 +1927,17 @@ Correct way:
 
 ---
 
-<!-- TEMPLATE
-
 ### Day 95: October 19, 2022 - Wednesday
 
 #### Todays's Progress
 
 • Daily BANKI<br>
 • Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Goodtime call @10AM <br>
 
 #### Thoughts
 
-• 
+• Call went really well! All these calls though have been burning me out so fast so I really just want to get my hands on some code. SO I have decided to build a new portfolio! I watched a ton of videos / looked at many websites for inspiration. By a ton, I really mean a ton like I spent all day. Took me awhile to decide on a design but I finally drew up a rough sketch on my notepad of what I want it to look like. I'm so picky but I know it'll look amazing and I'll be in love with it forever. Can't wait to get started!
 
 ---
 
@@ -1951,7 +1950,7 @@ Correct way:
 
 #### Thoughts
 
-• 
+• Starting a brand new portfolio! Pretty excited about this. This will be the last portfolio I make (probably not true but hopefully) so I'm spending some extra time on this... also because I needed to code for fun again since job searching is stressful. Decided to have my portfolio have a backend connected to Sanity! S/o to traversy media for free usage. I figured I should so I can easily upload new work / change material using this headless cms and not have to break any code/styling in the future. Also wanted to play around with using a headless cms so I can have firsthand experience if I wanted to build one myself. Got the project setup with vite and will be using Tailwind so I can get more practice with it. So far I have a very ugly navbar 😂 BUT I designed myself a very nice looking logo hehe.
 
 ---
 
@@ -1964,7 +1963,7 @@ Correct way:
 
 #### Thoughts
 
-• 
+• Worked on my portfolio - WE GOT THE NAVBAR WORKING AND LOOKING AMAZING. Very proud of it and it's freakin responsive with the hamburger menu. Was an absolute joy learning this bit, using framer motion for the beautiful animations and useState to click to open and click to close... SO COOL. I love React. The video I'm following along as a guide is using Sass so it's been a challenge converting to Tailwind and making sure it all still works but I have zero regrets using Tailwind. 
 
 ---
 
@@ -1977,7 +1976,7 @@ Correct way:
 
 #### Thoughts
 
-• 
+• Worked on my portfolio - GORGEOUS header component and about section!!! So proud of myself. Header used lots of framer motion so I learned about variant, transition, whileInView. First time using this stuff so I'm stoked at how nice and clean it looks. Also learned how to create an object of all your images so you can call an array of the images to pass in and map to display. SOOOO COOOL!!! The about section was my first time connecting to Sanity to pass all that data in from the headless cms. First off, I didn't realize I have to use the same terminal that I installed Sanity on for it to work.. or maybe not but I haven't figured out how to do it otherwise. Also make sure the correct localhost is set up on Sanity. First time using useEffect to grab the data from Sanity and pass in to my component with it all styled the same. This stuff is again, SO COOL. 
 
 ---
 
@@ -1990,9 +1989,10 @@ Correct way:
 
 #### Thoughts
 
-• 
+• Worked on my portfolio - FINALLY figured out the HOC so that when I scroll the page, it knows what section I'm on. Also figured out App Wrapper! So now my pages are wrapped with social media icons and the navigation dots so they always appear no matter what page I'm on. Also connected sanity client to my works component so I can add my works on sanity and have it automatically upload :) Still need to work on styling but I should be done with my brand new portfolio by tomorrow - DAY 100 WOOOHHOOOOO!!!
 
 ---
+<!-- TEMPLATE
 
 ### Day 100: October 24, 2022 - Monday
 
