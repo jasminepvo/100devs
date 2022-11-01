@@ -1378,8 +1378,8 @@ fetchProducts();
 
 #### Thoughts
 
-• Tech conference workshop was amazing! I learned so much in terms of machine learning/debugging. We were able to build a full functioning app that classified images using machine learning. Lots of Python + libraries, Cloudinary, React, Node. 
-  
+• Tech conference workshop was amazing! I learned so much in terms of machine learning/debugging. We were able to build a full functioning app that classified images using machine learning. Lots of Python + libraries, Cloudinary, React, Node.
+
 • The leaderboard styling also encountered a lot of debugging and working with Next.js/Vercel specific server side bugs and Twitter embedded tweets issues. BIG WIN THO - Submit another PR to open source 😎
 
 ---
@@ -1393,12 +1393,13 @@ fetchProducts();
 
 #### Thoughts
 
-• I had an amazing time at my first tech conference. Started off with a bang from Angie Jones (VP, Developer Relations at Block) on Web5 then followed by 
-  - ELI5 (Explain to me like I’m Five) Tech Terms Decoded -Shaundai Person
-  - Building With Geo - Travis McPhail
-  - Wordle was canceled but I got a chance to talk to the recruiters/hiring managers at the booths
-  - Also made a new, good friend and listened to diveristy talk
-  - Board games and drinks to end the day
+• I had an amazing time at my first tech conference. Started off with a bang from Angie Jones (VP, Developer Relations at Block) on Web5 then followed by
+
+- ELI5 (Explain to me like I’m Five) Tech Terms Decoded -Shaundai Person
+- Building With Geo - Travis McPhail
+- Wordle was canceled but I got a chance to talk to the recruiters/hiring managers at the booths
+- Also made a new, good friend and listened to diveristy talk
+- Board games and drinks to end the day
 
 ---
 
@@ -1412,13 +1413,14 @@ fetchProducts();
 #### Thoughts
 
 • Last day started with Valarie Regas (Developer Advocate, StarTree) on Rebuilding together. She is a bootcamp grad so her story was inspirational and eye-opening
-  - Using ionic to turn web apps into mobile apps
-  - Open Source instead of Outsource Your Data -@Brandontroberts from opensaucedpizza.com
-  - Debugging -@CeceilaMartinez from Ionic
-  - ended with The Future is Equitable by Mekka Okereke (Google Engineering Director). LOVED him and how much he emphasized equitable over equality. He basically built up the Atlanta office bringing more diversity in. Made me want to work with him with how great he was
-  
- • Today was Peter's birthday so I came home to be with him instead of attending the VR afterparty!
-  
+
+- Using ionic to turn web apps into mobile apps
+- Open Source instead of Outsource Your Data -@Brandontroberts from opensaucedpizza.com
+- Debugging -@CeceilaMartinez from Ionic
+- ended with The Future is Equitable by Mekka Okereke (Google Engineering Director). LOVED him and how much he emphasized equitable over equality. He basically built up the Atlanta office bringing more diversity in. Made me want to work with him with how great he was
+
+• Today was Peter's birthday so I came home to be with him instead of attending the VR afterparty!
+
 ---
 
 ### Day 63: September 17, 2022 - Saturday
@@ -1442,7 +1444,6 @@ fetchProducts();
 • Do 1 problem of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 • Started and finished Class 39 lecture on Youtube<br>
 
-
 #### Thoughts
 
 • Brunch to send off a friend out of state for peak, gym, then recovering from all the social activity.
@@ -1458,16 +1459,18 @@ fetchProducts();
 • Started and finished Class 40 lecture on Youtube<br>
 • Continue 100devs team project of a fullstack app - [Studyboard](https://studyboard.kyle-christian.repl.co/)<br>
 
-
 #### Thoughts
 
 • Recovering from all the social activity. Watched some lecture and worked on the team project for some light work to stay consistent but definitely feeling a little burnt out. Also, the bug I encountered was from not setting my environment variables correctly due to the documentation in the README.md of the project so I DEFINTELY made sure to fix that. <br>
 Incorrect way:
+
 ```
   PORT: 8000
   DB_STRING: <link>
 ```
+
 Correct way:
+
 ```
   PORT= 8000
   DB_STRING= <link>
@@ -1517,12 +1520,13 @@ Correct way:
 #### Thoughts
 
 • AngelHope is finally done and I'm happy with it! Revamped everything to not contain sensitive information and added the Spreadsheet API with Zira. Other than Zira finishing it up with responsiveness, my work is done!
-  - added partner features section
-  - added animations and box/text shadows
-  - added favicon
-  - created logo
-  - updated color palette
-  - redo form on partner with us section
+
+- added partner features section
+- added animations and box/text shadows
+- added favicon
+- created logo
+- updated color palette
+- redo form on partner with us section
 
 ---
 
@@ -1569,7 +1573,7 @@ Correct way:
 • Also extremely happy with how my Github profile looks now. Spent a lot of time customizing it to feel like me. Will definitely add in projects once I finish my 100hrs project!
 
 ---
-  
+
 ### Day 72: September 26, 2022 - Monday
 
 #### Todays's Progress
@@ -1580,9 +1584,9 @@ Correct way:
 #### Thoughts
 
 • Spent a little more time touching up all my social links and projects today. Really proud of how far I've come.
-  
+
 ---
-  
+
 ### Day 73: September 27, 2022 - Tuesday
 
 #### Todays's Progress
@@ -1594,14 +1598,15 @@ Correct way:
 #### Thoughts
 
 • 100Hours Project - design (TOTAL: 5hrs)
-  - build logo
-  - start designing the wireframe
-  - build dark mode
-  
-  * TOTAL HOURS: 5 *
+
+- build logo
+- start designing the wireframe
+- build dark mode
+
+* TOTAL HOURS: 5 \*
 
 ---
-  
+
 ### Day 74: September 28, 2022 - Wednesday
 
 #### Todays's Progress
@@ -1614,22 +1619,24 @@ Correct way:
 #### Thoughts
 
 • 100Hours Project - design (2hrs)
-  - redo footer
-  - finanilize the wireframe with client
-  
+
+- redo footer
+- finanilize the wireframe with client
+
 • 100Hours Project - code React components (TOTAL: 6hrs)
-  - Navbar (1.5hr)
-  - Hero (.5hr)
-  - Services (3hr)
-  
-  - Researching content/finding logos + responsiveness (2hrs)
-  
-  * TOTAL HOURS: 14 *
-  
+
+- Navbar (1.5hr)
+- Hero (.5hr)
+- Services (3hr)
+
+- Researching content/finding logos + responsiveness (2hrs)
+
+* TOTAL HOURS: 14 \*
+
 • Hot Soup Website has been redesigned so new tasks were assigned. Really excited to work on this!
 
 ---
-  
+
 ### Day 75: September 29, 2022 - Thursday
 
 #### Todays's Progress
@@ -1641,17 +1648,18 @@ Correct way:
 #### Thoughts
 
 • 100Hours Project - code React components (TOTAL: 8hrs)
-  - About (1hr)
-  - What To Expect (1hr)
-  - Testimonials (1hr)
-  - Add video to hero (1hr)
-  
-  - Researching content/finding logos + responsiveness (4hrs)
-  
-  * TOTAL HOURS: 22 *
-  
+
+- About (1hr)
+- What To Expect (1hr)
+- Testimonials (1hr)
+- Add video to hero (1hr)
+
+- Researching content/finding logos + responsiveness (4hrs)
+
+* TOTAL HOURS: 22 \*
+
 ---
-  
+
 ### Day 76: September 30, 2022 - Friday
 
 #### Todays's Progress
@@ -1664,18 +1672,19 @@ Correct way:
 #### Thoughts
 
 • 100Hours Project - code React components (TOTAL: 6hrs)
-  - Testimonials (2hr)
-  - Deals (10min)
-  - Footer (1hr)
-  
-  - Researching content/finding logos + responsiveness (2hrs)
-  
-  * TOTAL HOURS: 28 *
-  
-• Added about 3 more companies 
+
+- Testimonials (2hr)
+- Deals (10min)
+- Footer (1hr)
+
+- Researching content/finding logos + responsiveness (2hrs)
+
+* TOTAL HOURS: 28 \*
+
+• Added about 3 more companies
 
 ---
- 
+
 ### Day 77: October 1, 2022 - Saturday
 
 #### Todays's Progress
@@ -1686,7 +1695,7 @@ Correct way:
 
 #### Thoughts
 
-• Added about 5 more companies 
+• Added about 5 more companies
 
 ---
 
@@ -1704,7 +1713,7 @@ Correct way:
 • Added about 20 more companies. Decided that I'm going to start reviewing data structures and alogirithms and applying for jobs now due to the coffee chats I had. Everyone keeps telling me I'm ready and my resume looks great, I just need to believe in myself. That's the hardest part of it all with not completing my degree, it has definitely stopped me from believing in myself when I feel confident I'd succeed at the job. I know my work ethic, ability to collaborate with others and skills I have acquired make me more than qualified as a candidate. Any company would be lucky to have me because of how hard I will work for them. I just need to believe in myself and I'm starting to after those chats.
 
 ---
-  
+
 ### Day 79: October 3, 2022 - Monday
 
 #### Todays's Progress
@@ -1717,7 +1726,7 @@ Correct way:
 • Reached out to recruiters today to schedule calls. 2 planned for Friday, 3 on Monday. Polishing up my resume/portfolio/linkedin. Also listened to the fairyjobmother on 100devs stage. Perfect for preparing for the successful hunt!
 
 ---
-  
+
 ### Day 80: October 4, 2022 - Tuesday
 
 #### Todays's Progress
@@ -1730,7 +1739,7 @@ Correct way:
 • Feeling the stress, trying to work on meditation and reading to help with that but it's been difficult. Luckily a friend reached out offering to help me get 3 referrals from Microsoft, Amazon, VMWare and Okta so I'm getting everything sent over for that.
 
 ---
-  
+
 ### Day 81: October 5, 2022 - Wednesday
 
 #### Todays's Progress
@@ -1744,7 +1753,7 @@ Correct way:
 • Reached out to Mikail about the Park n Fly role. I decided not to go forward with it due to the pay not matching what I need. Great to know that I would be considered for the position though. Finished applying to the referred companies.
 
 ---
-  
+
 ### Day 82: October 6, 2022 - Thursday
 
 #### Todays's Progress
@@ -1756,10 +1765,10 @@ Correct way:
 
 #### Thoughts
 
-• The career fair wasn't geared towards tech roles, more so servers/manual labor/healthcare etc. I made a good connection with the BOA rep, Tamika who said she could connect me with someone if I found a job posting on their site that I was interested in. Unfortunately, most of the roles are Java based which isn't something I'm fond of. I know I could do it but I really want to be passionate about my job so it doesn't feel like work. Also encountered some incidents downtown that were very uncomfortable, came home and get a rejection email from VMWare which felt like an auto rejection so I felt discouraged and went on LinkedIn to start click applying. As I was scrolling through my newsfeed, I saw a recruiter post about a job so I decided to shoot my shot. He suprisingly responded immediately and I scheduled for time later that day. Although I was having the worst day and SO tired, that call went AMAZING! I feel really hopeful with it being a real estate + tech company and the connection I made with the recruiter. I just need to update my portfolio :)                                                                           
+• The career fair wasn't geared towards tech roles, more so servers/manual labor/healthcare etc. I made a good connection with the BOA rep, Tamika who said she could connect me with someone if I found a job posting on their site that I was interested in. Unfortunately, most of the roles are Java based which isn't something I'm fond of. I know I could do it but I really want to be passionate about my job so it doesn't feel like work. Also encountered some incidents downtown that were very uncomfortable, came home and get a rejection email from VMWare which felt like an auto rejection so I felt discouraged and went on LinkedIn to start click applying. As I was scrolling through my newsfeed, I saw a recruiter post about a job so I decided to shoot my shot. He suprisingly responded immediately and I scheduled for time later that day. Although I was having the worst day and SO tired, that call went AMAZING! I feel really hopeful with it being a real estate + tech company and the connection I made with the recruiter. I just need to update my portfolio :)
 
 ---
-  
+
 ### Day 83: October 7, 2022 - Friday
 
 #### Todays's Progress
@@ -1768,13 +1777,13 @@ Correct way:
 • Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
 • FanDuel @11:30AM<br>
 • Amazon @12PM<br>
-  
+
 #### Thoughts
 
 • Both calls went amazing. I would love to work at either companies. Fanduel suprised me with how many women are in leadership roles - I'm so excited for the hiring event. Amazon also suprised me with the internal support systems for women and Asians. Updated my portfolio with recent projects but I really want to rebuild it from scratch... Will see.
 
 ---
-  
+
 ### Day 84: October 8, 2022 - Saturday
 
 #### Todays's Progress
@@ -1788,7 +1797,7 @@ Correct way:
 • Have the wedding for Hoang + Michelle today.
 
 ---
-  
+
 ### Day 85: October 9, 2022 - Sunday
 
 #### Todays's Progress
@@ -1802,7 +1811,7 @@ Correct way:
 • Have the wedding for Tiffany + Diego today.
 
 ---
-  
+
 ### Day 86: October 10, 2022 - Monday
 
 #### Todays's Progress
@@ -1816,7 +1825,7 @@ Correct way:
 • Felt extremely sick today and had to reschedule the rest of my calls for today. Got through one though and she passed my resume to PlaySports which would be hybrid in Atlanta.
 
 ---
-  
+
 ### Day 87: October 11, 2022 - Tuesday
 
 #### Todays's Progress
@@ -1830,7 +1839,7 @@ Correct way:
 • Call went great! He said I would be a perfect fit for the senior frontend engineer role. Hybrid, 2 days remote with office being on 400. 90-110K
 
 ---
-  
+
 ### Day 88: October 12, 2022 - Wednesday
 
 #### Todays's Progress
@@ -1909,7 +1918,7 @@ Correct way:
 
 #### Thoughts
 
-• Applied to 8 more jobs today, love having huntr.co to track everything. 
+• Applied to 8 more jobs today, love having huntr.co to track everything.
 
 ---
 
@@ -1923,7 +1932,7 @@ Correct way:
 
 #### Thoughts
 
-• Finally updating my journal, NEED to update daily. I realize how off balance I feel when I don't I feel lost or like I didn't do much. I've actually been doing a LOT and somehow my social battery is still alive. 
+• Finally updating my journal, NEED to update daily. I realize how off balance I feel when I don't I feel lost or like I didn't do much. I've actually been doing a LOT and somehow my social battery is still alive.
 
 ---
 
@@ -1963,7 +1972,7 @@ Correct way:
 
 #### Thoughts
 
-• Worked on my portfolio - WE GOT THE NAVBAR WORKING AND LOOKING AMAZING. Very proud of it and it's freakin responsive with the hamburger menu. Was an absolute joy learning this bit, using framer motion for the beautiful animations and useState to click to open and click to close... SO COOL. I love React. The video I'm following along as a guide is using Sass so it's been a challenge converting to Tailwind and making sure it all still works but I have zero regrets using Tailwind. 
+• Worked on my portfolio - WE GOT THE NAVBAR WORKING AND LOOKING AMAZING. Very proud of it and it's freakin responsive with the hamburger menu. Was an absolute joy learning this bit, using framer motion for the beautiful animations and useState to click to open and click to close... SO COOL. I love React. The video I'm following along as a guide is using Sass so it's been a challenge converting to Tailwind and making sure it all still works but I have zero regrets using Tailwind.
 
 ---
 
@@ -1976,7 +1985,7 @@ Correct way:
 
 #### Thoughts
 
-• Worked on my portfolio - GORGEOUS header component and about section!!! So proud of myself. Header used lots of framer motion so I learned about variant, transition, whileInView. First time using this stuff so I'm stoked at how nice and clean it looks. Also learned how to create an object of all your images so you can call an array of the images to pass in and map to display. SOOOO COOOL!!! The about section was my first time connecting to Sanity to pass all that data in from the headless cms. First off, I didn't realize I have to use the same terminal that I installed Sanity on for it to work.. or maybe not but I haven't figured out how to do it otherwise. Also make sure the correct localhost is set up on Sanity. First time using useEffect to grab the data from Sanity and pass in to my component with it all styled the same. This stuff is again, SO COOL. 
+• Worked on my portfolio - GORGEOUS header component and about section!!! So proud of myself. Header used lots of framer motion so I learned about variant, transition, whileInView. First time using this stuff so I'm stoked at how nice and clean it looks. Also learned how to create an object of all your images so you can call an array of the images to pass in and map to display. SOOOO COOOL!!! The about section was my first time connecting to Sanity to pass all that data in from the headless cms. First off, I didn't realize I have to use the same terminal that I installed Sanity on for it to work.. or maybe not but I haven't figured out how to do it otherwise. Also make sure the correct localhost is set up on Sanity. First time using useEffect to grab the data from Sanity and pass in to my component with it all styled the same. This stuff is again, SO COOL.
 
 ---
 
@@ -1992,9 +2001,22 @@ Correct way:
 • Worked on my portfolio - FINALLY figured out the HOC so that when I scroll the page, it knows what section I'm on. Also figured out App Wrapper! So now my pages are wrapped with social media icons and the navigation dots so they always appear no matter what page I'm on. Also connected sanity client to my works component so I can add my works on sanity and have it automatically upload :) Still need to work on styling but I should be done with my brand new portfolio by tomorrow - DAY 100 WOOOHHOOOOO!!!
 
 ---
-<!-- TEMPLATE
 
 ### Day 100: October 24, 2022 - Monday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Finish portfolio - https://jasminesvisionary.com<br>
+
+#### Thoughts
+
+• WOOO! Super happy with how it turned out and really proud of myself. Of course I ran into issues with deployment since the folder structure was split between frontend and backend, automatic deployment from Github importing wouldn't work. I had to manually drop my build folder into Netlify
+
+---
+
+### Day 101: October 25, 2022 - Tuesday
 
 #### Todays's Progress
 
@@ -2003,9 +2025,111 @@ Correct way:
 
 #### Thoughts
 
-• 
+• Overwhelmed with the responses I'm getting from LinkedIn on my portfolio.
 
 ---
+
+### Day 102: October 26, 2022 - Wednesday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+
+#### Thoughts
+
+• HotSoup - got assigned to redesign the temporary page so I'm pretty stoked about that! Also had a website team meeting with new tasks assigned
+
+---
+
+### Day 103: October 27, 2022 - Thursday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+
+#### Thoughts
+
+• HotSoup - finished the mockup of the site, started coding it while walking through and explaining the setup/React with Zira.
+
+---
+
+### Day 104: October 28, 2022 - Friday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+
+#### Thoughts
+
+• HotSoup - submit a PR! The site looks exactly like the mockup except I ran into issues with responsiveness.
+
+---
+
+### Day 105: October 29, 2022 - Saturday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+
+#### Thoughts
+
+• HotSoup - copied over my code to the new repo, helping Saira understand the project and dsign the modal
+
+---
+
+### Day 106: October 30, 2022 - Sunday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+
+#### Thoughts
+
+• Not much happened today other than responding to LinkedIn messages, comments
+
+---
+
+### Day 107: October 31, 2022 - Monday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+
+#### Thoughts
+
+• Again, not much.
+
+---
+
+### Day 108: November 1, 2022 - Tuesday
+
+#### Todays's Progress
+
+• Daily BANKI<br>
+• Do 2 problems of [8Kyu Fundamentals Track](https://github.com/jasminepvo/codewars)<br>
+• Apply to 2 jobs - Songoma, <br>
+
+#### Thoughts
+
+• I can't believe it's already November. It feels like time has flown by the past couple of months. Definitely feeling the pressure with my goal date coming up in 23 days now but obviously trying not to stress and panic. Came up with a new game plan / goal for the next 2 weeks.
+
+- network w 5 software engineers a day, goal is 2 coffee chats a week
+- apply to 2 jobs a day
+- follow up weekly w roles I applied to
+- continue to master react and finish the scrimba course
+- learn typescript (shouldn’t be too difficult since it’s basically just a more advanced and professional version of JavaScript
+- continue 100hrs project aka backend of ChiroCMS
+
+---
+
+<!-- TEMPLATE
+
 
 • Watch [JavaScript Crash Course](https://youtu.be/1sRJYuaqoiI) 2/6hr<br>
 • Make your own API and push to Heroku []()<br>
